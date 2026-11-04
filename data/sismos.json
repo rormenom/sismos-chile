@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T23:50:24.830155Z",
+ "actualizado": "2026-11-04T23:55:21.689333Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -14,11 +14,29 @@
    "n": 5
   },
   "EMSC": {
-   "ok": false,
-   "error": "<urlopen error [Errno -2] Name or service not known>"
+   "ok": true,
+   "n": 359
   }
  },
  "eventos": [
+  {
+   "id": "20261104224411_-25.99_-66.76",
+   "tiempo": "2026-11-04T22:44:11Z",
+   "lat": -25.993,
+   "lon": -66.757,
+   "prof": 15.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 15.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261104215335_-21.91_-68.62",
    "tiempo": "2026-11-04T21:53:35Z",
@@ -34,6 +52,12 @@
      "tipo": "Mlv",
      "prof": 109.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390862.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 108.9,
+     "url": null
     }
    }
   },
@@ -52,6 +76,12 @@
      "tipo": "Mlv",
      "prof": 87.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390859.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 87.3,
+     "url": null
     }
    }
   },
@@ -70,6 +100,12 @@
      "tipo": "Mlv",
      "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390857.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 122.5,
+     "url": null
     }
    }
   },
@@ -88,6 +124,30 @@
      "tipo": "Mlv",
      "prof": 46.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390852.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 45.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104202622_-28.72_-68.63",
+   "tiempo": "2026-11-04T20:26:22Z",
+   "lat": -28.724,
+   "lon": -68.631,
+   "prof": 15.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 15.0,
+     "url": null
     }
    }
   },
@@ -106,6 +166,12 @@
      "tipo": "Mlv",
      "prof": 68.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390834.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 68.0,
+     "url": null
     }
    }
   },
@@ -124,6 +190,12 @@
      "tipo": "Mlv",
      "prof": 248.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390828.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 247.9,
+     "url": null
     }
    }
   },
@@ -142,6 +214,48 @@
      "tipo": "Mlv",
      "prof": 116.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390824.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 116.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104172319_-28.73_-68.69",
+   "tiempo": "2026-11-04T17:23:19Z",
+   "lat": -28.73,
+   "lon": -68.69,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104171437_-31.22_-68.45",
+   "tiempo": "2026-11-04T17:14:37Z",
+   "lat": -31.222,
+   "lon": -68.455,
+   "prof": 104.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.1,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "m",
+     "prof": 104.0,
+     "url": null
     }
    }
   },
@@ -160,6 +274,84 @@
      "tipo": "Mlv",
      "prof": 72.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390814.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 72.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104171045_-28.72_-68.67",
+   "tiempo": "2026-11-04T17:10:45Z",
+   "lat": -28.717,
+   "lon": -68.667,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104165334_-28.33_-69.35",
+   "tiempo": "2026-11-04T16:53:34Z",
+   "lat": -28.332,
+   "lon": -69.35,
+   "prof": 123.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 123.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104162302_-31.67_-68.67",
+   "tiempo": "2026-11-04T16:23:02Z",
+   "lat": -31.668,
+   "lon": -68.669,
+   "prof": 105.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 105.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104161922_-28.71_-68.58",
+   "tiempo": "2026-11-04T16:19:22Z",
+   "lat": -28.71,
+   "lon": -68.58,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -178,6 +370,12 @@
      "tipo": "Mlv",
      "prof": 149.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390807.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 148.7,
+     "url": null
     }
    }
   },
@@ -189,13 +387,19 @@
    "prof": 139.0,
    "lugar": "65 km al NE de Los Andes",
    "ref": "CSN",
-   "mag_max": 2.6,
+   "mag_max": 2.7,
    "agencias": {
     "CSN": {
      "mag": 2.6,
      "tipo": "Mlv",
      "prof": 139.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390805.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 139.1,
+     "url": null
     }
    }
   },
@@ -214,6 +418,12 @@
      "tipo": "Mlv",
      "prof": 250.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390802.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 249.9,
+     "url": null
     }
    }
   },
@@ -232,6 +442,12 @@
      "tipo": "Mlv",
      "prof": 86.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390801.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 85.8,
+     "url": null
     }
    }
   },
@@ -250,6 +466,30 @@
      "tipo": "Mlv",
      "prof": 50.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390798.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 50.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104134021_-31.54_-68.95",
+   "tiempo": "2026-11-04T13:40:21Z",
+   "lat": -31.535,
+   "lon": -68.947,
+   "prof": 113.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 113.0,
+     "url": null
     }
    }
   },
@@ -268,6 +508,12 @@
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390793.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 114.7,
+     "url": null
     }
    }
   },
@@ -286,6 +532,12 @@
      "tipo": "Mlv",
      "prof": 146.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390790.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 146.2,
+     "url": null
     }
    }
   },
@@ -304,6 +556,12 @@
      "tipo": "Mlv",
      "prof": 119.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390784.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 119.2,
+     "url": null
     }
    }
   },
@@ -322,6 +580,48 @@
      "tipo": "Mlv",
      "prof": 121.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390783.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 121.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104103820_-19.54_-67.45",
+   "tiempo": "2026-11-04T10:38:20Z",
+   "lat": -19.537,
+   "lon": -67.453,
+   "prof": 241.0,
+   "lugar": "ORURO, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "m",
+     "prof": 241.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104093727_-38.28_-68.78",
+   "tiempo": "2026-11-04T09:37:27Z",
+   "lat": -38.282,
+   "lon": -68.776,
+   "prof": 11.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.3,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "m",
+     "prof": 11.0,
+     "url": null
     }
    }
   },
@@ -340,6 +640,12 @@
      "tipo": "Mlv",
      "prof": 16.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390771.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 16.0,
+     "url": null
     }
    }
   },
@@ -358,6 +664,12 @@
      "tipo": "Mlv",
      "prof": 307.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390769.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 307.4,
+     "url": null
     }
    }
   },
@@ -376,6 +688,12 @@
      "tipo": "Mlv",
      "prof": 113.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390758.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 112.6,
+     "url": null
     }
    }
   },
@@ -394,6 +712,30 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390754.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 29.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104055603_-31.15_-68.65",
+   "tiempo": "2026-11-04T05:56:03Z",
+   "lat": -31.146,
+   "lon": -68.646,
+   "prof": 101.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 101.0,
+     "url": null
     }
    }
   },
@@ -412,6 +754,12 @@
      "tipo": "Mlv",
      "prof": 233.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390744.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 232.7,
+     "url": null
     }
    }
   },
@@ -430,6 +778,12 @@
      "tipo": "Mlv",
      "prof": 62.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390743.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 62.1,
+     "url": null
     }
    }
   },
@@ -448,6 +802,12 @@
      "tipo": "Mlv",
      "prof": 127.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390739.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 127.3,
+     "url": null
     }
    }
   },
@@ -466,6 +826,30 @@
      "tipo": "Mlv",
      "prof": 8.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390738.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 8.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104044116_-31.33_-68.56",
+   "tiempo": "2026-11-04T04:41:16Z",
+   "lat": -31.33,
+   "lon": -68.556,
+   "prof": 105.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 105.0,
+     "url": null
     }
    }
   },
@@ -484,6 +868,12 @@
      "tipo": "Mlv",
      "prof": 102.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390734.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 101.8,
+     "url": null
     }
    }
   },
@@ -502,6 +892,12 @@
      "tipo": "Mlv",
      "prof": 67.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390732.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 66.6,
+     "url": null
     }
    }
   },
@@ -520,6 +916,12 @@
      "tipo": "Mlv",
      "prof": 41.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390728.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 41.2,
+     "url": null
     }
    }
   },
@@ -538,6 +940,48 @@
      "tipo": "Mlv",
      "prof": 131.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390710.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 131.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103224805_-29.27_-67.53",
+   "tiempo": "2026-11-03T22:48:05Z",
+   "lat": -29.266,
+   "lon": -67.534,
+   "prof": 122.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 122.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103220651_-29.19_-68.01",
+   "tiempo": "2026-11-03T22:06:51Z",
+   "lat": -29.19,
+   "lon": -68.01,
+   "prof": 99.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "m",
+     "prof": 99.0,
+     "url": null
     }
    }
   },
@@ -556,6 +1000,12 @@
      "tipo": "Mlv",
      "prof": 131.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390702.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 131.3,
+     "url": null
     }
    }
   },
@@ -574,6 +1024,12 @@
      "tipo": "Mlv",
      "prof": 103.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390701.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 103.1,
+     "url": null
     }
    }
   },
@@ -592,6 +1048,30 @@
      "tipo": "Mlv",
      "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390695.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 122.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103190641_-31.17_-68.99",
+   "tiempo": "2026-11-03T19:06:41Z",
+   "lat": -31.17,
+   "lon": -68.99,
+   "prof": 66.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 66.0,
+     "url": null
     }
    }
   },
@@ -610,6 +1090,12 @@
      "tipo": "Mlv",
      "prof": 133.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390684.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 133.5,
+     "url": null
     }
    }
   },
@@ -628,6 +1114,12 @@
      "tipo": "Mlv",
      "prof": 174.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390678.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 173.6,
+     "url": null
     }
    }
   },
@@ -646,6 +1138,12 @@
      "tipo": "Mlv",
      "prof": 96.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390672.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 96.0,
+     "url": null
     }
    }
   },
@@ -664,6 +1162,30 @@
      "tipo": "Mlv",
      "prof": 124.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390673.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 124.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103172902_-31.39_-69.24",
+   "tiempo": "2026-11-03T17:29:02Z",
+   "lat": -31.394,
+   "lon": -69.239,
+   "prof": 107.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 107.0,
+     "url": null
     }
    }
   },
@@ -682,6 +1204,12 @@
      "tipo": "Mlv",
      "prof": 254.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390650.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 254.5,
+     "url": null
     }
    }
   },
@@ -700,6 +1228,12 @@
      "tipo": "Mlv",
      "prof": 173.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390649.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 172.9,
+     "url": null
     }
    }
   },
@@ -718,6 +1252,30 @@
      "tipo": "Mlv",
      "prof": 112.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390645.html"
+    },
+    "EMSC": {
+     "mag": 4.0,
+     "tipo": "ml",
+     "prof": 111.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103144929_-37.47_-69.34",
+   "tiempo": "2026-11-03T14:49:29Z",
+   "lat": -37.467,
+   "lon": -69.341,
+   "prof": 6.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 6.0,
+     "url": null
     }
    }
   },
@@ -748,6 +1306,12 @@
      "tipo": "ML",
      "prof": 135.9,
      "url": null
+    },
+    "EMSC": {
+     "mag": 4.1,
+     "tipo": "mb",
+     "prof": 123.0,
+     "url": null
     }
    }
   },
@@ -766,6 +1330,12 @@
      "tipo": "Mlv",
      "prof": 62.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390631.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 61.7,
+     "url": null
     }
    }
   },
@@ -784,6 +1354,12 @@
      "tipo": "Mlv",
      "prof": 44.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390628.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 44.0,
+     "url": null
     }
    }
   },
@@ -802,6 +1378,12 @@
      "tipo": "Mlv",
      "prof": 74.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390622.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 73.6,
+     "url": null
     }
    }
   },
@@ -820,6 +1402,12 @@
      "tipo": "Mlv",
      "prof": 42.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390619.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 42.0,
+     "url": null
     }
    }
   },
@@ -838,6 +1426,12 @@
      "tipo": "Mlv",
      "prof": 29.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390613.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 28.8,
+     "url": null
     }
    }
   },
@@ -856,6 +1450,12 @@
      "tipo": "Mlv",
      "prof": 57.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390609.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 57.0,
+     "url": null
     }
    }
   },
@@ -874,6 +1474,12 @@
      "tipo": "Mlv",
      "prof": 140.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390608.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 140.0,
+     "url": null
     }
    }
   },
@@ -892,6 +1498,12 @@
      "tipo": "Mlv",
      "prof": 113.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390607.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 112.9,
+     "url": null
     }
    }
   },
@@ -910,6 +1522,12 @@
      "tipo": "Mlv",
      "prof": 225.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390603.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 225.3,
+     "url": null
     }
    }
   },
@@ -928,6 +1546,30 @@
      "tipo": "Mlv",
      "prof": 229.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390598.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 229.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103072836_-28.74_-68.89",
+   "tiempo": "2026-11-03T07:28:36Z",
+   "lat": -28.74,
+   "lon": -68.89,
+   "prof": 99.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 99.0,
+     "url": null
     }
    }
   },
@@ -946,6 +1588,30 @@
      "tipo": "Mlv",
      "prof": 19.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390586.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 18.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103061007_-28.99_-67.38",
+   "tiempo": "2026-11-03T06:10:07Z",
+   "lat": -28.99,
+   "lon": -67.38,
+   "prof": 132.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "m",
+     "prof": 132.0,
+     "url": null
     }
    }
   },
@@ -964,6 +1630,12 @@
      "tipo": "Mlv",
      "prof": 198.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390574.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 197.9,
+     "url": null
     }
    }
   },
@@ -982,6 +1654,12 @@
      "tipo": "Mlv",
      "prof": 168.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390572.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 167.7,
+     "url": null
     }
    }
   },
@@ -1000,6 +1678,12 @@
      "tipo": "Mlv",
      "prof": 34.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390570.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 33.6,
+     "url": null
     }
    }
   },
@@ -1018,6 +1702,12 @@
      "tipo": "Mlv",
      "prof": 163.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390568.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 162.9,
+     "url": null
     }
    }
   },
@@ -1036,6 +1726,12 @@
      "tipo": "Mlv",
      "prof": 35.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390565.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 35.2,
+     "url": null
     }
    }
   },
@@ -1054,6 +1750,12 @@
      "tipo": "Mlv",
      "prof": 237.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390562.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 236.8,
+     "url": null
     }
    }
   },
@@ -1072,6 +1774,12 @@
      "tipo": "Mlv",
      "prof": 160.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390561.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 160.2,
+     "url": null
     }
    }
   },
@@ -1090,6 +1798,12 @@
      "tipo": "Mlv",
      "prof": 133.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390559.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 133.1,
+     "url": null
     }
    }
   },
@@ -1108,6 +1822,12 @@
      "tipo": "Mlv",
      "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390557.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 24.1,
+     "url": null
     }
    }
   },
@@ -1126,6 +1846,12 @@
      "tipo": "Ml",
      "prof": 20.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390555.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 20.0,
+     "url": null
     }
    }
   },
@@ -1144,6 +1870,12 @@
      "tipo": "Mlv",
      "prof": 31.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390550.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 31.5,
+     "url": null
     }
    }
   },
@@ -1162,6 +1894,12 @@
      "tipo": "Mlv",
      "prof": 43.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390548.html"
+    },
+    "EMSC": {
+     "mag": 4.4,
+     "tipo": "ml",
+     "prof": 42.7,
+     "url": null
     }
    }
   },
@@ -1180,6 +1918,12 @@
      "tipo": "Mlv",
      "prof": 208.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390546.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 208.4,
+     "url": null
     }
    }
   },
@@ -1210,6 +1954,12 @@
      "tipo": "Mw",
      "prof": 98.7,
      "url": null
+    },
+    "EMSC": {
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 98.7,
+     "url": null
     }
    }
   },
@@ -1228,6 +1978,12 @@
      "tipo": "Mlv",
      "prof": 197.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390541.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 197.2,
+     "url": null
     }
    }
   },
@@ -1246,6 +2002,30 @@
      "tipo": "Mlv",
      "prof": 74.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390540.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 73.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103010837_-28.81_-67.39",
+   "tiempo": "2026-11-03T01:08:37Z",
+   "lat": -28.81,
+   "lon": -67.39,
+   "prof": 114.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 114.0,
+     "url": null
     }
    }
   },
@@ -1264,6 +2044,12 @@
      "tipo": "Mlv",
      "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390535.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 122.5,
+     "url": null
     }
    }
   },
@@ -1282,6 +2068,30 @@
      "tipo": "Mlv",
      "prof": 219.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390534.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 219.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261103000934_-31.29_-68.74",
+   "tiempo": "2026-11-03T00:09:34Z",
+   "lat": -31.29,
+   "lon": -68.74,
+   "prof": 110.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 110.0,
+     "url": null
     }
    }
   },
@@ -1300,6 +2110,30 @@
      "tipo": "Mlv",
      "prof": 132.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390528.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 132.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102232843_-31.39_-68.63",
+   "tiempo": "2026-11-02T23:28:43Z",
+   "lat": -31.386,
+   "lon": -68.626,
+   "prof": 106.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 106.0,
+     "url": null
     }
    }
   },
@@ -1318,6 +2152,12 @@
      "tipo": "Mlv",
      "prof": 133.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390511.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 133.0,
+     "url": null
     }
    }
   },
@@ -1336,6 +2176,12 @@
      "tipo": "Mlv",
      "prof": 200.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390510.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 200.3,
+     "url": null
     }
    }
   },
@@ -1354,6 +2200,30 @@
      "tipo": "Mlv",
      "prof": 112.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390508.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 112.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102203958_-31.81_-68.01",
+   "tiempo": "2026-11-02T20:39:58Z",
+   "lat": -31.81,
+   "lon": -68.007,
+   "prof": 7.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 7.0,
+     "url": null
     }
    }
   },
@@ -1372,6 +2242,12 @@
      "tipo": "Mlv",
      "prof": 245.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390502.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 245.4,
+     "url": null
     }
    }
   },
@@ -1390,6 +2266,12 @@
      "tipo": "Mlv",
      "prof": 49.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390500.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 49.5,
+     "url": null
     }
    }
   },
@@ -1408,6 +2290,30 @@
      "tipo": "Mlv",
      "prof": 126.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390495.html"
+    },
+    "EMSC": {
+     "mag": 4.1,
+     "tipo": "ml",
+     "prof": 125.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102183326_-27.80_-67.10",
+   "tiempo": "2026-11-02T18:33:26Z",
+   "lat": -27.8,
+   "lon": -67.1,
+   "prof": 161.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 161.0,
+     "url": null
     }
    }
   },
@@ -1426,6 +2332,12 @@
      "tipo": "Mlv",
      "prof": 125.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390482.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 125.1,
+     "url": null
     }
    }
   },
@@ -1444,6 +2356,30 @@
      "tipo": "Mlv",
      "prof": 56.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390478.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 55.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102172455_-34.82_-69.49",
+   "tiempo": "2026-11-02T17:24:55Z",
+   "lat": -34.82,
+   "lon": -69.49,
+   "prof": 10.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -1462,6 +2398,12 @@
      "tipo": "Mlv",
      "prof": 241.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390470.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 240.6,
+     "url": null
     }
    }
   },
@@ -1480,6 +2422,12 @@
      "tipo": "Mlv",
      "prof": 104.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390466.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 104.1,
+     "url": null
     }
    }
   },
@@ -1498,6 +2446,12 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390464.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 30.3,
+     "url": null
     }
    }
   },
@@ -1516,6 +2470,12 @@
      "tipo": "Mlv",
      "prof": 79.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390462.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 78.6,
+     "url": null
     }
    }
   },
@@ -1534,6 +2494,48 @@
      "tipo": "Mlv",
      "prof": 119.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390460.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 119.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102154814_-21.51_-66.86",
+   "tiempo": "2026-11-02T15:48:14Z",
+   "lat": -21.507,
+   "lon": -66.862,
+   "prof": 188.5,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "m",
+     "prof": 188.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102151958_-31.46_-68.77",
+   "tiempo": "2026-11-02T15:19:58Z",
+   "lat": -31.46,
+   "lon": -68.77,
+   "prof": 92.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 92.0,
+     "url": null
     }
    }
   },
@@ -1552,6 +2554,12 @@
      "tipo": "Mlv",
      "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390445.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 122.2,
+     "url": null
     }
    }
   },
@@ -1570,6 +2578,12 @@
      "tipo": "Mlv",
      "prof": 133.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390443.html"
+    },
+    "EMSC": {
+     "mag": 4.0,
+     "tipo": "ml",
+     "prof": 132.6,
+     "url": null
     }
    }
   },
@@ -1588,6 +2602,12 @@
      "tipo": "Mlv",
      "prof": 44.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390440.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 44.2,
+     "url": null
     }
    }
   },
@@ -1599,13 +2619,19 @@
    "prof": 111.0,
    "lugar": "54 km al SE de Mina Los Pelambres",
    "ref": "CSN",
-   "mag_max": 2.9,
+   "mag_max": 3.2,
    "agencias": {
     "CSN": {
      "mag": 2.9,
      "tipo": "Mlv",
      "prof": 111.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390438.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 110.8,
+     "url": null
     }
    }
   },
@@ -1624,6 +2650,12 @@
      "tipo": "Mlv",
      "prof": 26.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390435.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 26.2,
+     "url": null
     }
    }
   },
@@ -1642,6 +2674,12 @@
      "tipo": "Mlv",
      "prof": 52.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390433.html"
+    },
+    "EMSC": {
+     "mag": 4.1,
+     "tipo": "ml",
+     "prof": 52.4,
+     "url": null
     }
    }
   },
@@ -1660,6 +2698,48 @@
      "tipo": "Mlv",
      "prof": 108.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390430.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 107.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102124027_-31.25_-68.31",
+   "tiempo": "2026-11-02T12:40:27Z",
+   "lat": -31.253,
+   "lon": -68.306,
+   "prof": 100.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 100.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261102121017_-31.15_-68.39",
+   "tiempo": "2026-11-02T12:10:17Z",
+   "lat": -31.148,
+   "lon": -68.386,
+   "prof": 104.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 104.0,
+     "url": null
     }
    }
   },
@@ -1678,6 +2758,12 @@
      "tipo": "Mlv",
      "prof": 23.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390414.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 23.1,
+     "url": null
     }
    }
   },
@@ -1696,6 +2782,12 @@
      "tipo": "Mlv",
      "prof": 177.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390408.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 176.5,
+     "url": null
     }
    }
   },
@@ -1714,6 +2806,12 @@
      "tipo": "Mlv",
      "prof": 121.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390404.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 121.5,
+     "url": null
     }
    }
   },
@@ -1732,6 +2830,12 @@
      "tipo": "Mlv",
      "prof": 102.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390402.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 102.2,
+     "url": null
     }
    }
   },
@@ -1750,6 +2854,12 @@
      "tipo": "Mlv",
      "prof": 94.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390401.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 93.8,
+     "url": null
     }
    }
   },
@@ -1768,6 +2878,12 @@
      "tipo": "Mlv",
      "prof": 209.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390399.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 209.3,
+     "url": null
     }
    }
   },
@@ -1786,6 +2902,12 @@
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390394.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 115.3,
+     "url": null
     }
    }
   },
@@ -1804,6 +2926,12 @@
      "tipo": "Mlv",
      "prof": 40.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390393.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 40.0,
+     "url": null
     }
    }
   },
@@ -1822,6 +2950,12 @@
      "tipo": "Mlv",
      "prof": 47.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390391.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 47.0,
+     "url": null
     }
    }
   },
@@ -1840,6 +2974,12 @@
      "tipo": "Mlv",
      "prof": 246.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390386.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 246.3,
+     "url": null
     }
    }
   },
@@ -1858,6 +2998,12 @@
      "tipo": "Mlv",
      "prof": 246.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390385.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 245.9,
+     "url": null
     }
    }
   },
@@ -1876,6 +3022,12 @@
      "tipo": "Mlv",
      "prof": 129.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390380.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 129.1,
+     "url": null
     }
    }
   },
@@ -1894,6 +3046,12 @@
      "tipo": "Mlv",
      "prof": 133.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390378.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 133.4,
+     "url": null
     }
    }
   },
@@ -1912,6 +3070,12 @@
      "tipo": "Mlv",
      "prof": 36.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390372.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 35.6,
+     "url": null
     }
    }
   },
@@ -1930,6 +3094,12 @@
      "tipo": "Mlv",
      "prof": 26.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390370.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 25.8,
+     "url": null
     }
    }
   },
@@ -1948,6 +3118,12 @@
      "tipo": "Mlv",
      "prof": 39.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390365.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 39.3,
+     "url": null
     }
    }
   },
@@ -1966,6 +3142,12 @@
      "tipo": "Mlv",
      "prof": 98.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390354.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 98.2,
+     "url": null
     }
    }
   },
@@ -1984,6 +3166,12 @@
      "tipo": "Mlv",
      "prof": 39.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390352.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 39.2,
+     "url": null
     }
    }
   },
@@ -2002,6 +3190,12 @@
      "tipo": "Mlv",
      "prof": 187.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390351.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 186.7,
+     "url": null
     }
    }
   },
@@ -2020,6 +3214,12 @@
      "tipo": "Mlv",
      "prof": 65.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390346.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 65.1,
+     "url": null
     }
    }
   },
@@ -2038,6 +3238,12 @@
      "tipo": "Mlv",
      "prof": 176.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390345.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 176.0,
+     "url": null
     }
    }
   },
@@ -2056,6 +3262,12 @@
      "tipo": "Mlv",
      "prof": 95.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390343.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 94.8,
+     "url": null
     }
    }
   },
@@ -2074,6 +3286,12 @@
      "tipo": "Mlv",
      "prof": 216.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390340.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 215.5,
+     "url": null
     }
    }
   },
@@ -2092,6 +3310,12 @@
      "tipo": "Mlv",
      "prof": 228.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390334.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 228.4,
+     "url": null
     }
    }
   },
@@ -2110,6 +3334,12 @@
      "tipo": "Mlv",
      "prof": 211.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390332.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 211.3,
+     "url": null
     }
    }
   },
@@ -2128,6 +3358,12 @@
      "tipo": "Mlv",
      "prof": 234.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390331.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "m",
+     "prof": 233.7,
+     "url": null
     }
    }
   },
@@ -2158,6 +3394,12 @@
      "tipo": "mb",
      "prof": 241.0,
      "url": null
+    },
+    "EMSC": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 251.0,
+     "url": null
     }
    }
   },
@@ -2176,6 +3418,30 @@
      "tipo": "Mlv",
      "prof": 117.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390327.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 117.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261101220821_-31.50_-68.58",
+   "tiempo": "2026-11-01T22:08:21Z",
+   "lat": -31.5,
+   "lon": -68.58,
+   "prof": 115.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 115.0,
+     "url": null
     }
    }
   },
@@ -2194,6 +3460,12 @@
      "tipo": "Mlv",
      "prof": 118.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390319.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 118.2,
+     "url": null
     }
    }
   },
@@ -2212,6 +3484,12 @@
      "tipo": "Mlv",
      "prof": 191.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390317.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 190.7,
+     "url": null
     }
    }
   },
@@ -2230,6 +3508,12 @@
      "tipo": "Mlv",
      "prof": 135.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390316.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 134.6,
+     "url": null
     }
    }
   },
@@ -2248,6 +3532,12 @@
      "tipo": "Mlv",
      "prof": 45.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390315.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 45.1,
+     "url": null
     }
    }
   },
@@ -2266,6 +3556,12 @@
      "tipo": "Mlv",
      "prof": 137.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390313.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 136.5,
+     "url": null
     }
    }
   },
@@ -2277,13 +3573,19 @@
    "prof": 264.0,
    "lugar": "116 km al NE de Socaire",
    "ref": "CSN",
-   "mag_max": 3.4,
+   "mag_max": 3.5,
    "agencias": {
     "CSN": {
      "mag": 3.4,
      "tipo": "Mlv",
      "prof": 264.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390307.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "m",
+     "prof": 264.1,
+     "url": null
     }
    }
   },
@@ -2302,6 +3604,12 @@
      "tipo": "Mlv",
      "prof": 34.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390305.html"
+    },
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "ml",
+     "prof": 34.5,
+     "url": null
     }
    }
   },
@@ -2320,6 +3628,30 @@
      "tipo": "Mlv",
      "prof": 41.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390299.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 41.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261101192843_-31.86_-68.94",
+   "tiempo": "2026-11-01T19:28:43Z",
+   "lat": -31.86,
+   "lon": -68.941,
+   "prof": 103.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 103.0,
+     "url": null
     }
    }
   },
@@ -2344,6 +3676,12 @@
      "tipo": "mb",
      "prof": 117.203,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqw"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 116.1,
+     "url": null
     }
    }
   },
@@ -2362,6 +3700,12 @@
      "tipo": "Mlv",
      "prof": 103.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390290.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 103.1,
+     "url": null
     }
    }
   },
@@ -2380,6 +3724,12 @@
      "tipo": "Mlv",
      "prof": 144.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390288.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 144.3,
+     "url": null
     }
    }
   },
@@ -2398,6 +3748,12 @@
      "tipo": "Mlv",
      "prof": 223.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390284.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 222.7,
+     "url": null
     }
    }
   },
@@ -2416,6 +3772,12 @@
      "tipo": "Mlv",
      "prof": 104.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390279.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 103.7,
+     "url": null
     }
    }
   },
@@ -2434,6 +3796,12 @@
      "tipo": "Mlv",
      "prof": 80.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390277.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 80.0,
+     "url": null
     }
    }
   },
@@ -2452,6 +3820,12 @@
      "tipo": "Mlv",
      "prof": 208.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390275.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 208.0,
+     "url": null
     }
    }
   },
@@ -2470,6 +3844,12 @@
      "tipo": "Mlv",
      "prof": 114.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390272.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 114.1,
+     "url": null
     }
    }
   },
@@ -2488,6 +3868,30 @@
      "tipo": "Mlv",
      "prof": 139.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390271.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 139.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261101160000_-31.22_-68.38",
+   "tiempo": "2026-11-01T16:00:00Z",
+   "lat": -31.221,
+   "lon": -68.383,
+   "prof": 104.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 104.0,
+     "url": null
     }
    }
   },
@@ -2506,6 +3910,12 @@
      "tipo": "Mlv",
      "prof": 23.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390267.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 23.2,
+     "url": null
     }
    }
   },
@@ -2524,6 +3934,12 @@
      "tipo": "Mlv",
      "prof": 99.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390257.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 99.5,
+     "url": null
     }
    }
   },
@@ -2542,6 +3958,12 @@
      "tipo": "Mlv",
      "prof": 293.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390253.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 293.0,
+     "url": null
     }
    }
   },
@@ -2560,6 +3982,12 @@
      "tipo": "Mlv",
      "prof": 48.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390247.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 48.2,
+     "url": null
     }
    }
   },
@@ -2578,6 +4006,12 @@
      "tipo": "Mlv",
      "prof": 137.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390242.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 136.7,
+     "url": null
     }
    }
   },
@@ -2596,6 +4030,30 @@
      "tipo": "Mlv",
      "prof": 28.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390237.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 28.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261101113118_-31.27_-67.32",
+   "tiempo": "2026-11-01T11:31:18Z",
+   "lat": -31.27,
+   "lon": -67.32,
+   "prof": 83.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 83.0,
+     "url": null
     }
    }
   },
@@ -2614,6 +4072,12 @@
      "tipo": "Mlv",
      "prof": 132.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390234.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 132.4,
+     "url": null
     }
    }
   },
@@ -2632,6 +4096,12 @@
      "tipo": "Mlv",
      "prof": 112.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390232.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 112.4,
+     "url": null
     }
    }
   },
@@ -2650,6 +4120,12 @@
      "tipo": "Mlv",
      "prof": 145.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390231.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 145.3,
+     "url": null
     }
    }
   },
@@ -2668,6 +4144,12 @@
      "tipo": "Mlv",
      "prof": 200.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390228.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 200.4,
+     "url": null
     }
    }
   },
@@ -2686,6 +4168,12 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390227.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 30.3,
+     "url": null
     }
    }
   },
@@ -2704,6 +4192,12 @@
      "tipo": "Mlv",
      "prof": 231.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390222.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 231.2,
+     "url": null
     }
    }
   },
@@ -2722,6 +4216,12 @@
      "tipo": "Mlv",
      "prof": 49.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390218.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 49.3,
+     "url": null
     }
    }
   },
@@ -2740,6 +4240,12 @@
      "tipo": "Mlv",
      "prof": 97.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390217.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 97.2,
+     "url": null
     }
    }
   },
@@ -2758,6 +4264,12 @@
      "tipo": "Mlv",
      "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390214.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 24.5,
+     "url": null
     }
    }
   },
@@ -2776,6 +4288,12 @@
      "tipo": "Mlv",
      "prof": 221.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390207.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 221.4,
+     "url": null
     }
    }
   },
@@ -2794,6 +4312,30 @@
      "tipo": "Mlv",
      "prof": 135.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390206.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 134.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261101061640_-31.15_-67.59",
+   "tiempo": "2026-11-01T06:16:40Z",
+   "lat": -31.15,
+   "lon": -67.59,
+   "prof": 84.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "m",
+     "prof": 84.0,
+     "url": null
     }
    }
   },
@@ -2812,6 +4354,12 @@
      "tipo": "Mlv",
      "prof": 85.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390205.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 84.5,
+     "url": null
     }
    }
   },
@@ -2830,6 +4378,12 @@
      "tipo": "Mlv",
      "prof": 138.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390204.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 137.7,
+     "url": null
     }
    }
   },
@@ -2854,6 +4408,12 @@
      "tipo": "Mw",
      "prof": 193.8,
      "url": null
+    },
+    "EMSC": {
+     "mag": 4.8,
+     "tipo": "mw",
+     "prof": 207.0,
+     "url": null
     }
    }
   },
@@ -2872,6 +4432,12 @@
      "tipo": "Mlv",
      "prof": 104.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390200.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 103.7,
+     "url": null
     }
    }
   },
@@ -2890,6 +4456,12 @@
      "tipo": "Mlv",
      "prof": 32.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390191.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 32.2,
+     "url": null
     }
    }
   },
@@ -2908,6 +4480,12 @@
      "tipo": "Mlv",
      "prof": 108.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390189.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 108.1,
+     "url": null
     }
    }
   },
@@ -2926,6 +4504,12 @@
      "tipo": "Mlv",
      "prof": 34.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390187.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 33.6,
+     "url": null
     }
    }
   },
@@ -2944,6 +4528,12 @@
      "tipo": "Mlv",
      "prof": 33.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390186.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 32.9,
+     "url": null
     }
    }
   },
@@ -2962,6 +4552,12 @@
      "tipo": "Mlv",
      "prof": 66.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390185.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 65.9,
+     "url": null
     }
    }
   },
@@ -2980,6 +4576,12 @@
      "tipo": "Mlv",
      "prof": 228.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390180.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 228.4,
+     "url": null
     }
    }
   },
@@ -2998,6 +4600,12 @@
      "tipo": "Mlv",
      "prof": 191.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390176.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 190.9,
+     "url": null
     }
    }
   },
@@ -3016,6 +4624,12 @@
      "tipo": "Mlv",
      "prof": 75.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390174.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 75.4,
+     "url": null
     }
    }
   },
@@ -3046,6 +4660,12 @@
      "tipo": "mb",
      "prof": 113.1,
      "url": null
+    },
+    "EMSC": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 123.0,
+     "url": null
     }
    }
   },
@@ -3064,6 +4684,12 @@
      "tipo": "Mlv",
      "prof": 52.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390168.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 51.9,
+     "url": null
     }
    }
   },
@@ -3082,6 +4708,12 @@
      "tipo": "Mlv",
      "prof": 202.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390167.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 202.1,
+     "url": null
     }
    }
   },
@@ -3100,6 +4732,12 @@
      "tipo": "Mlv",
      "prof": 125.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390166.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 124.8,
+     "url": null
     }
    }
   },
@@ -3118,6 +4756,12 @@
      "tipo": "Mlv",
      "prof": 117.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390165.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 116.7,
+     "url": null
     }
    }
   },
@@ -3136,6 +4780,12 @@
      "tipo": "Mlv",
      "prof": 87.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390164.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 86.8,
+     "url": null
     }
    }
   },
@@ -3154,6 +4804,12 @@
      "tipo": "Mlv",
      "prof": 125.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390161.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 125.0,
+     "url": null
     }
    }
   },
@@ -3172,6 +4828,12 @@
      "tipo": "Mlv",
      "prof": 61.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390158.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 61.3,
+     "url": null
     }
    }
   },
@@ -3190,6 +4852,12 @@
      "tipo": "Mlv",
      "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390155.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 122.0,
+     "url": null
     }
    }
   },
@@ -3208,6 +4876,12 @@
      "tipo": "Mlv",
      "prof": 84.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390154.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 83.7,
+     "url": null
     }
    }
   },
@@ -3226,6 +4900,12 @@
      "tipo": "Mlv",
      "prof": 207.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390147.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 207.2,
+     "url": null
     }
    }
   },
@@ -3244,6 +4924,30 @@
      "tipo": "Mlv",
      "prof": 33.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390146.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 33.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261031212008_-31.35_-68.57",
+   "tiempo": "2026-10-31T21:20:08Z",
+   "lat": -31.348,
+   "lon": -68.566,
+   "prof": 104.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 104.0,
+     "url": null
     }
    }
   },
@@ -3262,6 +4966,12 @@
      "tipo": "Mlv",
      "prof": 101.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390134.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 100.7,
+     "url": null
     }
    }
   },
@@ -3280,6 +4990,12 @@
      "tipo": "Mlv",
      "prof": 116.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390130.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 116.2,
+     "url": null
     }
    }
   },
@@ -3298,6 +5014,12 @@
      "tipo": "Mlv",
      "prof": 107.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390129.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 107.0,
+     "url": null
     }
    }
   },
@@ -3316,6 +5038,12 @@
      "tipo": "Mlv",
      "prof": 23.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390124.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 23.5,
+     "url": null
     }
    }
   },
@@ -3334,6 +5062,12 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390117.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 30.3,
+     "url": null
     }
    }
   },
@@ -3352,6 +5086,30 @@
      "tipo": "Mlv",
      "prof": 98.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390111.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 98.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261031173327_-31.80_-69.66",
+   "tiempo": "2026-10-31T17:33:27Z",
+   "lat": -31.8,
+   "lon": -69.66,
+   "prof": 132.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 132.0,
+     "url": null
     }
    }
   },
@@ -3370,6 +5128,12 @@
      "tipo": "Mlv",
      "prof": 89.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390104.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 89.5,
+     "url": null
     }
    }
   },
@@ -3388,6 +5152,12 @@
      "tipo": "Mlv",
      "prof": 69.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390102.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 69.2,
+     "url": null
     }
    }
   },
@@ -3406,6 +5176,12 @@
      "tipo": "Mlv",
      "prof": 224.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390091.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 224.1,
+     "url": null
     }
    }
   },
@@ -3424,6 +5200,12 @@
      "tipo": "Mlv",
      "prof": 149.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390089.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 148.7,
+     "url": null
     }
    }
   },
@@ -3442,6 +5224,12 @@
      "tipo": "Mlv",
      "prof": 192.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390083.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 191.7,
+     "url": null
     }
    }
   },
@@ -3460,6 +5248,12 @@
      "tipo": "Mlv",
      "prof": 148.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390079.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 148.1,
+     "url": null
     }
    }
   },
@@ -3478,6 +5272,12 @@
      "tipo": "Mlv",
      "prof": 36.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390078.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 36.4,
+     "url": null
     }
    }
   },
@@ -3496,6 +5296,12 @@
      "tipo": "Mlv",
      "prof": 130.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390075.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 130.3,
+     "url": null
     }
    }
   },
@@ -3514,6 +5320,30 @@
      "tipo": "Mlv",
      "prof": 114.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390070.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 114.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261031112555_-31.24_-68.28",
+   "tiempo": "2026-10-31T11:25:55Z",
+   "lat": -31.24,
+   "lon": -68.28,
+   "prof": 85.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "m",
+     "prof": 85.0,
+     "url": null
     }
    }
   },
@@ -3532,6 +5362,12 @@
      "tipo": "Mlv",
      "prof": 18.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390065.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 18.1,
+     "url": null
     }
    }
   },
@@ -3550,6 +5386,30 @@
      "tipo": "Mlv",
      "prof": 145.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390054.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 145.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261031081815_-33.03_-68.96",
+   "tiempo": "2026-10-31T08:18:15Z",
+   "lat": -33.03,
+   "lon": -68.96,
+   "prof": 10.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -3568,6 +5428,12 @@
      "tipo": "Mlv",
      "prof": 120.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390041.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 119.6,
+     "url": null
     }
    }
   },
@@ -3586,6 +5452,12 @@
      "tipo": "Mlv",
      "prof": 192.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390040.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 191.9,
+     "url": null
     }
    }
   },
@@ -3604,6 +5476,12 @@
      "tipo": "Mlv",
      "prof": 119.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390038.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 118.8,
+     "url": null
     }
    }
   },
@@ -3622,6 +5500,12 @@
      "tipo": "Mlv",
      "prof": 50.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390034.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 49.5,
+     "url": null
     }
    }
   },
@@ -3640,6 +5524,12 @@
      "tipo": "Mlv",
      "prof": 194.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390019.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 194.0,
+     "url": null
     }
    }
   },
@@ -3658,6 +5548,30 @@
      "tipo": "Mlv",
      "prof": 69.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390009.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 69.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261031023104_-38.28_-68.75",
+   "tiempo": "2026-10-31T02:31:04Z",
+   "lat": -38.285,
+   "lon": -68.748,
+   "prof": 5.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 5.0,
+     "url": null
     }
    }
   },
@@ -3676,6 +5590,12 @@
      "tipo": "Mlv",
      "prof": 134.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390000.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 133.9,
+     "url": null
     }
    }
   },
@@ -3694,6 +5614,12 @@
      "tipo": "Mlv",
      "prof": 96.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389998.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 96.0,
+     "url": null
     }
    }
   },
@@ -3712,6 +5638,12 @@
      "tipo": "Mlv",
      "prof": 28.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389996.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 27.7,
+     "url": null
     }
    }
   },
@@ -3730,6 +5662,12 @@
      "tipo": "Mlv",
      "prof": 62.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389986.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 61.6,
+     "url": null
     }
    }
   },
@@ -3748,6 +5686,30 @@
      "tipo": "Mlv",
      "prof": 95.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389989.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 94.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030235756_-31.87_-69.35",
+   "tiempo": "2026-10-30T23:57:56Z",
+   "lat": -31.873,
+   "lon": -69.354,
+   "prof": 109.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 109.0,
+     "url": null
     }
    }
   },
@@ -3766,6 +5728,30 @@
      "tipo": "Mlv",
      "prof": 45.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389979.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 45.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030230955_-32.62_-69.88",
+   "tiempo": "2026-10-30T23:09:55Z",
+   "lat": -32.62,
+   "lon": -69.88,
+   "prof": 140.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "m",
+     "prof": 140.0,
+     "url": null
     }
    }
   },
@@ -3784,6 +5770,12 @@
      "tipo": "Mlv",
      "prof": 51.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389975.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 50.6,
+     "url": null
     }
    }
   },
@@ -3802,6 +5794,12 @@
      "tipo": "Mlv",
      "prof": 102.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389973.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 102.2,
+     "url": null
     }
    }
   },
@@ -3820,6 +5818,12 @@
      "tipo": "Mlv",
      "prof": 85.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389959.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 85.3,
+     "url": null
     }
    }
   },
@@ -3844,6 +5848,12 @@
      "tipo": "mb",
      "prof": 84.622,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuep"
+    },
+    "EMSC": {
+     "mag": 4.1,
+     "tipo": "mb",
+     "prof": 24.7,
+     "url": null
     }
    }
   },
@@ -3862,6 +5872,30 @@
      "tipo": "Mlv",
      "prof": 125.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389953.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 124.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030200641_-25.86_-66.54",
+   "tiempo": "2026-10-30T20:06:41Z",
+   "lat": -25.86,
+   "lon": -66.54,
+   "prof": 10.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -3880,6 +5914,30 @@
      "tipo": "Mlv",
      "prof": 111.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389948.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 111.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030195650_-31.32_-68.54",
+   "tiempo": "2026-10-30T19:56:50Z",
+   "lat": -31.32,
+   "lon": -68.54,
+   "prof": 93.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 93.0,
+     "url": null
     }
    }
   },
@@ -3898,6 +5956,12 @@
      "tipo": "Mlv",
      "prof": 136.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389943.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 136.4,
+     "url": null
     }
    }
   },
@@ -3916,6 +5980,30 @@
      "tipo": "Mlv",
      "prof": 94.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389942.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 94.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030184329_-32.07_-69.95",
+   "tiempo": "2026-10-30T18:43:29Z",
+   "lat": -32.07,
+   "lon": -69.95,
+   "prof": 117.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 117.0,
+     "url": null
     }
    }
   },
@@ -3934,6 +6022,12 @@
      "tipo": "Mlv",
      "prof": 242.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389936.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 242.4,
+     "url": null
     }
    }
   },
@@ -3952,6 +6046,12 @@
      "tipo": "Mlv",
      "prof": 56.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389934.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 55.6,
+     "url": null
     }
    }
   },
@@ -3963,13 +6063,19 @@
    "prof": 151.0,
    "lugar": "31 km al NO de Putre",
    "ref": "CSN",
-   "mag_max": 3.6,
+   "mag_max": 3.8,
    "agencias": {
     "CSN": {
      "mag": 3.6,
      "tipo": "Mlv",
      "prof": 151.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389933.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "m",
+     "prof": 150.5,
+     "url": null
     }
    }
   },
@@ -3988,6 +6094,12 @@
      "tipo": "Mlv",
      "prof": 141.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389931.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 140.6,
+     "url": null
     }
    }
   },
@@ -4006,6 +6118,12 @@
      "tipo": "Mlv",
      "prof": 227.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389921.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 227.0,
+     "url": null
     }
    }
   },
@@ -4024,6 +6142,12 @@
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389915.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 114.9,
+     "url": null
     }
    }
   },
@@ -4042,6 +6166,12 @@
      "tipo": "Mlv",
      "prof": 106.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389907.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 105.7,
+     "url": null
     }
    }
   },
@@ -4060,6 +6190,12 @@
      "tipo": "Mlv",
      "prof": 289.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389905.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 289.2,
+     "url": null
     }
    }
   },
@@ -4078,6 +6214,12 @@
      "tipo": "Mlv",
      "prof": 113.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389902.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 112.9,
+     "url": null
     }
    }
   },
@@ -4096,6 +6238,12 @@
      "tipo": "Mlv",
      "prof": 237.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389898.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 237.3,
+     "url": null
     }
    }
   },
@@ -4114,6 +6262,12 @@
      "tipo": "Mlv",
      "prof": 31.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389897.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 30.8,
+     "url": null
     }
    }
   },
@@ -4132,6 +6286,12 @@
      "tipo": "Mlv",
      "prof": 98.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389895.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 98.2,
+     "url": null
     }
    }
   },
@@ -4150,6 +6310,12 @@
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389893.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 115.4,
+     "url": null
     }
    }
   },
@@ -4168,6 +6334,12 @@
      "tipo": "Mlv",
      "prof": 213.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389891.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 213.0,
+     "url": null
     }
    }
   },
@@ -4186,6 +6358,12 @@
      "tipo": "Mlv",
      "prof": 231.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389890.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 231.2,
+     "url": null
     }
    }
   },
@@ -4204,6 +6382,12 @@
      "tipo": "Mlv",
      "prof": 70.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389887.html"
+    },
+    "EMSC": {
+     "mag": 4.0,
+     "tipo": "ml",
+     "prof": 48.4,
+     "url": null
     }
    }
   },
@@ -4222,6 +6406,12 @@
      "tipo": "Mlv",
      "prof": 117.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389884.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 116.9,
+     "url": null
     }
    }
   },
@@ -4240,6 +6430,12 @@
      "tipo": "Mlv",
      "prof": 240.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389883.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 239.5,
+     "url": null
     }
    }
   },
@@ -4258,6 +6454,12 @@
      "tipo": "Mlv",
      "prof": 136.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389880.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 136.4,
+     "url": null
     }
    }
   },
@@ -4276,6 +6478,12 @@
      "tipo": "Mlv",
      "prof": 128.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389878.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 127.5,
+     "url": null
     }
    }
   },
@@ -4294,6 +6502,12 @@
      "tipo": "Mlv",
      "prof": 204.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389875.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 204.1,
+     "url": null
     }
    }
   },
@@ -4312,6 +6526,12 @@
      "tipo": "Mlv",
      "prof": 28.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389876.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 27.9,
+     "url": null
     }
    }
   },
@@ -4330,6 +6550,30 @@
      "tipo": "Mlv",
      "prof": 208.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389874.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 207.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030105644_-27.91_-66.88",
+   "tiempo": "2026-10-30T10:56:44Z",
+   "lat": -27.91,
+   "lon": -66.88,
+   "prof": 183.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 183.0,
+     "url": null
     }
    }
   },
@@ -4348,6 +6592,12 @@
      "tipo": "Mlv",
      "prof": 84.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389867.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 84.2,
+     "url": null
     }
    }
   },
@@ -4366,6 +6616,12 @@
      "tipo": "Mlv",
      "prof": 144.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389862.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 143.7,
+     "url": null
     }
    }
   },
@@ -4384,6 +6640,12 @@
      "tipo": "Mlv",
      "prof": 25.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389858.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 25.2,
+     "url": null
     }
    }
   },
@@ -4402,6 +6664,12 @@
      "tipo": "Mlv",
      "prof": 39.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389851.html"
+    },
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "ml",
+     "prof": 39.2,
+     "url": null
     }
    }
   },
@@ -4420,6 +6688,12 @@
      "tipo": "Mlv",
      "prof": 191.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389844.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 191.3,
+     "url": null
     }
    }
   },
@@ -4438,6 +6712,30 @@
      "tipo": "Mlv",
      "prof": 39.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389841.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 39.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030084534_-31.26_-68.20",
+   "tiempo": "2026-10-30T08:45:34Z",
+   "lat": -31.26,
+   "lon": -68.2,
+   "prof": 90.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 90.0,
+     "url": null
     }
    }
   },
@@ -4456,6 +6754,12 @@
      "tipo": "Mlv",
      "prof": 120.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389837.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 120.2,
+     "url": null
     }
    }
   },
@@ -4474,6 +6778,12 @@
      "tipo": "Mlv",
      "prof": 120.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389829.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 120.3,
+     "url": null
     }
    }
   },
@@ -4492,6 +6802,12 @@
      "tipo": "Mlv",
      "prof": 123.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389828.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 122.7,
+     "url": null
     }
    }
   },
@@ -4510,6 +6826,30 @@
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389823.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 114.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030053259_-31.51_-69.26",
+   "tiempo": "2026-10-30T05:32:59Z",
+   "lat": -31.509,
+   "lon": -69.263,
+   "prof": 114.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.1,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "m",
+     "prof": 114.0,
+     "url": null
     }
    }
   },
@@ -4528,6 +6868,12 @@
      "tipo": "Mlv",
      "prof": 105.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389798.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 104.6,
+     "url": null
     }
    }
   },
@@ -4546,6 +6892,12 @@
      "tipo": "Mlv",
      "prof": 231.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389797.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 231.3,
+     "url": null
     }
    }
   },
@@ -4564,6 +6916,12 @@
      "tipo": "Mlv",
      "prof": 35.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389795.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 35.0,
+     "url": null
     }
    }
   },
@@ -4582,6 +6940,12 @@
      "tipo": "Mlv",
      "prof": 129.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389792.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 128.6,
+     "url": null
     }
    }
   },
@@ -4600,6 +6964,12 @@
      "tipo": "Mlv",
      "prof": 107.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389790.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 106.9,
+     "url": null
     }
    }
   },
@@ -4618,6 +6988,12 @@
      "tipo": "Mlv",
      "prof": 140.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389786.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 140.0,
+     "url": null
     }
    }
   },
@@ -4636,6 +7012,30 @@
      "tipo": "Mlv",
      "prof": 33.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389787.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 33.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030032747_-31.53_-68.73",
+   "tiempo": "2026-10-30T03:27:47Z",
+   "lat": -31.53,
+   "lon": -68.73,
+   "prof": 108.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.1,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "m",
+     "prof": 108.0,
+     "url": null
     }
    }
   },
@@ -4654,6 +7054,12 @@
      "tipo": "Mlv",
      "prof": 248.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389784.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 248.4,
+     "url": null
     }
    }
   },
@@ -4672,6 +7078,12 @@
      "tipo": "Mlv",
      "prof": 31.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389774.html"
+    },
+    "EMSC": {
+     "mag": 4.0,
+     "tipo": "ml",
+     "prof": 30.5,
+     "url": null
     }
    }
   },
@@ -4690,6 +7102,12 @@
      "tipo": "Mlv",
      "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389770.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 23.5,
+     "url": null
     }
    }
   },
@@ -4726,6 +7144,12 @@
      "tipo": "Mlv",
      "prof": 90.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389764.html"
+    },
+    "EMSC": {
+     "mag": 3.9,
+     "tipo": "ml",
+     "prof": 90.3,
+     "url": null
     }
    }
   },
@@ -4744,6 +7168,12 @@
      "tipo": "Mlv",
      "prof": 158.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389759.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 158.4,
+     "url": null
     }
    }
   },
@@ -4762,6 +7192,30 @@
      "tipo": "Mlv",
      "prof": 70.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389757.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 69.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261030005434_-25.93_-66.56",
+   "tiempo": "2026-10-30T00:54:34Z",
+   "lat": -25.933,
+   "lon": -66.561,
+   "prof": 5.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "m",
+     "prof": 5.0,
+     "url": null
     }
    }
   },
@@ -4780,6 +7234,12 @@
      "tipo": "Mlv",
      "prof": 19.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389752.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 19.1,
+     "url": null
     }
    }
   },
@@ -4798,6 +7258,30 @@
      "tipo": "Mlv",
      "prof": 90.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389750.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 89.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029235407_-25.82_-66.56",
+   "tiempo": "2026-10-29T23:54:07Z",
+   "lat": -25.822,
+   "lon": -66.56,
+   "prof": 10.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -4816,6 +7300,30 @@
      "tipo": "Mlv",
      "prof": 125.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389747.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 125.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029234500_-25.96_-66.55",
+   "tiempo": "2026-10-29T23:45:00Z",
+   "lat": -25.956,
+   "lon": -66.552,
+   "prof": 6.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 6.0,
+     "url": null
     }
    }
   },
@@ -4834,6 +7342,12 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389745.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 30.4,
+     "url": null
     }
    }
   },
@@ -4852,6 +7366,12 @@
      "tipo": "Mlv",
      "prof": 34.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389741.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 34.2,
+     "url": null
     }
    }
   },
@@ -4870,6 +7390,12 @@
      "tipo": "Mlv",
      "prof": 83.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389740.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 83.4,
+     "url": null
     }
    }
   },
@@ -4888,6 +7414,12 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389736.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 30.1,
+     "url": null
     }
    }
   },
@@ -4906,6 +7438,12 @@
      "tipo": "Mlv",
      "prof": 196.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389722.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 195.5,
+     "url": null
     }
    }
   },
@@ -4924,6 +7462,30 @@
      "tipo": "Mlv",
      "prof": 194.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389718.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 193.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029193051_-29.79_-67.05",
+   "tiempo": "2026-10-29T19:30:51Z",
+   "lat": -29.79,
+   "lon": -67.05,
+   "prof": 20.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 20.0,
+     "url": null
     }
    }
   },
@@ -4942,6 +7504,30 @@
      "tipo": "Mlv",
      "prof": 36.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389712.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 35.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029171617_-31.69_-66.91",
+   "tiempo": "2026-10-29T17:16:17Z",
+   "lat": -31.69,
+   "lon": -66.91,
+   "prof": 119.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "m",
+     "prof": 119.0,
+     "url": null
     }
    }
   },
@@ -4960,6 +7546,12 @@
      "tipo": "Mlv",
      "prof": 112.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389699.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 111.9,
+     "url": null
     }
    }
   },
@@ -4978,6 +7570,12 @@
      "tipo": "Mlv",
      "prof": 114.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389691.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 113.7,
+     "url": null
     }
    }
   },
@@ -4996,6 +7594,12 @@
      "tipo": "Mlv",
      "prof": 68.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389685.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 67.9,
+     "url": null
     }
    }
   },
@@ -5014,6 +7618,30 @@
      "tipo": "Mlv",
      "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389681.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 24.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029152148_-38.29_-68.75",
+   "tiempo": "2026-10-29T15:21:48Z",
+   "lat": -38.291,
+   "lon": -68.749,
+   "prof": 6.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "m",
+     "prof": 6.0,
+     "url": null
     }
    }
   },
@@ -5032,6 +7660,12 @@
      "tipo": "Mlv",
      "prof": 33.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389674.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 33.4,
+     "url": null
     }
    }
   },
@@ -5050,6 +7684,30 @@
      "tipo": "Mlv",
      "prof": 121.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389670.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 121.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029123859_-25.80_-66.42",
+   "tiempo": "2026-10-29T12:38:59Z",
+   "lat": -25.804,
+   "lon": -66.42,
+   "prof": 11.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 11.0,
+     "url": null
     }
    }
   },
@@ -5068,6 +7726,30 @@
      "tipo": "Mlv",
      "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389663.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 122.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029113426_-37.48_-69.40",
+   "tiempo": "2026-10-29T11:34:26Z",
+   "lat": -37.477,
+   "lon": -69.397,
+   "prof": 5.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 5.0,
+     "url": null
     }
    }
   },
@@ -5086,6 +7768,12 @@
      "tipo": "Mlv",
      "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389659.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 29.9,
+     "url": null
     }
    }
   },
@@ -5122,6 +7810,30 @@
      "tipo": "Mlv",
      "prof": 128.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389656.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 128.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029094346_-31.78_-67.95",
+   "tiempo": "2026-10-29T09:43:46Z",
+   "lat": -31.78,
+   "lon": -67.95,
+   "prof": 10.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -5140,6 +7852,12 @@
      "tipo": "Mlv",
      "prof": 111.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389646.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 110.8,
+     "url": null
     }
    }
   },
@@ -5158,6 +7876,12 @@
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389639.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 114.9,
+     "url": null
     }
    }
   },
@@ -5176,6 +7900,12 @@
      "tipo": "Mlv",
      "prof": 216.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389636.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 216.3,
+     "url": null
     }
    }
   },
@@ -5194,6 +7924,12 @@
      "tipo": "Mlv",
      "prof": 119.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389630.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 119.2,
+     "url": null
     }
    }
   },
@@ -5212,6 +7948,12 @@
      "tipo": "Mlv",
      "prof": 107.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389629.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 107.3,
+     "url": null
     }
    }
   },
@@ -5230,6 +7972,30 @@
      "tipo": "Mlv",
      "prof": 44.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389626.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 43.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029070430_-32.68_-68.02",
+   "tiempo": "2026-10-29T07:04:30Z",
+   "lat": -32.68,
+   "lon": -68.02,
+   "prof": 127.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 127.0,
+     "url": null
     }
    }
   },
@@ -5248,6 +8014,12 @@
      "tipo": "Mlv",
      "prof": 13.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389615.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 13.1,
+     "url": null
     }
    }
   },
@@ -5266,6 +8038,12 @@
      "tipo": "Mlv",
      "prof": 130.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389609.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 129.8,
+     "url": null
     }
    }
   },
@@ -5284,6 +8062,12 @@
      "tipo": "Mlv",
      "prof": 229.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389606.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 228.6,
+     "url": null
     }
    }
   },
@@ -5302,6 +8086,12 @@
      "tipo": "Mlv",
      "prof": 216.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389616.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 216.0,
+     "url": null
     }
    }
   },
@@ -5320,6 +8110,12 @@
      "tipo": "Mlv",
      "prof": 10.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389603.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
@@ -5338,6 +8134,12 @@
      "tipo": "Mlv",
      "prof": 108.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389597.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 107.8,
+     "url": null
     }
    }
   },
@@ -5356,6 +8158,12 @@
      "tipo": "Mlv",
      "prof": 210.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389595.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 210.1,
+     "url": null
     }
    }
   },
@@ -5374,6 +8182,30 @@
      "tipo": "Mlv",
      "prof": 33.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389590.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 32.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029032707_-21.46_-66.77",
+   "tiempo": "2026-10-29T03:27:07Z",
+   "lat": -21.463,
+   "lon": -66.773,
+   "prof": 210.0,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "m",
+     "prof": 210.0,
+     "url": null
     }
    }
   },
@@ -5392,6 +8224,30 @@
      "tipo": "Mlv",
      "prof": 249.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389581.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 248.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029013454_-21.42_-66.81",
+   "tiempo": "2026-10-29T01:34:54Z",
+   "lat": -21.423,
+   "lon": -66.807,
+   "prof": 197.2,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "m",
+     "prof": 197.2,
+     "url": null
     }
    }
   },
@@ -5410,6 +8266,12 @@
      "tipo": "Mlv",
      "prof": 37.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389571.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 37.0,
+     "url": null
     }
    }
   },
@@ -5432,6 +8294,24 @@
    }
   },
   {
+   "id": "20261029002317_-31.21_-68.40",
+   "tiempo": "2026-10-29T00:23:17Z",
+   "lat": -31.21,
+   "lon": -68.4,
+   "prof": 98.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 98.0,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261029001556_-23.84_-67.11",
    "tiempo": "2026-10-29T00:15:56Z",
    "lat": -23.839,
@@ -5446,6 +8326,30 @@
      "tipo": "Mlv",
      "prof": 227.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389563.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 226.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261029000620_-27.76_-67.42",
+   "tiempo": "2026-10-29T00:06:20Z",
+   "lat": -27.76,
+   "lon": -67.42,
+   "prof": 144.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 144.0,
+     "url": null
     }
    }
   },
@@ -5464,6 +8368,12 @@
      "tipo": "Mlv",
      "prof": 65.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389558.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 64.7,
+     "url": null
     }
    }
   }
