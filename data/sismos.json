@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T19:05:18.032463Z",
+ "actualizado": "2026-11-04T19:10:21.215034Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261104185120_-29.43_-70.86",
+   "id": "20261104185120_-29.42_-70.87",
    "tiempo": "2026-11-04T18:51:20Z",
-   "lat": -29.43,
-   "lon": -70.855,
-   "prof": 66.0,
-   "lugar": "35 km al E de La Higuera",
+   "lat": -29.424,
+   "lon": -70.872,
+   "prof": 68.0,
+   "lugar": "33 km al E de La Higuera",
    "ref": "CSN",
    "mag_max": 3.8,
    "agencias": {
     "CSN": {
      "mag": 3.8,
      "tipo": "Mlv",
-     "prof": 66.0,
+     "prof": 68.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390834.html"
     },
     "EMSC": {
      "mag": 3.8,
      "tipo": "ml",
-     "prof": 66.2,
+     "prof": 68.0,
      "url": null
     }
    }
