@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T21:40:21.565252Z",
+ "actualizado": "2026-11-04T21:45:20.350655Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -276,7 +276,7 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390802.html"
     },
     "EMSC": {
-     "mag": 3.6,
+     "mag": 3.2,
      "tipo": "ml",
      "prof": 249.9,
      "url": null
@@ -327,6 +327,24 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 50.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104134021_-31.54_-68.95",
+   "tiempo": "2026-11-04T13:40:21Z",
+   "lat": -31.535,
+   "lon": -68.947,
+   "prof": 113.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 113.0,
      "url": null
     }
    }
@@ -8307,24 +8325,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 200.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028214120_-25.86_-66.59",
-   "tiempo": "2026-10-28T21:41:20Z",
-   "lat": -25.856,
-   "lon": -66.592,
-   "prof": 6.0,
-   "lugar": "SALTA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.3,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "m",
-     "prof": 6.0,
      "url": null
     }
    }
