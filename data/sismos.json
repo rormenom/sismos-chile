@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-04T12:41:12.538511Z",
+ "actualizado": "2026-11-04T18:41:51.406131Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 305
+   "n": 302
   },
   "USGS": {
    "ok": true,
-   "n": 9
+   "n": 7
   },
   "GFZ": {
    "ok": true,
@@ -15,10 +15,286 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 362
+   "n": 358
   }
  },
  "eventos": [
+  {
+   "id": "20261104182939_-23.82_-67.22",
+   "tiempo": "2026-11-04T18:29:39Z",
+   "lat": -23.817,
+   "lon": -67.223,
+   "prof": 248.0,
+   "lugar": "72 km al E de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 248.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390828.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 247.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104180059_-19.10_-69.16",
+   "tiempo": "2026-11-04T18:00:59Z",
+   "lat": -19.098,
+   "lon": -69.158,
+   "prof": 116.0,
+   "lugar": "37 km al NE de Camiña",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 116.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390824.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 116.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104172319_-28.73_-68.69",
+   "tiempo": "2026-11-04T17:23:19Z",
+   "lat": -28.73,
+   "lon": -68.69,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104171137_-35.08_-71.32",
+   "tiempo": "2026-11-04T17:11:37Z",
+   "lat": -35.081,
+   "lon": -71.318,
+   "prof": 72.0,
+   "lugar": "13 km al SO de Curicó",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 72.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390814.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 72.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104161922_-28.71_-68.58",
+   "tiempo": "2026-11-04T16:19:22Z",
+   "lat": -28.71,
+   "lon": -68.58,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104160324_-21.62_-68.55",
+   "tiempo": "2026-11-04T16:03:24Z",
+   "lat": -21.625,
+   "lon": -68.552,
+   "prof": 149.0,
+   "lugar": "54 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 149.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390807.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 148.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104153008_-32.38_-70.16",
+   "tiempo": "2026-11-04T15:30:08Z",
+   "lat": -32.384,
+   "lon": -70.159,
+   "prof": 139.0,
+   "lugar": "65 km al NE de Los Andes",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 139.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390805.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 139.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104151915_-23.05_-67.12",
+   "tiempo": "2026-11-04T15:19:15Z",
+   "lat": -23.048,
+   "lon": -67.117,
+   "prof": 250.0,
+   "lugar": "99 km al NE de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.6,
+   "agencias": {
+    "CSN": {
+     "mag": 3.6,
+     "tipo": "Mlv",
+     "prof": 250.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390802.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 249.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104151207_-19.62_-69.48",
+   "tiempo": "2026-11-04T15:12:07Z",
+   "lat": -19.624,
+   "lon": -69.482,
+   "prof": 86.0,
+   "lugar": "35 km al S de Camiña",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 86.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390801.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 85.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104143513_-23.80_-66.87",
+   "tiempo": "2026-11-04T14:35:13Z",
+   "lat": -23.8,
+   "lon": -66.866,
+   "prof": 50.0,
+   "lugar": "73 km al NO de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 50.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390798.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 50.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104131217_-31.97_-70.13",
+   "tiempo": "2026-11-04T13:12:17Z",
+   "lat": -31.966,
+   "lon": -70.134,
+   "prof": 115.0,
+   "lugar": "46 km al E de Mina Los Pelambres",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 115.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390793.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 114.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261104130602_-21.98_-68.88",
+   "tiempo": "2026-11-04T13:06:02Z",
+   "lat": -21.975,
+   "lon": -68.884,
+   "prof": 146.0,
+   "lugar": "55 km al N de Calama",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 146.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390790.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 146.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261104113416_-21.57_-68.66",
    "tiempo": "2026-11-04T11:34:16Z",
@@ -8103,384 +8379,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 37.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028183847_-19.15_-67.06",
-   "tiempo": "2026-10-28T18:38:47Z",
-   "lat": -19.146,
-   "lon": -67.059,
-   "prof": 241.6,
-   "lugar": "ORURO, BOLIVIA",
-   "ref": "EMSC",
-   "mag_max": 3.4,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.4,
-     "tipo": "m",
-     "prof": 241.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028183252_-33.91_-72.52",
-   "tiempo": "2026-10-28T18:32:52Z",
-   "lat": -33.905,
-   "lon": -72.52,
-   "prof": 22.0,
-   "lugar": "64 km al O de Navidad",
-   "ref": "CSN",
-   "mag_max": 3.9,
-   "agencias": {
-    "CSN": {
-     "mag": 3.9,
-     "tipo": "Mlv",
-     "prof": 22.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389503.html"
-    },
-    "EMSC": {
-     "mag": 3.9,
-     "tipo": "ml",
-     "prof": 21.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028181555_-21.78_-68.67",
-   "tiempo": "2026-10-28T18:15:55Z",
-   "lat": -21.776,
-   "lon": -68.667,
-   "prof": 132.0,
-   "lugar": "75 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 132.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389500.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 132.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028181353_-31.85_-72.09",
-   "tiempo": "2026-10-28T18:13:53Z",
-   "lat": -31.854,
-   "lon": -72.088,
-   "prof": 32.0,
-   "lugar": "55 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 4.0,
-   "agencias": {
-    "CSN": {
-     "mag": 4.0,
-     "tipo": "Mlv",
-     "prof": 32.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389499.html"
-    },
-    "EMSC": {
-     "mag": 4.0,
-     "tipo": "ml",
-     "prof": 32.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028175226_-19.00_-69.40",
-   "tiempo": "2026-10-28T17:52:26Z",
-   "lat": -18.995,
-   "lon": -69.399,
-   "prof": 107.0,
-   "lugar": "35 km al N de Camiña",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 107.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389494.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 106.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028174925_-24.10_-67.38",
-   "tiempo": "2026-10-28T17:49:25Z",
-   "lat": -24.104,
-   "lon": -67.382,
-   "prof": 210.0,
-   "lugar": "77 km al SE de Socaire",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 210.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389495.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 209.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028173843_-39.00_-73.56",
-   "tiempo": "2026-10-28T17:38:43Z",
-   "lat": -38.996,
-   "lon": -73.555,
-   "prof": 33.0,
-   "lugar": "39 km al NO de Toltén",
-   "ref": "CSN",
-   "mag_max": 4.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.9,
-     "tipo": "Mlv",
-     "prof": 33.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389491.html"
-    },
-    "USGS": {
-     "mag": 4.1,
-     "tipo": "mb",
-     "prof": 32.006,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttsn"
-    },
-    "EMSC": {
-     "mag": 3.9,
-     "tipo": "ml",
-     "prof": 32.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028165124_-21.12_-70.03",
-   "tiempo": "2026-10-28T16:51:24Z",
-   "lat": -21.117,
-   "lon": -70.032,
-   "prof": 63.0,
-   "lugar": "38 km al SE de Patache",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 63.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389483.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 62.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028161455_-20.99_-68.37",
-   "tiempo": "2026-10-28T16:14:55Z",
-   "lat": -20.992,
-   "lon": -68.371,
-   "prof": 145.0,
-   "lugar": "29 km al NO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 145.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389480.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 144.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028160158_-20.27_-69.08",
-   "tiempo": "2026-10-28T16:01:58Z",
-   "lat": -20.272,
-   "lon": -69.079,
-   "prof": 110.0,
-   "lugar": "36 km al NE de Pica",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 110.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389479.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 110.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028154028_-20.49_-68.82",
-   "tiempo": "2026-10-28T15:40:28Z",
-   "lat": -20.487,
-   "lon": -68.823,
-   "prof": 109.0,
-   "lugar": "42 km al NO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 109.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389476.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 109.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028153850_-27.64_-67.48",
-   "tiempo": "2026-10-28T15:38:50Z",
-   "lat": -27.64,
-   "lon": -67.48,
-   "prof": 173.0,
-   "lugar": "CATAMARCA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.0,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "m",
-     "prof": 173.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028151350_-31.27_-68.60",
-   "tiempo": "2026-10-28T15:13:50Z",
-   "lat": -31.275,
-   "lon": -68.596,
-   "prof": 103.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 103.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028142850_-21.58_-68.72",
-   "tiempo": "2026-10-28T14:28:50Z",
-   "lat": -21.583,
-   "lon": -68.719,
-   "prof": 133.0,
-   "lugar": "63 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 133.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389462.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 133.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028141958_-20.78_-69.50",
-   "tiempo": "2026-10-28T14:19:58Z",
-   "lat": -20.779,
-   "lon": -69.505,
-   "prof": 105.0,
-   "lugar": "37 km al SO de Pica",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 105.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389461.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 104.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261028125211_-33.91_-71.33",
-   "tiempo": "2026-10-28T12:52:11Z",
-   "lat": -33.911,
-   "lon": -71.334,
-   "prof": 57.0,
-   "lugar": "27 km al SO de Melipilla",
-   "ref": "CSN",
-   "mag_max": 4.3,
-   "agencias": {
-    "CSN": {
-     "mag": 4.1,
-     "tipo": "Mlv",
-     "prof": 57.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389451.html"
-    },
-    "USGS": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 49.786,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttny"
-    },
-    "EMSC": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 46.0,
      "url": null
     }
    }
