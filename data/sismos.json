@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T21:20:42.416017Z",
+ "actualizado": "2026-11-05T21:25:17.723237Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261105211452_-22.25_-67.89",
    "tiempo": "2026-11-05T21:14:52Z",
-   "lat": -22.25,
-   "lon": -67.89,
-   "prof": 205.1,
-   "lugar": "POTOSI, BOLIVIA",
-   "ref": "EMSC",
+   "lat": -22.252,
+   "lon": -67.889,
+   "prof": 205.0,
+   "lugar": "81 km al NE de San Pedro de Atacama",
+   "ref": "CSN",
    "mag_max": 3.3,
    "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 205.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390998.html"
+    },
     "EMSC": {
      "mag": 3.3,
      "tipo": "ml",
