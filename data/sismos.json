@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T10:25:22.165300Z",
+ "actualizado": "2026-11-05T10:30:26.521220Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 297
+   "n": 298
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 356
   }
  },
  "eventos": [
+  {
+   "id": "20261105102444_-35.28_-72.11",
+   "tiempo": "2026-11-05T10:24:44Z",
+   "lat": -35.28,
+   "lon": -72.105,
+   "prof": 62.0,
+   "lugar": "28 km al E de Constitución",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 62.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390938.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 61.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105100521_-30.66_-71.34",
    "tiempo": "2026-11-05T10:05:21Z",
