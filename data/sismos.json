@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T18:55:21.463187Z",
+ "actualizado": "2026-11-05T19:00:31.930344Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261105185012_-21.60_-68.43",
+   "tiempo": "2026-11-05T18:50:12Z",
+   "lat": -21.602,
+   "lon": -68.433,
+   "prof": 125.0,
+   "lugar": "46 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 125.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390985.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 124.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105183519_-20.98_-69.00",
    "tiempo": "2026-11-05T18:35:19Z",
@@ -8253,30 +8277,6 @@
      "mag": 2.6,
      "tipo": "m",
      "prof": 20.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029185907_-32.16_-72.22",
-   "tiempo": "2026-10-29T18:59:07Z",
-   "lat": -32.156,
-   "lon": -72.215,
-   "prof": 36.0,
-   "lugar": "65 km al O de Pichidangui",
-   "ref": "CSN",
-   "mag_max": 3.5,
-   "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 36.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389712.html"
-    },
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "ml",
-     "prof": 35.8,
      "url": null
     }
    }
