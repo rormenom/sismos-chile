@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T10:05:19.712999Z",
+ "actualizado": "2026-11-05T10:10:22.415991Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 354
+   "n": 355
   }
  },
  "eventos": [
+  {
+   "id": "20261105100521_-30.66_-71.34",
+   "tiempo": "2026-11-05T10:05:21Z",
+   "lat": -30.657,
+   "lon": -71.336,
+   "prof": 49.0,
+   "lugar": "14 km al O de Ovalle",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 49.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390933.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 48.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105094200_-32.11_-69.12",
    "tiempo": "2026-11-05T09:42:00Z",
