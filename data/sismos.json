@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T10:30:26.521220Z",
+ "actualizado": "2026-11-05T10:35:22.076088Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 298
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 356
+   "n": 355
   }
  },
  "eventos": [
@@ -8284,30 +8284,6 @@
      "tipo": "Mlv",
      "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389658.html"
-    }
-   }
-  },
-  {
-   "id": "20261029103256_-21.84_-68.59",
-   "tiempo": "2026-10-29T10:32:56Z",
-   "lat": -21.845,
-   "lon": -68.588,
-   "prof": 128.0,
-   "lugar": "77 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 128.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389656.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 128.2,
-     "url": null
     }
    }
   }
