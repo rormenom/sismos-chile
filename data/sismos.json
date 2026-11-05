@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T04:50:19.425658Z",
+ "actualizado": "2026-11-05T04:55:47.639449Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,8 +10,8 @@
    "n": 7
   },
   "GFZ": {
-   "ok": true,
-   "n": 5
+   "ok": false,
+   "error": "The read operation timed out"
   },
   "EMSC": {
    "ok": true,
@@ -1583,12 +1583,6 @@
      "prof": 119.327,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5q"
     },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "ML",
-     "prof": 135.9,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.1,
      "tipo": "mb",
@@ -2230,12 +2224,6 @@
      "tipo": "mb",
      "prof": 106.613,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "Mw",
-     "prof": 98.7,
-     "url": null
     },
     "EMSC": {
      "mag": 4.3,
@@ -3671,12 +3659,6 @@
      "prof": 243.598,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5"
     },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "mb",
-     "prof": 241.0,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mb",
@@ -4685,12 +4667,6 @@
      "prof": 202.07,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy"
     },
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "Mw",
-     "prof": 193.8,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.8,
      "tipo": "mw",
@@ -4936,12 +4912,6 @@
      "tipo": "mb",
      "prof": 120.437,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly"
-    },
-    "GFZ": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 113.1,
-     "url": null
     },
     "EMSC": {
      "mag": 4.5,
