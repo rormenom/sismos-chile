@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T15:55:19.967725Z",
+ "actualizado": "2026-11-05T16:10:24.843812Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 294
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 354
   }
  },
  "eventos": [
@@ -8235,30 +8235,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 113.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029160137_-20.40_-69.69",
-   "tiempo": "2026-10-29T16:01:37Z",
-   "lat": -20.403,
-   "lon": -69.687,
-   "prof": 68.0,
-   "lugar": "19 km al SE de Pozo Almonte",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 68.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389685.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 67.9,
      "url": null
     }
    }
