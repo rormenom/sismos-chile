@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T22:40:22.745195Z",
+ "actualizado": "2026-11-05T22:45:24.580669Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 298
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 363
+   "n": 362
   }
  },
  "eventos": [
@@ -8403,30 +8403,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 34.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029224343_-31.90_-71.15",
-   "tiempo": "2026-10-29T22:43:43Z",
-   "lat": -31.902,
-   "lon": -71.15,
-   "prof": 83.0,
-   "lugar": "22 km al SO de Salamanca",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 83.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389740.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 83.4,
      "url": null
     }
    }
