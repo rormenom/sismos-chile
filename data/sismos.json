@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T19:30:27.360690Z",
+ "actualizado": "2026-11-05T19:35:25.801869Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -24,15 +24,45 @@
    "tiempo": "2026-11-05T19:17:18Z",
    "lat": -22.33,
    "lon": -68.82,
-   "prof": 110.3,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "prof": 110.0,
+   "lugar": "19 km al NE de Calama",
+   "ref": "CSN",
    "mag_max": 2.8,
    "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 110.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390989.html"
+    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
      "prof": 110.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261105185423_-20.94_-68.82",
+   "tiempo": "2026-11-05T18:54:23Z",
+   "lat": -20.943,
+   "lon": -68.824,
+   "prof": 28.0,
+   "lugar": "22 km al SO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 28.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390986.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 28.0,
      "url": null
     }
    }
@@ -8277,24 +8307,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 193.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029193051_-29.79_-67.05",
-   "tiempo": "2026-10-29T19:30:51Z",
-   "lat": -29.79,
-   "lon": -67.05,
-   "prof": 20.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 20.0,
      "url": null
     }
    }
