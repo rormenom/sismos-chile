@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T15:30:27.995451Z",
+ "actualizado": "2026-11-05T15:35:17.363639Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 354
   }
  },
  "eventos": [
@@ -8241,30 +8241,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 67.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029153311_-29.92_-71.98",
-   "tiempo": "2026-10-29T15:33:11Z",
-   "lat": -29.923,
-   "lon": -71.985,
-   "prof": 24.0,
-   "lugar": "60 km al NO de Tongoy",
-   "ref": "CSN",
-   "mag_max": 3.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 24.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389681.html"
-    },
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "ml",
-     "prof": 24.2,
      "url": null
     }
    }
