@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T18:40:24.886274Z",
+ "actualizado": "2026-11-05T18:45:23.650419Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 294
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,26 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 356
   }
  },
  "eventos": [
   {
-   "id": "20261105183519_-20.98_-68.99",
+   "id": "20261105183519_-20.98_-69.00",
    "tiempo": "2026-11-05T18:35:19Z",
-   "lat": -20.98,
-   "lon": -68.99,
-   "prof": 95.7,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
+   "lat": -20.978,
+   "lon": -68.995,
+   "prof": 96.0,
+   "lugar": "39 km al SO de Mina Collahuasi",
+   "ref": "CSN",
    "mag_max": 2.8,
    "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 96.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390983.html"
+    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -117,6 +123,24 @@
      "mag": 3.1,
      "tipo": "m",
      "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261105152332_-25.92_-67.02",
+   "tiempo": "2026-11-05T15:23:32Z",
+   "lat": -25.92,
+   "lon": -67.021,
+   "prof": 20.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 20.0,
      "url": null
     }
    }
