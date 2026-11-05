@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T10:45:22.565936Z",
+ "actualizado": "2026-11-05T10:50:19.271508Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 297
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -129,6 +129,24 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 235.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261105073823_-31.29_-68.55",
+   "tiempo": "2026-11-05T07:38:23Z",
+   "lat": -31.291,
+   "lon": -68.545,
+   "prof": 116.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 116.0,
      "url": null
     }
    }
@@ -8242,48 +8260,6 @@
      "tipo": "m",
      "prof": 5.0,
      "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029104622_-31.84_-72.06",
-   "tiempo": "2026-10-29T10:46:22Z",
-   "lat": -31.844,
-   "lon": -72.058,
-   "prof": 30.0,
-   "lugar": "52 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 3.5,
-   "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 30.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389659.html"
-    },
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "ml",
-     "prof": 29.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029104547_-31.84_-72.07",
-   "tiempo": "2026-10-29T10:45:47Z",
-   "lat": -31.84,
-   "lon": -72.07,
-   "prof": 24.0,
-   "lugar": "53 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 3.6,
-   "agencias": {
-    "CSN": {
-     "mag": 3.6,
-     "tipo": "Mlv",
-     "prof": 24.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389658.html"
     }
    }
   }
