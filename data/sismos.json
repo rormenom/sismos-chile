@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T04:15:24.248599Z",
+ "actualizado": "2026-11-05T04:20:23.155321Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 299
+   "n": 300
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261105041122_-27.77_-71.06",
    "tiempo": "2026-11-05T04:11:22Z",
-   "lat": -27.77,
-   "lon": -71.06,
+   "lat": -27.768,
+   "lon": -71.059,
    "prof": 47.0,
-   "lugar": "ATACAMA, CHILE",
-   "ref": "EMSC",
+   "lugar": "36 km al N de Carrizal Bajo",
+   "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 47.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390898.html"
+    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
