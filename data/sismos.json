@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T20:05:20.731183Z",
+ "actualizado": "2026-11-05T20:10:23.085493Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 357
+   "n": 356
   }
  },
  "eventos": [
@@ -8283,30 +8283,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 30.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029200621_-19.33_-68.06",
-   "tiempo": "2026-10-29T20:06:21Z",
-   "lat": -19.326,
-   "lon": -68.058,
-   "prof": 196.0,
-   "lugar": "61 km al E de Colchane",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 196.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389722.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 195.5,
      "url": null
     }
    }
