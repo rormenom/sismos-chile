@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T15:35:17.363639Z",
+ "actualizado": "2026-11-05T15:40:21.368217Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 354
+   "n": 355
   }
  },
  "eventos": [
+  {
+   "id": "20261105152745_-37.61_-69.12",
+   "tiempo": "2026-11-05T15:27:45Z",
+   "lat": -37.61,
+   "lon": -69.12,
+   "prof": 10.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.1,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105143648_-19.01_-69.53",
    "tiempo": "2026-11-05T14:36:48Z",
