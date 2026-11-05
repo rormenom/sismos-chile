@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T00:00:35.744295Z",
+ "actualizado": "2026-11-05T00:10:23.045737Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 298
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 358
   }
  },
  "eventos": [
+  {
+   "id": "20261104233937_-26.03_-66.78",
+   "tiempo": "2026-11-04T23:39:37Z",
+   "lat": -26.033,
+   "lon": -66.784,
+   "prof": 19.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 19.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261104224411_-25.99_-66.76",
    "tiempo": "2026-11-04T22:44:11Z",
@@ -8331,48 +8349,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 226.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029000620_-27.76_-67.42",
-   "tiempo": "2026-10-29T00:06:20Z",
-   "lat": -27.76,
-   "lon": -67.42,
-   "prof": 144.0,
-   "lugar": "CATAMARCA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 144.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029000200_-30.42_-71.25",
-   "tiempo": "2026-10-29T00:02:00Z",
-   "lat": -30.422,
-   "lon": -71.253,
-   "prof": 65.0,
-   "lugar": "21 km al N de Ovalle",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 65.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389558.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 64.7,
      "url": null
     }
    }
