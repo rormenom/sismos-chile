@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T05:10:19.955241Z",
+ "actualizado": "2026-11-05T05:15:21.883116Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 300
+   "n": 298
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 357
   }
  },
  "eventos": [
@@ -8325,54 +8325,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 129.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029051457_-23.92_-67.04",
-   "tiempo": "2026-10-29T05:14:57Z",
-   "lat": -23.917,
-   "lon": -67.043,
-   "prof": 229.0,
-   "lugar": "81 km al NO de San Antonio de los Cobres",
-   "ref": "CSN",
-   "mag_max": 3.5,
-   "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 229.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389606.html"
-    },
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "ml",
-     "prof": 228.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029051336_-22.19_-67.80",
-   "tiempo": "2026-10-29T05:13:36Z",
-   "lat": -22.192,
-   "lon": -67.797,
-   "prof": 216.0,
-   "lugar": "91 km al NE de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 216.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389616.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 216.0,
      "url": null
     }
    }
