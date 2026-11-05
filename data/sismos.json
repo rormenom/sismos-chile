@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T11:25:21.171384Z",
+ "actualizado": "2026-11-05T11:30:26.092243Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 356
   }
  },
  "eventos": [
+  {
+   "id": "20261105112552_-33.15_-70.15",
+   "tiempo": "2026-11-05T11:25:52Z",
+   "lat": -33.15,
+   "lon": -70.15,
+   "prof": 95.9,
+   "lugar": "REGION METROPOLITANA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 95.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105102444_-35.28_-72.11",
    "tiempo": "2026-11-05T10:24:44Z",
