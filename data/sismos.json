@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T00:20:24.360176Z",
+ "actualizado": "2026-11-05T00:25:18.155940Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 357
+   "n": 356
   }
  },
  "eventos": [
@@ -8308,24 +8308,6 @@
      "tipo": "Mlv",
      "prof": 95.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389570.html"
-    }
-   }
-  },
-  {
-   "id": "20261029002317_-31.21_-68.40",
-   "tiempo": "2026-10-29T00:23:17Z",
-   "lat": -31.21,
-   "lon": -68.4,
-   "prof": 98.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.2,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "m",
-     "prof": 98.0,
-     "url": null
     }
    }
   }
