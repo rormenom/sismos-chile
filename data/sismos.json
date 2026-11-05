@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T09:20:23.315042Z",
+ "actualizado": "2026-11-05T09:25:22.106148Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261105091755_-23.72_-66.89",
+   "tiempo": "2026-11-05T09:17:55Z",
+   "lat": -23.721,
+   "lon": -66.895,
+   "prof": 195.0,
+   "lugar": "81 km al NO de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 195.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390926.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 195.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105075514_-23.25_-67.10",
    "tiempo": "2026-11-05T07:55:14Z",
@@ -8235,30 +8259,6 @@
      "mag": 2.7,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029092500_-21.00_-68.94",
-   "tiempo": "2026-10-29T09:25:00Z",
-   "lat": -20.995,
-   "lon": -68.945,
-   "prof": 111.0,
-   "lugar": "35 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 111.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389646.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 110.8,
      "url": null
     }
    }
