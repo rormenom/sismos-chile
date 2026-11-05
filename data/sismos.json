@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T19:40:27.029756Z",
+ "actualizado": "2026-11-05T19:45:40.487675Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -3141,13 +3141,19 @@
    "prof": 126.0,
    "lugar": "32 km al S de Mina Collahuasi",
    "ref": "CSN",
-   "mag_max": 4.1,
+   "mag_max": 4.2,
    "agencias": {
     "CSN": {
      "mag": 4.1,
      "tipo": "Mlv",
      "prof": 126.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390495.html"
+    },
+    "USGS": {
+     "mag": 4.2,
+     "tipo": "mb",
+     "prof": 124.438,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuyn"
     },
     "EMSC": {
      "mag": 4.1,
