@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T12:35:26.043973Z",
+ "actualizado": "2026-11-05T12:40:21.013247Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261105123237_-23.98_-69.29",
+   "tiempo": "2026-11-05T12:32:37Z",
+   "lat": -23.976,
+   "lon": -69.289,
+   "prof": 86.0,
+   "lugar": "40 km al NO de Mina La Escondida",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 86.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390948.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 86.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105120200_-21.38_-68.83",
    "tiempo": "2026-11-05T12:02:00Z",
@@ -8283,24 +8307,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 121.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029123859_-25.80_-66.42",
-   "tiempo": "2026-10-29T12:38:59Z",
-   "lat": -25.804,
-   "lon": -66.42,
-   "prof": 11.0,
-   "lugar": "SALTA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 11.0,
      "url": null
     }
    }
