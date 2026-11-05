@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T11:30:26.092243Z",
+ "actualizado": "2026-11-05T11:35:27.479632Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,26 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 356
+   "n": 355
   }
  },
  "eventos": [
   {
    "id": "20261105112552_-33.15_-70.15",
    "tiempo": "2026-11-05T11:25:52Z",
-   "lat": -33.15,
+   "lat": -33.147,
    "lon": -70.15,
-   "prof": 95.9,
-   "lugar": "REGION METROPOLITANA, CHILE",
-   "ref": "EMSC",
+   "prof": 96.0,
+   "lugar": "27 km al NE de Farellones",
+   "ref": "CSN",
    "mag_max": 2.5,
    "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 96.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390942.html"
+    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
@@ -8259,24 +8265,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 122.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029113426_-37.48_-69.40",
-   "tiempo": "2026-10-29T11:34:26Z",
-   "lat": -37.477,
-   "lon": -69.397,
-   "prof": 5.0,
-   "lugar": "NEUQUEN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 5.0,
      "url": null
     }
    }
