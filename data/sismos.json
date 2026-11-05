@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-05T23:50:20.642290Z",
+ "actualizado": "2026-11-05T23:55:18.969484Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 294
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261105234443_-21.96_-68.61",
+   "tiempo": "2026-11-05T23:44:43Z",
+   "lat": -21.958,
+   "lon": -68.609,
+   "prof": 115.0,
+   "lugar": "66 km al NE de Calama",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 115.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391014.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 115.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261105221409_-31.40_-68.65",
    "tiempo": "2026-11-05T22:14:09Z",
@@ -8313,24 +8337,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 89.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261029235407_-25.82_-66.56",
-   "tiempo": "2026-10-29T23:54:07Z",
-   "lat": -25.822,
-   "lon": -66.56,
-   "prof": 10.0,
-   "lugar": "SALTA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 10.0,
      "url": null
     }
    }
