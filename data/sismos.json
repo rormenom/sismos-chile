@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-06T20:50:21.303901Z",
+ "actualizado": "2026-11-06T20:55:17.650387Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 280
+   "n": 279
   },
   "USGS": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 344
+   "n": 343
   }
  },
  "eventos": [
@@ -7941,36 +7941,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 85.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030205414_-23.04_-69.04",
-   "tiempo": "2026-10-30T20:54:14Z",
-   "lat": -23.037,
-   "lon": -69.042,
-   "prof": 95.0,
-   "lugar": "33 km al SE de Sierra Gorda",
-   "ref": "CSN",
-   "mag_max": 4.1,
-   "agencias": {
-    "CSN": {
-     "mag": 4.1,
-     "tipo": "Mlv",
-     "prof": 95.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389958.html"
-    },
-    "USGS": {
-     "mag": 4.1,
-     "tipo": "mb",
-     "prof": 84.622,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuep"
-    },
-    "EMSC": {
-     "mag": 4.1,
-     "tipo": "mb",
-     "prof": 24.7,
      "url": null
     }
    }
