@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T13:15:21.312783Z",
+ "actualizado": "2026-11-06T13:20:19.631626Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261106130913_-21.23_-68.67",
+   "tiempo": "2026-11-06T13:09:13Z",
+   "lat": -21.227,
+   "lon": -68.673,
+   "prof": 140.0,
+   "lugar": "43 km al O de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 3.0,
+   "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 140.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391116.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 139.7,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106124921_-21.07_-68.72",
    "tiempo": "2026-11-06T12:49:21Z",
@@ -8121,30 +8145,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 115.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030131849_-22.13_-67.63",
-   "tiempo": "2026-10-30T13:18:49Z",
-   "lat": -22.133,
-   "lon": -67.633,
-   "prof": 213.0,
-   "lugar": "105 km al NE de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 213.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389891.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 213.0,
      "url": null
     }
    }
