@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T03:20:20.584185Z",
+ "actualizado": "2026-11-06T03:25:18.334937Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -15,17 +15,17 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 361
+   "n": 360
   }
  },
  "eventos": [
   {
-   "id": "20261106031127_-30.68_-71.64",
+   "id": "20261106031127_-30.68_-71.67",
    "tiempo": "2026-11-06T03:11:27Z",
-   "lat": -30.682,
-   "lon": -71.645,
+   "lat": -30.683,
+   "lon": -71.674,
    "prof": 27.0,
-   "lugar": "4 km al SE de Parque Fray Jorge",
+   "lugar": "2 km al SE de Parque Fray Jorge",
    "ref": "CSN",
    "mag_max": 2.9,
    "agencias": {
@@ -8343,30 +8343,6 @@
      "mag": 3.1,
      "tipo": "m",
      "prof": 108.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030032110_-22.27_-67.69",
-   "tiempo": "2026-10-30T03:21:10Z",
-   "lat": -22.269,
-   "lon": -67.693,
-   "prof": 248.0,
-   "lugar": "89 km al NE de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 248.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389784.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 248.4,
      "url": null
     }
    }
