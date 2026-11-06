@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T09:20:20.252185Z",
+ "actualizado": "2026-11-06T09:25:17.435264Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 292
+   "n": 291
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 354
   }
  },
  "eventos": [
@@ -8217,30 +8217,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 25.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030092358_-25.89_-70.68",
-   "tiempo": "2026-10-30T09:23:58Z",
-   "lat": -25.895,
-   "lon": -70.677,
-   "prof": 39.0,
-   "lugar": "51 km al N de Chañaral",
-   "ref": "CSN",
-   "mag_max": 3.7,
-   "agencias": {
-    "CSN": {
-     "mag": 3.7,
-     "tipo": "Mlv",
-     "prof": 39.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389851.html"
-    },
-    "EMSC": {
-     "mag": 3.7,
-     "tipo": "ml",
-     "prof": 39.2,
      "url": null
     }
    }
