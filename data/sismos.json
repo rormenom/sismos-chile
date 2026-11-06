@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T08:45:22.798332Z",
+ "actualizado": "2026-11-06T08:50:19.793529Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 294
+   "n": 293
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 358
+   "n": 356
   }
  },
  "eventos": [
@@ -8265,48 +8265,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 191.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030084733_-32.04_-71.50",
-   "tiempo": "2026-10-30T08:47:33Z",
-   "lat": -32.042,
-   "lon": -71.5,
-   "prof": 39.0,
-   "lugar": "11 km al N de Pichidangui",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 39.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389841.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 39.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030084534_-31.26_-68.20",
-   "tiempo": "2026-10-30T08:45:34Z",
-   "lat": -31.26,
-   "lon": -68.2,
-   "prof": 90.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.8,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "m",
-     "prof": 90.0,
      "url": null
     }
    }
