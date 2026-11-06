@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T12:40:20.327055Z",
+ "actualizado": "2026-11-06T12:45:24.655227Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261106123233_-24.12_-67.16",
+   "id": "20261106123233_-24.12_-67.21",
    "tiempo": "2026-11-06T12:32:33Z",
-   "lat": -24.123,
-   "lon": -67.155,
-   "prof": 204.0,
-   "lugar": "86 km al O de San Antonio de los Cobres",
+   "lat": -24.12,
+   "lon": -67.209,
+   "prof": 200.0,
+   "lugar": "91 km al SE de Socaire",
    "ref": "CSN",
    "mag_max": 3.7,
    "agencias": {
     "CSN": {
      "mag": 3.7,
-     "tipo": "M",
-     "prof": 204.0,
+     "tipo": "Mlv",
+     "prof": 200.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391111.html"
     },
     "EMSC": {
      "mag": 3.7,
-     "tipo": "m",
-     "prof": 203.5,
+     "tipo": "ml",
+     "prof": 199.9,
      "url": null
     }
    }
