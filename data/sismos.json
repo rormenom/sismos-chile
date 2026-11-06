@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T10:10:22.598311Z",
+ "actualizado": "2026-11-06T10:15:19.759355Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261106101012_-27.86_-69.08",
+   "tiempo": "2026-11-06T10:10:12Z",
+   "lat": -27.858,
+   "lon": -69.079,
+   "prof": 120.0,
+   "lugar": "135 km al E de Copiapó",
+   "ref": "CSN",
+   "mag_max": 3.6,
+   "agencias": {
+    "CSN": {
+     "mag": 3.6,
+     "tipo": "Mlv",
+     "prof": 120.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391089.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 119.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106072536_-32.84_-71.57",
    "tiempo": "2026-11-06T07:25:36Z",
@@ -8193,30 +8217,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 143.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030101313_-32.22_-72.19",
-   "tiempo": "2026-10-30T10:13:13Z",
-   "lat": -32.224,
-   "lon": -72.194,
-   "prof": 25.0,
-   "lugar": "63 km al O de Pichidangui",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 25.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389858.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 25.2,
      "url": null
     }
    }
