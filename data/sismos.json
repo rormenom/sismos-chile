@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T03:40:20.932125Z",
+ "actualizado": "2026-11-06T03:45:23.062848Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 360
+   "n": 359
   }
  },
  "eventos": [
+  {
+   "id": "20261106033724_-29.37_-71.87",
+   "tiempo": "2026-11-06T03:37:24Z",
+   "lat": -29.367,
+   "lon": -71.867,
+   "prof": 11.0,
+   "lugar": "41 km al O de Punta de Choros",
+   "ref": "CSN",
+   "mag_max": 3.0,
+   "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 11.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391051.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 10.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106033013_-24.35_-68.08",
    "tiempo": "2026-11-06T03:30:13Z",
@@ -8301,54 +8325,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 106.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030034252_-21.56_-68.68",
-   "tiempo": "2026-10-30T03:42:52Z",
-   "lat": -21.559,
-   "lon": -68.676,
-   "prof": 140.0,
-   "lugar": "57 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 140.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389786.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 140.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030034048_-32.14_-71.71",
-   "tiempo": "2026-10-30T03:40:48Z",
-   "lat": -32.14,
-   "lon": -71.706,
-   "prof": 33.0,
-   "lugar": "17 km al O de Pichidangui",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 33.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389787.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 33.2,
      "url": null
     }
    }
