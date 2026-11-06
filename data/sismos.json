@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T11:10:20.349259Z",
+ "actualizado": "2026-11-06T11:15:21.547905Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 291
+   "n": 292
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 354
+   "n": 355
   }
  },
  "eventos": [
+  {
+   "id": "20261106110937_-27.33_-71.03",
+   "tiempo": "2026-11-06T11:09:37Z",
+   "lat": -27.329,
+   "lon": -71.03,
+   "prof": 57.0,
+   "lugar": "36 km al SO de Caldera",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 57.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391102.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 57.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106110144_-31.99_-68.11",
    "tiempo": "2026-11-06T11:01:44Z",
