@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T12:55:18.838428Z",
+ "actualizado": "2026-11-06T13:00:29.950002Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261106124921_-21.07_-68.72",
+   "tiempo": "2026-11-06T12:49:21Z",
+   "lat": -21.074,
+   "lon": -68.722,
+   "prof": 110.0,
+   "lugar": "28 km al S de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 110.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391115.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 110.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106123233_-24.12_-67.21",
    "tiempo": "2026-11-06T12:32:33Z",
@@ -8145,30 +8169,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 231.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030125746_-20.13_-69.93",
-   "tiempo": "2026-10-30T12:57:46Z",
-   "lat": -20.127,
-   "lon": -69.934,
-   "prof": 70.0,
-   "lugar": "21 km al NO de Pozo Almonte",
-   "ref": "CSN",
-   "mag_max": 4.0,
-   "agencias": {
-    "CSN": {
-     "mag": 4.0,
-     "tipo": "Mlv",
-     "prof": 70.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389887.html"
-    },
-    "EMSC": {
-     "mag": 4.0,
-     "tipo": "ml",
-     "prof": 48.4,
      "url": null
     }
    }
