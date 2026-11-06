@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T13:20:19.631626Z",
+ "actualizado": "2026-11-06T13:25:20.721361Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 288
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 351
+   "n": 349
   }
  },
  "eventos": [
@@ -8097,54 +8097,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 30.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030132502_-19.06_-69.40",
-   "tiempo": "2026-10-30T13:25:02Z",
-   "lat": -19.058,
-   "lon": -69.404,
-   "prof": 98.0,
-   "lugar": "28 km al N de Camiña",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 98.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389895.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 98.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030132300_-20.10_-68.89",
-   "tiempo": "2026-10-30T13:23:00Z",
-   "lat": -20.103,
-   "lon": -68.89,
-   "prof": 115.0,
-   "lugar": "63 km al NE de Pica",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 115.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389893.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 115.4,
      "url": null
     }
    }
