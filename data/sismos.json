@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T11:20:22.453294Z",
+ "actualizado": "2026-11-06T11:25:17.463068Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 292
+   "n": 291
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 354
   }
  },
  "eventos": [
+  {
+   "id": "20261106111800_-24.13_-67.45",
+   "tiempo": "2026-11-06T11:18:00Z",
+   "lat": -24.133,
+   "lon": -67.455,
+   "prof": 200.0,
+   "lugar": "75 km al SE de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 200.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391104.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 200.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106110937_-27.34_-71.06",
    "tiempo": "2026-11-06T11:09:37Z",
@@ -8193,54 +8217,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 204.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030112408_-31.80_-72.06",
-   "tiempo": "2026-10-30T11:24:08Z",
-   "lat": -31.799,
-   "lon": -72.061,
-   "prof": 28.0,
-   "lugar": "53 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 28.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389876.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 27.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030112033_-24.10_-67.10",
-   "tiempo": "2026-10-30T11:20:33Z",
-   "lat": -24.101,
-   "lon": -67.096,
-   "prof": 208.0,
-   "lugar": "80 km al O de San Antonio de los Cobres",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 208.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389874.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 207.9,
      "url": null
     }
    }
