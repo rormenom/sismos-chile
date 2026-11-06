@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T00:45:21.970671Z",
+ "actualizado": "2026-11-06T00:50:24.785405Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,58 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 360
   }
  },
  "eventos": [
+  {
+   "id": "20261106004541_-31.12_-71.52",
+   "tiempo": "2026-11-06T00:45:41Z",
+   "lat": -31.12,
+   "lon": -71.52,
+   "prof": 51.0,
+   "lugar": "32 km al N de Canela Baja",
+   "ref": "CSN",
+   "mag_max": 3.7,
+   "agencias": {
+    "CSN": {
+     "mag": 3.7,
+     "tipo": "Mlv",
+     "prof": 51.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391022.html"
+    },
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "ml",
+     "prof": 51.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261106004031_-24.83_-68.42",
+   "tiempo": "2026-11-06T00:40:31Z",
+   "lat": -24.833,
+   "lon": -68.425,
+   "prof": 99.0,
+   "lugar": "89 km al SE de Mina La Escondida",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 99.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391020.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 98.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261106000921_-24.05_-67.40",
    "tiempo": "2026-11-06T00:09:21Z",
@@ -8313,30 +8361,6 @@
      "mag": 3.0,
      "tipo": "m",
      "prof": 5.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030004640_-31.78_-71.92",
-   "tiempo": "2026-10-30T00:46:40Z",
-   "lat": -31.782,
-   "lon": -71.925,
-   "prof": 19.0,
-   "lugar": "42 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 19.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389752.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 19.1,
      "url": null
     }
    }
