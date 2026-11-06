@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T03:15:25.479627Z",
+ "actualizado": "2026-11-06T03:20:20.584185Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -15,17 +15,41 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 360
+   "n": 361
   }
  },
  "eventos": [
   {
-   "id": "20261106030935_-20.29_-70.48",
-   "tiempo": "2026-11-06T03:09:35Z",
-   "lat": -20.29,
-   "lon": -70.48,
+   "id": "20261106031127_-30.68_-71.64",
+   "tiempo": "2026-11-06T03:11:27Z",
+   "lat": -30.682,
+   "lon": -71.645,
+   "prof": 27.0,
+   "lugar": "4 km al SE de Parque Fray Jorge",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 27.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391048.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 27.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261106030936_-20.31_-70.51",
+   "tiempo": "2026-11-06T03:09:36Z",
+   "lat": -20.31,
+   "lon": -70.51,
    "prof": 38.0,
-   "lugar": "35 km al O de Iquique",
+   "lugar": "39 km al O de Iquique",
    "ref": "CSN",
    "mag_max": 3.7,
    "agencias": {
@@ -38,7 +62,7 @@
     "EMSC": {
      "mag": 3.7,
      "tipo": "ml",
-     "prof": 38.4,
+     "prof": 38.0,
      "url": null
     }
    }
