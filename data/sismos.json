@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T20:35:20.860067Z",
+ "actualizado": "2026-11-06T20:40:20.326493Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -39,6 +39,24 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 102.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261106192543_-31.48_-68.81",
+   "tiempo": "2026-11-06T19:25:43Z",
+   "lat": -31.48,
+   "lon": -68.815,
+   "prof": 10.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 10.0,
      "url": null
     }
    }
@@ -7953,30 +7971,6 @@
      "mag": 4.1,
      "tipo": "mb",
      "prof": 24.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030203837_-21.38_-68.83",
-   "tiempo": "2026-10-30T20:38:37Z",
-   "lat": -21.379,
-   "lon": -68.833,
-   "prof": 125.0,
-   "lugar": "62 km al O de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 125.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389953.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 124.8,
      "url": null
     }
    }
