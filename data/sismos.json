@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T07:45:22.809252Z",
+ "actualizado": "2026-11-06T07:50:23.028617Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 297
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 361
+   "n": 360
   }
  },
  "eventos": [
@@ -27,16 +27,16 @@
    "prof": 56.0,
    "lugar": "8 km al SO de Quintero",
    "ref": "CSN",
-   "mag_max": 2.7,
+   "mag_max": 2.9,
    "agencias": {
     "CSN": {
-     "mag": 2.7,
+     "mag": 2.9,
      "tipo": "Mlv",
      "prof": 56.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391075.html"
     },
     "EMSC": {
-     "mag": 2.7,
+     "mag": 2.9,
      "tipo": "ml",
      "prof": 55.7,
      "url": null
@@ -8355,30 +8355,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 120.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030074527_-21.53_-68.54",
-   "tiempo": "2026-10-30T07:45:27Z",
-   "lat": -21.533,
-   "lon": -68.538,
-   "prof": 123.0,
-   "lugar": "45 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 123.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389828.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 122.7,
      "url": null
     }
    }
