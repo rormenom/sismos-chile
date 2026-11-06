@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T00:50:24.785405Z",
+ "actualizado": "2026-11-06T00:55:19.170064Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -20,11 +20,35 @@
  },
  "eventos": [
   {
-   "id": "20261106004541_-31.12_-71.52",
-   "tiempo": "2026-11-06T00:45:41Z",
-   "lat": -31.12,
-   "lon": -71.52,
-   "prof": 51.0,
+   "id": "20261106004920_-21.93_-68.77",
+   "tiempo": "2026-11-06T00:49:20Z",
+   "lat": -21.931,
+   "lon": -68.771,
+   "prof": 116.0,
+   "lugar": "62 km al N de Calama",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 116.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391024.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 116.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261106004540_-31.12_-71.56",
+   "tiempo": "2026-11-06T00:45:40Z",
+   "lat": -31.122,
+   "lon": -71.557,
+   "prof": 48.0,
    "lugar": "32 km al N de Canela Baja",
    "ref": "CSN",
    "mag_max": 3.7,
@@ -32,13 +56,13 @@
     "CSN": {
      "mag": 3.7,
      "tipo": "Mlv",
-     "prof": 51.0,
+     "prof": 48.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391022.html"
     },
     "EMSC": {
      "mag": 3.7,
      "tipo": "ml",
-     "prof": 51.4,
+     "prof": 48.1,
      "url": null
     }
    }
@@ -8343,24 +8367,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 69.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030005434_-25.93_-66.56",
-   "tiempo": "2026-10-30T00:54:34Z",
-   "lat": -25.933,
-   "lon": -66.561,
-   "prof": 5.0,
-   "lugar": "SALTA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.0,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "m",
-     "prof": 5.0,
      "url": null
     }
    }
