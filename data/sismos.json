@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-06T20:55:17.650387Z",
+ "actualizado": "2026-11-06T21:00:29.782581Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 278
   },
   "USGS": {
    "ok": true,
@@ -1059,6 +1059,24 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 224.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261105234637_-32.41_-69.63",
+   "tiempo": "2026-11-05T23:46:37Z",
+   "lat": -32.41,
+   "lon": -69.627,
+   "prof": 133.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 133.0,
      "url": null
     }
    }
@@ -7917,30 +7935,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 102.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030205813_-23.05_-69.03",
-   "tiempo": "2026-10-30T20:58:13Z",
-   "lat": -23.046,
-   "lon": -69.034,
-   "prof": 85.0,
-   "lugar": "34 km al SE de Sierra Gorda",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 85.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/389959.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 85.3,
      "url": null
     }
    }
