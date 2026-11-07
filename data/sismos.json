@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T21:50:20.781770Z",
+ "actualizado": "2026-11-07T21:55:20.029461Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 350
   }
  },
  "eventos": [
+  {
+   "id": "20261107214849_-23.26_-69.47",
+   "tiempo": "2026-11-07T21:48:49Z",
+   "lat": -23.256,
+   "lon": -69.471,
+   "prof": 76.0,
+   "lugar": "39 km al E de Baquedano",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 76.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391377.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 75.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261107213151_-40.15_-73.64",
    "tiempo": "2026-11-07T21:31:51Z",
