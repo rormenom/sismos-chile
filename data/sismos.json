@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T23:55:19.131476Z",
+ "actualizado": "2026-11-07T00:00:29.409977Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 344
+   "n": 343
   }
  },
  "eventos": [
@@ -7935,24 +7935,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 94.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261030235756_-31.87_-69.35",
-   "tiempo": "2026-10-30T23:57:56Z",
-   "lat": -31.873,
-   "lon": -69.354,
-   "prof": 109.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.7,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "m",
-     "prof": 109.0,
      "url": null
     }
    }
