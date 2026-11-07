@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T07:00:29.973812Z",
+ "actualizado": "2026-11-07T07:05:19.389272Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 276
+   "n": 275
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 341
+   "n": 340
   }
  },
  "eventos": [
@@ -7863,30 +7863,6 @@
      "mag": 3.4,
      "tipo": "ml",
      "prof": 191.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261031070320_-31.14_-70.29",
-   "tiempo": "2026-10-31T07:03:20Z",
-   "lat": -31.139,
-   "lon": -70.286,
-   "prof": 119.0,
-   "lugar": "68 km al E de Combarbalá",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 119.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390038.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 118.8,
      "url": null
     }
    }
