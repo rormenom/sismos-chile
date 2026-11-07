@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-07T04:45:22.943457Z",
+ "actualizado": "2026-11-07T04:50:18.646935Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 343
   }
  },
  "eventos": [
+  {
+   "id": "20261107044438_-19.39_-69.62",
+   "tiempo": "2026-11-07T04:44:38Z",
+   "lat": -19.39,
+   "lon": -69.62,
+   "prof": 74.1,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 74.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261107035449_-22.42_-67.70",
    "tiempo": "2026-11-07T03:54:49Z",
