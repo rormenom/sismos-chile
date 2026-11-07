@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T21:35:16.760414Z",
+ "actualizado": "2026-11-07T21:40:22.389394Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 284
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 348
   }
  },
  "eventos": [
+  {
+   "id": "20261107213151_-40.15_-73.64",
+   "tiempo": "2026-11-07T21:31:51Z",
+   "lat": -40.145,
+   "lon": -73.643,
+   "prof": 10.0,
+   "lugar": "50 km al N de Bahía Mansa",
+   "ref": "CSN",
+   "mag_max": 3.5,
+   "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 10.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391372.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261107212451_-40.05_-73.67",
    "tiempo": "2026-11-07T21:24:51Z",
