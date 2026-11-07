@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T11:35:19.464911Z",
+ "actualizado": "2026-11-07T11:40:19.826049Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 279
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261107112910_-24.93_-70.43",
    "tiempo": "2026-11-07T11:29:10Z",
-   "lat": -24.93,
+   "lat": -24.932,
    "lon": -70.43,
-   "prof": 42.5,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "prof": 42.0,
+   "lugar": "9 km al NE de Paposo",
+   "ref": "CSN",
    "mag_max": 2.9,
    "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 42.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391296.html"
+    },
     "EMSC": {
      "mag": 2.9,
      "tipo": "ml",
