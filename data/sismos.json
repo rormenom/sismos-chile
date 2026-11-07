@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T14:40:21.812598Z",
+ "actualizado": "2026-11-07T14:45:19.207044Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 343
+   "n": 345
   }
  },
  "eventos": [
+  {
+   "id": "20261107143801_-28.88_-67.56",
+   "tiempo": "2026-11-07T14:38:01Z",
+   "lat": -28.88,
+   "lon": -67.56,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261107143324_-32.16_-71.84",
+   "tiempo": "2026-11-07T14:33:24Z",
+   "lat": -32.158,
+   "lon": -71.839,
+   "prof": 28.0,
+   "lugar": "29 km al O de Pichidangui",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 28.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391312.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 27.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261107143030_-28.63_-71.38",
    "tiempo": "2026-11-07T14:30:30Z",
