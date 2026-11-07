@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T16:00:26.284567Z",
+ "actualizado": "2026-11-07T16:05:19.985079Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 282
+   "n": 283
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 348
   }
  },
  "eventos": [
+  {
+   "id": "20261107155616_-32.93_-71.42",
+   "tiempo": "2026-11-07T15:56:16Z",
+   "lat": -32.934,
+   "lon": -71.415,
+   "prof": 44.0,
+   "lugar": "17 km al O de Quillota",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 44.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391321.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 43.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261107145750_-21.50_-68.75",
    "tiempo": "2026-11-07T14:57:50Z",
