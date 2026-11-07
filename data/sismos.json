@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T06:40:23.068465Z",
+ "actualizado": "2026-11-07T06:45:20.811624Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 277
+   "n": 276
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 341
   }
  },
  "eventos": [
@@ -7887,30 +7887,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 118.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261031064142_-23.10_-70.18",
-   "tiempo": "2026-10-31T06:41:42Z",
-   "lat": -23.101,
-   "lon": -70.18,
-   "prof": 50.0,
-   "lugar": "28 km al E de Mejillones",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 50.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390034.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 49.5,
      "url": null
     }
    }
