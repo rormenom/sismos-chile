@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T21:30:29.758820Z",
+ "actualizado": "2026-11-07T21:35:16.760414Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 282
+   "n": 283
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 346
+   "n": 347
   }
  },
  "eventos": [
+  {
+   "id": "20261107212451_-40.05_-73.67",
+   "tiempo": "2026-11-07T21:24:51Z",
+   "lat": -40.054,
+   "lon": -73.675,
+   "prof": 31.0,
+   "lugar": "45 km al SO de Valdivia",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Ml",
+     "prof": 31.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391369.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 30.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261107201927_-31.23_-68.85",
    "tiempo": "2026-11-07T20:19:27Z",
