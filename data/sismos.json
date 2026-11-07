@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T17:45:24.390107Z",
+ "actualizado": "2026-11-07T17:50:18.754501Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 284
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 348
   }
  },
  "eventos": [
@@ -8079,30 +8079,6 @@
      "mag": 3.8,
      "tipo": "ml",
      "prof": 30.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261031174619_-35.20_-71.16",
-   "tiempo": "2026-10-31T17:46:19Z",
-   "lat": -35.204,
-   "lon": -71.162,
-   "prof": 98.0,
-   "lugar": "25 km al S de Curicó",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 98.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/10/390111.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 98.0,
      "url": null
     }
    }
