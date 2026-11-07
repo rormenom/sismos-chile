@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-07T00:10:22.769906Z",
+ "actualizado": "2026-11-07T00:15:21.307482Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 279
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261107000531_-21.11_-68.82",
    "tiempo": "2026-11-07T00:05:31Z",
-   "lat": -21.11,
-   "lon": -68.82,
-   "prof": 127.5,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
+   "lat": -21.114,
+   "lon": -68.816,
+   "prof": 128.0,
+   "lugar": "36 km al SO de Mina Collahuasi",
+   "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 128.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391203.html"
+    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
