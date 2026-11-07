@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-07T09:10:29.965122Z",
+ "actualizado": "2026-11-07T09:15:25.558133Z",
  "fuentes": {
   "CSN": {
    "ok": true,
    "n": 277
   },
   "USGS": {
-   "ok": false,
-   "error": "HTTP Error 504: Gateway Time-out"
+   "ok": true,
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -1222,6 +1222,12 @@
      "tipo": "Mlv",
      "prof": 38.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391046.html"
+    },
+    "USGS": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 22.291,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twet"
     },
     "EMSC": {
      "mag": 3.7,
@@ -3779,6 +3785,12 @@
      "prof": 131.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390639.html"
     },
+    "USGS": {
+     "mag": 4.1,
+     "tipo": "mb",
+     "prof": 119.327,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5q"
+    },
     "GFZ": {
      "mag": 4.1,
      "tipo": "ML",
@@ -4421,6 +4433,12 @@
      "prof": 108.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390543.html"
     },
+    "USGS": {
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 106.613,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27"
+    },
     "GFZ": {
      "mag": 4.0,
      "tipo": "Mw",
@@ -4755,13 +4773,19 @@
    "prof": 126.0,
    "lugar": "32 km al S de Mina Collahuasi",
    "ref": "CSN",
-   "mag_max": 4.1,
+   "mag_max": 4.2,
    "agencias": {
     "CSN": {
      "mag": 4.1,
      "tipo": "Mlv",
      "prof": 126.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390495.html"
+    },
+    "USGS": {
+     "mag": 4.2,
+     "tipo": "mb",
+     "prof": 124.438,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuyn"
     },
     "EMSC": {
      "mag": 4.1,
@@ -5855,6 +5879,12 @@
      "prof": 251.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390330.html"
     },
+    "USGS": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 243.598,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5"
+    },
     "GFZ": {
      "mag": 4.1,
      "tipo": "mb",
@@ -6129,13 +6159,19 @@
    "prof": 116.0,
    "lugar": "49 km al SO de Mina Collahuasi",
    "ref": "CSN",
-   "mag_max": 3.8,
+   "mag_max": 4.1,
    "agencias": {
     "CSN": {
      "mag": 3.8,
      "tipo": "Mlv",
      "prof": 116.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390294.html"
+    },
+    "USGS": {
+     "mag": 4.1,
+     "tipo": "mb",
+     "prof": 117.203,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqw"
     },
     "EMSC": {
      "mag": 3.8,
@@ -6848,15 +6884,21 @@
    }
   },
   {
-   "id": "20261101053154_-23.61_-66.59",
-   "tiempo": "2026-11-01T05:31:54.680000Z",
-   "lat": -23.608,
-   "lon": -66.595,
-   "prof": 193.8,
-   "lugar": "Jujuy Province, Argentina",
-   "ref": "GFZ",
+   "id": "20261101053154_-23.64_-66.63",
+   "tiempo": "2026-11-01T05:31:54.598000Z",
+   "lat": -23.639,
+   "lon": -66.632,
+   "prof": 202.07,
+   "lugar": "71 km NNW of San Antonio de los Cobres, Argentina",
+   "ref": "USGS",
    "mag_max": 4.8,
    "agencias": {
+    "USGS": {
+     "mag": 4.8,
+     "tipo": "mww",
+     "prof": 202.07,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy"
+    },
     "GFZ": {
      "mag": 4.8,
      "tipo": "Mw",
@@ -7102,6 +7144,12 @@
      "tipo": "Mw",
      "prof": 127.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390173.html"
+    },
+    "USGS": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 120.437,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuly"
     },
     "GFZ": {
      "mag": 4.5,
