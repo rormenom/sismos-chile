@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T14:35:22.090506Z",
+ "actualizado": "2026-11-08T14:40:20.266747Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -2810,7 +2810,7 @@
     "USGS": {
      "mag": 3.6,
      "tipo": "ml",
-     "prof": 22.291,
+     "prof": 25.803,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twet"
     },
     "EMSC": {
