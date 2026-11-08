@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T01:00:27.713227Z",
+ "actualizado": "2026-11-08T01:05:17.656158Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 282
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 346
   }
  },
  "eventos": [
@@ -8031,30 +8031,6 @@
      "mag": 4.5,
      "tipo": "mb",
      "prof": 123.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101010403_-37.15_-72.21",
-   "tiempo": "2026-11-01T01:04:03Z",
-   "lat": -37.148,
-   "lon": -72.209,
-   "prof": 52.0,
-   "lugar": "17 km al O de Yungay",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 52.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390168.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 51.9,
      "url": null
     }
    }
