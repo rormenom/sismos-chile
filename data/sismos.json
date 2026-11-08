@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T05:30:24.891541Z",
+ "actualizado": "2026-11-08T05:35:21.422603Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,15 +7,15 @@
   },
   "USGS": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "GFZ": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "EMSC": {
    "ok": true,
-   "n": 348
+   "n": 347
   }
  },
  "eventos": [
@@ -8037,36 +8037,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 137.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101053154_-23.64_-66.63",
-   "tiempo": "2026-11-01T05:31:54.598000Z",
-   "lat": -23.639,
-   "lon": -66.632,
-   "prof": 202.07,
-   "lugar": "71 km NNW of San Antonio de los Cobres, Argentina",
-   "ref": "USGS",
-   "mag_max": 4.8,
-   "agencias": {
-    "USGS": {
-     "mag": 4.8,
-     "tipo": "mww",
-     "prof": 202.07,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tumy"
-    },
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "Mw",
-     "prof": 193.8,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.8,
-     "tipo": "mw",
-     "prof": 207.0,
      "url": null
     }
    }
