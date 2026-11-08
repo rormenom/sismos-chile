@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T09:20:24.908927Z",
+ "actualizado": "2026-11-08T09:25:19.603508Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 282
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 346
   }
  },
  "eventos": [
@@ -8025,30 +8025,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 200.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101092145_-30.72_-71.68",
-   "tiempo": "2026-11-01T09:21:45Z",
-   "lat": -30.718,
-   "lon": -71.684,
-   "prof": 30.0,
-   "lugar": "6 km al S de Parque Fray Jorge",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 30.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390227.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 30.3,
      "url": null
     }
    }
