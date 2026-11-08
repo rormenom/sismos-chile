@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T07:00:27.419908Z",
+ "actualizado": "2026-11-08T07:05:18.470931Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 284
   },
   "USGS": {
    "ok": true,
@@ -1430,37 +1430,43 @@
    }
   },
   {
-   "id": "20261107023425_-29.71_-68.95",
-   "tiempo": "2026-11-07T02:34:25Z",
-   "lat": -29.71,
-   "lon": -68.95,
-   "prof": 110.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.8,
+   "id": "20261107023423_-29.74_-69.10",
+   "tiempo": "2026-11-07T02:34:23Z",
+   "lat": -29.743,
+   "lon": -69.103,
+   "prof": 132.0,
+   "lugar": "140 km al E de Paihuano",
+   "ref": "CSN",
+   "mag_max": 3.6,
    "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 132.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391222.html"
+    },
     "EMSC": {
-     "mag": 3.8,
+     "mag": 3.6,
      "tipo": "m",
-     "prof": 110.0,
+     "prof": 132.0,
      "url": null
     }
    }
   },
   {
-   "id": "20261107015432_-21.14_-70.32",
+   "id": "20261107015432_-21.14_-70.30",
    "tiempo": "2026-11-07T01:54:32Z",
-   "lat": -21.138,
-   "lon": -70.319,
-   "prof": 33.0,
+   "lat": -21.142,
+   "lon": -70.298,
+   "prof": 35.0,
    "lugar": "38 km al S de Patache",
    "ref": "CSN",
    "mag_max": 3.3,
    "agencias": {
     "CSN": {
-     "mag": 3.2,
+     "mag": 3.3,
      "tipo": "Mlv",
-     "prof": 33.0,
+     "prof": 35.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391215.html"
     },
     "EMSC": {
