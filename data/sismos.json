@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T12:05:26.954427Z",
+ "actualizado": "2026-11-08T12:10:33.420618Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,19 +20,19 @@
  },
  "eventos": [
   {
-   "id": "20261108115831_-19.65_-70.11",
+   "id": "20261108115831_-19.65_-70.06",
    "tiempo": "2026-11-08T11:58:31Z",
    "lat": -19.65,
-   "lon": -70.11,
-   "prof": 63.0,
-   "lugar": "12 km al SE de Pisagua",
+   "lon": -70.06,
+   "prof": 64.0,
+   "lugar": "17 km al E de Pisagua",
    "ref": "CSN",
-   "mag_max": 5.2,
+   "mag_max": 5.1,
    "agencias": {
     "CSN": {
-     "mag": 5.2,
+     "mag": 5.1,
      "tipo": "Mlv",
-     "prof": 63.0,
+     "prof": 64.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391473.html"
     },
     "GFZ": {
