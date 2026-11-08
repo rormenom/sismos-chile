@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T05:05:17.920516Z",
+ "actualizado": "2026-11-08T05:10:25.698444Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 284
+   "n": 283
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 348
+   "n": 347
   }
  },
  "eventos": [
@@ -8043,30 +8043,6 @@
      "mag": 4.8,
      "tipo": "mw",
      "prof": 207.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101050708_-30.61_-70.29",
-   "tiempo": "2026-11-01T05:07:08Z",
-   "lat": -30.615,
-   "lon": -70.293,
-   "prof": 104.0,
-   "lugar": "64 km al E de Monte Patria",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 104.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390200.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 103.7,
      "url": null
     }
    }
