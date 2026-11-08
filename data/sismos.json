@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T10:20:18.797746Z",
+ "actualizado": "2026-11-08T10:25:21.101013Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -20,15 +20,21 @@
  },
  "eventos": [
   {
-   "id": "20261108101517_-22.58_-69.02",
+   "id": "20261108101517_-22.58_-69.03",
    "tiempo": "2026-11-08T10:15:17Z",
-   "lat": -22.58,
-   "lon": -69.02,
-   "prof": 108.2,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -22.584,
+   "lon": -69.025,
+   "prof": 108.0,
+   "lugar": "16 km al SO de Calama",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 108.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391459.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
