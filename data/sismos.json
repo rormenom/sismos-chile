@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T21:30:24.096659Z",
+ "actualizado": "2026-11-08T21:35:18.474800Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261108212510_-21.08_-68.67",
-   "tiempo": "2026-11-08T21:25:10Z",
-   "lat": -21.077,
-   "lon": -68.667,
-   "prof": 153.0,
-   "lugar": "28 km al S de Mina Collahuasi",
+   "id": "20261108212508_-21.03_-68.45",
+   "tiempo": "2026-11-08T21:25:08Z",
+   "lat": -21.029,
+   "lon": -68.448,
+   "prof": 141.0,
+   "lugar": "30 km al NO de Ollagüe",
    "ref": "CSN",
-   "mag_max": 3.7,
+   "mag_max": 3.5,
    "agencias": {
     "CSN": {
-     "mag": 3.7,
+     "mag": 3.5,
      "tipo": "Mlv",
-     "prof": 153.0,
+     "prof": 141.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391529.html"
     },
     "EMSC": {
-     "mag": 3.7,
+     "mag": 3.5,
      "tipo": "ml",
-     "prof": 152.5,
+     "prof": 141.2,
      "url": null
     }
    }
