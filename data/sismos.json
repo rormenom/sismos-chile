@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-08T23:15:20.345185Z",
+ "actualizado": "2026-11-08T23:20:23.593274Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "GFZ": {
    "ok": true,
-   "n": 4
+   "n": 3
   },
   "EMSC": {
    "ok": true,
-   "n": 335
+   "n": 334
   }
  },
  "eventos": [
@@ -7737,42 +7737,6 @@
      "mag": 3.3,
      "tipo": "m",
      "prof": 233.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101231805_-22.51_-66.71",
-   "tiempo": "2026-11-01T23:18:05Z",
-   "lat": -22.509,
-   "lon": -66.706,
-   "prof": 251.0,
-   "lugar": "160 km al E de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 4.9,
-   "agencias": {
-    "CSN": {
-     "mag": 4.9,
-     "tipo": "Mlv",
-     "prof": 251.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390330.html"
-    },
-    "USGS": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 243.598,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tus5"
-    },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "mb",
-     "prof": 241.0,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 251.0,
      "url": null
     }
    }
