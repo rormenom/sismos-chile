@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T11:40:25.089013Z",
+ "actualizado": "2026-11-08T11:45:37.391230Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -176,19 +176,19 @@
    }
   },
   {
-   "id": "20261108070250_-23.78_-67.20",
-   "tiempo": "2026-11-08T07:02:50Z",
-   "lat": -23.783,
-   "lon": -67.203,
-   "prof": 240.0,
-   "lugar": "73 km al E de Socaire",
+   "id": "20261108070251_-23.74_-67.24",
+   "tiempo": "2026-11-08T07:02:51Z",
+   "lat": -23.74,
+   "lon": -67.241,
+   "prof": 241.0,
+   "lugar": "68 km al E de Socaire",
    "ref": "CSN",
-   "mag_max": 3.9,
+   "mag_max": 4.0,
    "agencias": {
     "CSN": {
-     "mag": 3.9,
+     "mag": 4.0,
      "tipo": "Mlv",
-     "prof": 240.0,
+     "prof": 241.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391432.html"
     }
    }
@@ -210,7 +210,7 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwg"
     },
     "EMSC": {
-     "mag": 3.2,
+     "mag": 3.3,
      "tipo": "ml",
      "prof": 197.0,
      "url": null
