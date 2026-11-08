@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T06:20:21.167883Z",
+ "actualizado": "2026-11-08T06:25:19.700778Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261108061813_-23.82_-69.42",
+   "tiempo": "2026-11-08T06:18:13Z",
+   "lat": -23.818,
+   "lon": -69.422,
+   "prof": 88.0,
+   "lugar": "62 km al NO de Mina La Escondida",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 88.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391429.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 87.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108060834_-22.28_-68.78",
    "tiempo": "2026-11-08T06:08:34Z",
@@ -7989,30 +8013,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 24.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101062207_-23.92_-66.85",
-   "tiempo": "2026-11-01T06:22:07Z",
-   "lat": -23.921,
-   "lon": -66.848,
-   "prof": 221.0,
-   "lugar": "63 km al NO de San Antonio de los Cobres",
-   "ref": "CSN",
-   "mag_max": 3.7,
-   "agencias": {
-    "CSN": {
-     "mag": 3.7,
-     "tipo": "Mlv",
-     "prof": 221.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390207.html"
-    },
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 221.4,
      "url": null
     }
    }
