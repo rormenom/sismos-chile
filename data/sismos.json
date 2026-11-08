@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T03:40:20.547769Z",
+ "actualizado": "2026-11-08T03:45:22.978120Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261108033758_-21.48_-68.60",
+   "tiempo": "2026-11-08T03:37:58Z",
+   "lat": -21.476,
+   "lon": -68.601,
+   "prof": 128.0,
+   "lugar": "46 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 128.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391414.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 128.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108025411_-22.91_-69.06",
    "tiempo": "2026-11-08T02:54:11Z",
@@ -8067,30 +8091,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 33.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101034452_-30.60_-72.46",
-   "tiempo": "2026-11-01T03:44:52Z",
-   "lat": -30.604,
-   "lon": -72.46,
-   "prof": 33.0,
-   "lugar": "75 km al O de Parque Fray Jorge",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 33.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390186.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 32.9,
      "url": null
     }
    }
