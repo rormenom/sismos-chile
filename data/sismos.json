@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T01:05:17.656158Z",
+ "actualizado": "2026-11-08T01:10:21.352933Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 346
+   "n": 347
   }
  },
  "eventos": [
+  {
+   "id": "20261108010340_-32.65_-71.12",
+   "tiempo": "2026-11-08T01:03:40Z",
+   "lat": -32.65,
+   "lon": -71.12,
+   "prof": 60.8,
+   "lugar": "VALPARAISO, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 60.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108003629_-21.38_-69.80",
    "tiempo": "2026-11-08T00:36:29Z",
