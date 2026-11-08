@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T11:20:31.594802Z",
+ "actualizado": "2026-11-08T11:25:17.005069Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261108111245_-20.71_-69.23",
-   "tiempo": "2026-11-08T11:12:45Z",
-   "lat": -20.707,
-   "lon": -69.226,
-   "prof": 112.0,
-   "lugar": "26 km al SE de Pica",
+   "id": "20261108111244_-20.72_-69.20",
+   "tiempo": "2026-11-08T11:12:44Z",
+   "lat": -20.723,
+   "lon": -69.205,
+   "prof": 114.0,
+   "lugar": "29 km al SE de Pica",
    "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
     "CSN": {
      "mag": 3.2,
      "tipo": "Mlv",
-     "prof": 112.0,
+     "prof": 114.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391466.html"
     },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
-     "prof": 112.4,
+     "prof": 113.9,
      "url": null
     }
    }
@@ -286,23 +286,23 @@
   {
    "id": "20261108051656_-23.03_-69.11",
    "tiempo": "2026-11-08T05:16:56Z",
-   "lat": -23.029,
-   "lon": -69.105,
-   "prof": 79.0,
+   "lat": -23.027,
+   "lon": -69.106,
+   "prof": 80.0,
    "lugar": "27 km al SE de Sierra Gorda",
    "ref": "CSN",
-   "mag_max": 2.9,
+   "mag_max": 2.7,
    "agencias": {
     "CSN": {
-     "mag": 2.9,
+     "mag": 2.7,
      "tipo": "Mlv",
-     "prof": 79.0,
+     "prof": 80.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391423.html"
     },
     "EMSC": {
-     "mag": 2.9,
+     "mag": 2.7,
      "tipo": "ml",
-     "prof": 78.7,
+     "prof": 80.0,
      "url": null
     }
    }
@@ -310,23 +310,23 @@
   {
    "id": "20261108045537_-23.77_-67.10",
    "tiempo": "2026-11-08T04:55:37Z",
-   "lat": -23.771,
-   "lon": -67.102,
-   "prof": 228.0,
+   "lat": -23.766,
+   "lon": -67.097,
+   "prof": 227.0,
    "lugar": "83 km al E de Socaire",
    "ref": "CSN",
-   "mag_max": 3.3,
+   "mag_max": 2.7,
    "agencias": {
     "CSN": {
-     "mag": 3.3,
+     "mag": 2.7,
      "tipo": "Mlv",
-     "prof": 228.0,
+     "prof": 227.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391421.html"
     },
     "EMSC": {
-     "mag": 3.3,
+     "mag": 2.7,
      "tipo": "ml",
-     "prof": 228.2,
+     "prof": 227.4,
      "url": null
     }
    }
