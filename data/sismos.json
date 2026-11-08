@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T06:15:21.402712Z",
+ "actualizado": "2026-11-08T06:20:21.167883Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 346
   }
  },
  "eventos": [
@@ -23,16 +23,40 @@
    "id": "20261108060834_-22.28_-68.78",
    "tiempo": "2026-11-08T06:08:34Z",
    "lat": -22.28,
-   "lon": -68.78,
-   "prof": 110.7,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lon": -68.776,
+   "prof": 111.0,
+   "lugar": "26 km al NE de Calama",
+   "ref": "CSN",
    "mag_max": 2.5,
    "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 111.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391427.html"
+    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
      "prof": 110.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261108060451_-34.00_-67.40",
+   "tiempo": "2026-11-08T06:04:51Z",
+   "lat": -34.0,
+   "lon": -67.4,
+   "prof": 173.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 173.0,
      "url": null
     }
    }
@@ -7989,48 +8013,6 @@
      "mag": 3.6,
      "tipo": "ml",
      "prof": 221.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101061820_-21.65_-68.47",
-   "tiempo": "2026-11-01T06:18:20Z",
-   "lat": -21.648,
-   "lon": -68.473,
-   "prof": 135.0,
-   "lugar": "52 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 135.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390206.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 134.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101061640_-31.15_-67.59",
-   "tiempo": "2026-11-01T06:16:40Z",
-   "lat": -31.15,
-   "lon": -67.59,
-   "prof": 84.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.9,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "m",
-     "prof": 84.0,
      "url": null
     }
    }
