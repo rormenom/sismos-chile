@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T11:35:18.476226Z",
+ "actualizado": "2026-11-08T11:40:25.089013Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 344
+   "n": 343
   }
  },
  "eventos": [
   {
-   "id": "20261108112422_-20.91_-68.83",
-   "tiempo": "2026-11-08T11:24:22Z",
-   "lat": -20.905,
-   "lon": -68.835,
-   "prof": 104.0,
-   "lugar": "20 km al SO de Mina Collahuasi",
+   "id": "20261108112421_-20.89_-68.82",
+   "tiempo": "2026-11-08T11:24:21Z",
+   "lat": -20.889,
+   "lon": -68.817,
+   "prof": 108.0,
+   "lugar": "18 km al O de Mina Collahuasi",
    "ref": "CSN",
    "mag_max": 3.7,
    "agencias": {
     "CSN": {
      "mag": 3.7,
      "tipo": "Mlv",
-     "prof": 104.0,
+     "prof": 108.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391469.html"
     },
     "EMSC": {
      "mag": 3.7,
      "tipo": "ml",
-     "prof": 103.5,
+     "prof": 107.6,
      "url": null
     }
    }
@@ -7959,30 +7959,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 136.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101113834_-27.59_-72.17",
-   "tiempo": "2026-11-01T11:38:34Z",
-   "lat": -27.587,
-   "lon": -72.175,
-   "prof": 28.0,
-   "lugar": "115 km al NO de Carrizal Bajo",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 28.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390237.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 28.2,
      "url": null
     }
    }
