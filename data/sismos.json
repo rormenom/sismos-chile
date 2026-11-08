@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T08:25:19.515261Z",
+ "actualizado": "2026-11-08T08:30:27.270238Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 282
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261108082537_-27.48_-66.66",
+   "tiempo": "2026-11-08T08:25:37Z",
+   "lat": -27.48,
+   "lon": -66.66,
+   "prof": 10.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108072630_-31.70_-67.30",
    "tiempo": "2026-11-08T07:26:30Z",
@@ -7989,30 +8007,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 231.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101082640_-20.75_-69.50",
-   "tiempo": "2026-11-01T08:26:40Z",
-   "lat": -20.747,
-   "lon": -69.499,
-   "prof": 49.0,
-   "lugar": "33 km al SO de Pica",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 49.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390218.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 49.3,
      "url": null
     }
    }
