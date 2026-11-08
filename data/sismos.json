@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T10:15:20.699562Z",
+ "actualizado": "2026-11-08T10:20:18.797746Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 279
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 345
+   "n": 344
   }
  },
  "eventos": [
+  {
+   "id": "20261108101517_-22.58_-69.02",
+   "tiempo": "2026-11-08T10:15:17Z",
+   "lat": -22.58,
+   "lon": -69.02,
+   "prof": 108.2,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 108.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108090001_-20.85_-68.87",
    "tiempo": "2026-11-08T09:00:01Z",
@@ -7953,54 +7971,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 132.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101101944_-20.88_-69.17",
-   "tiempo": "2026-11-01T10:19:44Z",
-   "lat": -20.876,
-   "lon": -69.168,
-   "prof": 112.0,
-   "lugar": "46 km al SE de Pica",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 112.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390232.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 112.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101101715_-21.11_-68.74",
-   "tiempo": "2026-11-01T10:17:15Z",
-   "lat": -21.114,
-   "lon": -68.742,
-   "prof": 145.0,
-   "lugar": "33 km al S de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 145.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390231.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 145.3,
      "url": null
     }
    }
