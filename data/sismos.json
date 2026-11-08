@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T13:10:21.143031Z",
+ "actualizado": "2026-11-08T13:15:21.264195Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 344
+   "n": 343
   }
  },
  "eventos": [
@@ -7971,30 +7971,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 293.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101131100_-38.87_-73.62",
-   "tiempo": "2026-11-01T13:11:00Z",
-   "lat": -38.871,
-   "lon": -73.624,
-   "prof": 48.0,
-   "lugar": "52 km al NO de Toltén",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 48.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390247.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 48.2,
      "url": null
     }
    }
