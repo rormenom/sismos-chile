@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T00:15:45.432977Z",
+ "actualizado": "2026-11-08T00:20:22.289180Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 288
+   "n": 287
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 352
+   "n": 351
   }
  },
  "eventos": [
@@ -8151,30 +8151,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 125.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101001952_-29.81_-71.60",
-   "tiempo": "2026-11-01T00:19:52Z",
-   "lat": -29.812,
-   "lon": -71.603,
-   "prof": 61.0,
-   "lugar": "35 km al O de La Serena",
-   "ref": "CSN",
-   "mag_max": 3.4,
-   "agencias": {
-    "CSN": {
-     "mag": 3.4,
-     "tipo": "Mlv",
-     "prof": 61.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390158.html"
-    },
-    "EMSC": {
-     "mag": 3.4,
-     "tipo": "ml",
-     "prof": 61.3,
      "url": null
     }
    }
