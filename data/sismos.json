@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T22:05:21.346097Z",
+ "actualizado": "2026-11-08T22:10:21.882272Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 272
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 335
   }
  },
  "eventos": [
+  {
+   "id": "20261108220209_-21.29_-68.93",
+   "tiempo": "2026-11-08T22:02:09Z",
+   "lat": -21.285,
+   "lon": -68.926,
+   "prof": 120.0,
+   "lugar": "58 km al SO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 120.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391537.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 119.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261108215732_-33.21_-67.48",
+   "tiempo": "2026-11-08T21:57:32Z",
+   "lat": -33.21,
+   "lon": -67.48,
+   "prof": 195.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 195.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108212508_-21.03_-68.45",
    "tiempo": "2026-11-08T21:25:08Z",
@@ -7731,24 +7773,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 117.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101220821_-31.50_-68.58",
-   "tiempo": "2026-11-01T22:08:21Z",
-   "lat": -31.5,
-   "lon": -68.58,
-   "prof": 115.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.8,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "m",
-     "prof": 115.0,
      "url": null
     }
    }
