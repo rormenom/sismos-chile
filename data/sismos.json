@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-08T18:40:21.618482Z",
+ "actualizado": "2026-11-08T18:45:23.601269Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 277
+   "n": 276
   },
   "USGS": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 339
   }
  },
  "eventos": [
@@ -7869,36 +7869,6 @@
      "mag": 2.6,
      "tipo": "m",
      "prof": 103.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261101184202_-21.13_-69.00",
-   "tiempo": "2026-11-01T18:42:02Z",
-   "lat": -21.132,
-   "lon": -68.997,
-   "prof": 116.0,
-   "lugar": "49 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 4.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.8,
-     "tipo": "Mlv",
-     "prof": 116.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390294.html"
-    },
-    "USGS": {
-     "mag": 4.1,
-     "tipo": "mb",
-     "prof": 117.203,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuqw"
-    },
-    "EMSC": {
-     "mag": 3.8,
-     "tipo": "ml",
-     "prof": 116.1,
      "url": null
     }
    }
