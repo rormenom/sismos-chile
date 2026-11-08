@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T06:55:19.591003Z",
+ "actualizado": "2026-11-08T07:00:27.419908Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -1455,7 +1455,7 @@
    "prof": 33.0,
    "lugar": "38 km al S de Patache",
    "ref": "CSN",
-   "mag_max": 3.2,
+   "mag_max": 3.3,
    "agencias": {
     "CSN": {
      "mag": 3.2,
@@ -1464,9 +1464,9 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391215.html"
     },
     "EMSC": {
-     "mag": 3.2,
+     "mag": 3.3,
      "tipo": "ml",
-     "prof": 32.9,
+     "prof": 34.7,
      "url": null
     }
    }
