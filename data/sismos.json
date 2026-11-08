@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T11:15:19.818301Z",
+ "actualizado": "2026-11-08T11:20:31.594802Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 343
+   "n": 344
   }
  },
  "eventos": [
+  {
+   "id": "20261108111245_-20.71_-69.23",
+   "tiempo": "2026-11-08T11:12:45Z",
+   "lat": -20.707,
+   "lon": -69.226,
+   "prof": 112.0,
+   "lugar": "26 km al SE de Pica",
+   "ref": "CSN",
+   "mag_max": 3.2,
+   "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 112.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391466.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 112.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261108101517_-22.58_-69.03",
    "tiempo": "2026-11-08T10:15:17Z",
@@ -1532,25 +1556,25 @@
    }
   },
   {
-   "id": "20261107035449_-22.42_-67.70",
+   "id": "20261107035449_-22.44_-67.75",
    "tiempo": "2026-11-07T03:54:49Z",
-   "lat": -22.416,
-   "lon": -67.703,
-   "prof": 197.0,
-   "lugar": "76 km al NE de San Pedro de Atacama",
+   "lat": -22.438,
+   "lon": -67.753,
+   "prof": 203.0,
+   "lugar": "71 km al NE de San Pedro de Atacama",
    "ref": "CSN",
-   "mag_max": 2.6,
+   "mag_max": 2.5,
    "agencias": {
     "CSN": {
-     "mag": 2.6,
+     "mag": 2.5,
      "tipo": "Mlv",
-     "prof": 197.0,
+     "prof": 203.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391237.html"
     },
     "EMSC": {
-     "mag": 2.6,
+     "mag": 2.5,
      "tipo": "ml",
-     "prof": 197.3,
+     "prof": 203.4,
      "url": null
     }
    }
