@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-08T12:00:39.228178Z",
+ "actualizado": "2026-11-08T12:05:26.954427Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 280
+   "n": 281
   },
   "USGS": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 3
+   "n": 4
   },
   "EMSC": {
    "ok": true,
@@ -20,19 +20,31 @@
  },
  "eventos": [
   {
-   "id": "20261108115832_-19.69_-70.17",
-   "tiempo": "2026-11-08T11:58:32.140000Z",
-   "lat": -19.688,
-   "lon": -70.166,
-   "prof": 39.3,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
-   "mag_max": 5.1,
+   "id": "20261108115831_-19.65_-70.11",
+   "tiempo": "2026-11-08T11:58:31Z",
+   "lat": -19.65,
+   "lon": -70.11,
+   "prof": 63.0,
+   "lugar": "12 km al SE de Pisagua",
+   "ref": "CSN",
+   "mag_max": 5.2,
    "agencias": {
+    "CSN": {
+     "mag": 5.2,
+     "tipo": "Mlv",
+     "prof": 63.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391473.html"
+    },
+    "GFZ": {
+     "mag": 4.9,
+     "tipo": "mb",
+     "prof": 58.5,
+     "url": null
+    },
     "EMSC": {
      "mag": 5.1,
      "tipo": "ml",
-     "prof": 39.3,
+     "prof": 58.5,
      "url": null
     }
    }
