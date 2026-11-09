@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T09:05:20.025966Z",
+ "actualizado": "2026-11-09T09:10:48.591365Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 273
   },
   "USGS": {
    "ok": true,
@@ -11,14 +11,38 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 4
+   "n": 5
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 342
   }
  },
  "eventos": [
+  {
+   "id": "20261109090359_-21.00_-70.66",
+   "tiempo": "2026-11-09T09:03:59Z",
+   "lat": -20.997,
+   "lon": -70.656,
+   "prof": 26.0,
+   "lugar": "52 km al O de Patache",
+   "ref": "CSN",
+   "mag_max": 3.8,
+   "agencias": {
+    "CSN": {
+     "mag": 3.8,
+     "tipo": "Mlv",
+     "prof": 26.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391614.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 26.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109084704_-31.59_-67.36",
    "tiempo": "2026-11-09T08:47:04Z",
@@ -57,6 +81,30 @@
      "mag": 3.4,
      "tipo": "ml",
      "prof": 99.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261109082213_-27.92_-67.60",
+   "tiempo": "2026-11-09T08:22:13.270000Z",
+   "lat": -27.922,
+   "lon": -67.597,
+   "prof": 10.0,
+   "lugar": "Catamarca Province, Argentina",
+   "ref": "GFZ",
+   "mag_max": 4.77,
+   "agencias": {
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "mb",
+     "prof": 10.0,
+     "url": null
+    },
+    "EMSC": {
+     "mag": 4.6,
+     "tipo": "m",
+     "prof": 135.0,
      "url": null
     }
    }
