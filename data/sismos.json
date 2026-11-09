@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T02:05:28.762202Z",
+ "actualizado": "2026-11-09T02:10:28.442349Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 270
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 335
   }
  },
  "eventos": [
+  {
+   "id": "20261109020340_-23.45_-66.84",
+   "tiempo": "2026-11-09T02:03:40Z",
+   "lat": -23.448,
+   "lon": -66.841,
+   "prof": 206.0,
+   "lugar": "101 km al NO de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 3.8,
+   "agencias": {
+    "CSN": {
+     "mag": 3.8,
+     "tipo": "Mlv",
+     "prof": 206.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391564.html"
+    },
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 206.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109010636_-21.38_-68.64",
    "tiempo": "2026-11-09T01:06:36Z",
