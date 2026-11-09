@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T16:55:19.533649Z",
+ "actualizado": "2026-11-09T17:00:31.397655Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 266
+   "n": 267
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261109164957_-19.05_-69.48",
    "tiempo": "2026-11-09T16:49:57Z",
-   "lat": -19.05,
-   "lon": -69.48,
-   "prof": 93.2,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
+   "lat": -19.048,
+   "lon": -69.482,
+   "prof": 93.0,
+   "lugar": "30 km al N de Camiña",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 93.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391675.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
