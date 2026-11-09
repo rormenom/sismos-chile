@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T19:40:22.367324Z",
+ "actualizado": "2026-11-09T19:45:24.058232Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 333
+   "n": 332
   }
  },
  "eventos": [
@@ -7683,30 +7683,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 245.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102194105_-31.22_-71.51",
-   "tiempo": "2026-11-02T19:41:05Z",
-   "lat": -31.216,
-   "lon": -71.508,
-   "prof": 49.0,
-   "lugar": "21 km al N de Canela Baja",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 49.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390500.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 49.5,
      "url": null
     }
    }
