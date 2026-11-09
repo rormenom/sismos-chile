@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T17:55:22.564427Z",
+ "actualizado": "2026-11-09T18:00:34.730490Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 265
+   "n": 264
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261109175050_-17.39_-70.92",
+   "tiempo": "2026-11-09T17:50:50Z",
+   "lat": -17.39,
+   "lon": -70.92,
+   "prof": 29.0,
+   "lugar": "SOUTHERN PERU",
+   "ref": "EMSC",
+   "mag_max": 3.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "m",
+     "prof": 29.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109164957_-19.05_-69.48",
    "tiempo": "2026-11-09T16:49:57Z",
@@ -7677,30 +7695,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 161.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102175648_-21.71_-68.57",
-   "tiempo": "2026-11-02T17:56:48Z",
-   "lat": -21.711,
-   "lon": -68.568,
-   "prof": 125.0,
-   "lugar": "63 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 125.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390482.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 125.1,
      "url": null
     }
    }
