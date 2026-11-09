@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T21:35:30.668017Z",
+ "actualizado": "2026-11-09T21:40:35.249712Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261109213014_-19.60_-69.49",
+   "tiempo": "2026-11-09T21:30:14Z",
+   "lat": -19.604,
+   "lon": -69.487,
+   "prof": 113.0,
+   "lugar": "33 km al S de Camiña",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 113.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391711.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 113.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109211127_-20.70_-68.70",
    "tiempo": "2026-11-09T21:11:27Z",
@@ -7659,30 +7683,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 133.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102213927_-23.98_-67.39",
-   "tiempo": "2026-11-02T21:39:27Z",
-   "lat": -23.975,
-   "lon": -67.395,
-   "prof": 200.0,
-   "lugar": "66 km al SE de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 200.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390510.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 200.3,
      "url": null
     }
    }
