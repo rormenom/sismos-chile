@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T20:00:32.890689Z",
+ "actualizado": "2026-11-09T20:05:20.316125Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 333
   }
  },
  "eventos": [
@@ -7701,30 +7701,6 @@
      "mag": 2.7,
      "tipo": "m",
      "prof": 7.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102200443_-23.07_-67.17",
-   "tiempo": "2026-11-02T20:04:43Z",
-   "lat": -23.071,
-   "lon": -67.167,
-   "prof": 245.0,
-   "lugar": "94 km al NE de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 245.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390502.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 245.4,
      "url": null
     }
    }
