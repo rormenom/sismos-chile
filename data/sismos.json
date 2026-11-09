@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T16:05:19.772127Z",
+ "actualizado": "2026-11-09T16:10:25.969373Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 268
+   "n": 267
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 336
+   "n": 335
   }
  },
  "eventos": [
@@ -7767,30 +7767,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 30.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102160616_-29.70_-70.79",
-   "tiempo": "2026-11-02T16:06:16Z",
-   "lat": -29.695,
-   "lon": -70.792,
-   "prof": 79.0,
-   "lugar": "38 km al N de Vicuña",
-   "ref": "CSN",
-   "mag_max": 3.6,
-   "agencias": {
-    "CSN": {
-     "mag": 3.6,
-     "tipo": "Mlv",
-     "prof": 79.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390462.html"
-    },
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 78.6,
      "url": null
     }
    }
