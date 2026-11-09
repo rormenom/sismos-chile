@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T06:25:27.269404Z",
+ "actualizado": "2026-11-09T06:30:34.746615Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 274
+   "n": 275
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 342
   }
  },
  "eventos": [
+  {
+   "id": "20261109062234_-22.42_-68.52",
+   "tiempo": "2026-11-09T06:22:34Z",
+   "lat": -22.416,
+   "lon": -68.515,
+   "prof": 104.0,
+   "lugar": "43 km al E de Calama",
+   "ref": "CSN",
+   "mag_max": 4.0,
+   "agencias": {
+    "CSN": {
+     "mag": 4.0,
+     "tipo": "M",
+     "prof": 104.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391598.html"
+    },
+    "EMSC": {
+     "mag": 3.9,
+     "tipo": "ml",
+     "prof": 106.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261109062040_-28.86_-68.88",
+   "tiempo": "2026-11-09T06:20:40Z",
+   "lat": -28.86,
+   "lon": -68.88,
+   "prof": 131.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.9,
+     "tipo": "m",
+     "prof": 131.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109061147_-31.69_-66.91",
    "tiempo": "2026-11-09T06:11:47Z",
