@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T04:00:39.800786Z",
+ "actualizado": "2026-11-09T04:05:25.461031Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 336
+   "n": 335
   }
  },
  "eventos": [
@@ -7755,30 +7755,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 39.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102040134_-38.75_-72.10",
-   "tiempo": "2026-11-02T04:01:34Z",
-   "lat": -38.754,
-   "lon": -72.099,
-   "prof": 98.0,
-   "lugar": "43 km al E de Temuco",
-   "ref": "CSN",
-   "mag_max": 3.6,
-   "agencias": {
-    "CSN": {
-     "mag": 3.6,
-     "tipo": "Mlv",
-     "prof": 98.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390354.html"
-    },
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 98.2,
      "url": null
     }
    }
