@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T14:45:25.437308Z",
+ "actualizado": "2026-11-09T14:50:23.323298Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 270
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 341
+   "n": 340
   }
  },
  "eventos": [
@@ -7857,30 +7857,6 @@
      "mag": 4.0,
      "tipo": "ml",
      "prof": 132.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102144912_-42.59_-74.28",
-   "tiempo": "2026-11-02T14:49:12Z",
-   "lat": -42.592,
-   "lon": -74.278,
-   "prof": 44.0,
-   "lugar": "44 km al O de Castro",
-   "ref": "CSN",
-   "mag_max": 3.6,
-   "agencias": {
-    "CSN": {
-     "mag": 3.6,
-     "tipo": "Mlv",
-     "prof": 44.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390440.html"
-    },
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 44.2,
      "url": null
     }
    }
