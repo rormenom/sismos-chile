@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T11:50:20.964473Z",
+ "actualizado": "2026-11-09T11:55:21.751626Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 268
+   "n": 269
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261109114534_-41.72_-76.17",
-   "tiempo": "2026-11-09T11:45:34Z",
-   "lat": -41.72,
-   "lon": -76.17,
-   "prof": 25.0,
-   "lugar": "OFF COAST OF LOS LAGOS, CHILE",
-   "ref": "EMSC",
-   "mag_max": 4.0,
+   "id": "20261109114539_-41.53_-75.49",
+   "tiempo": "2026-11-09T11:45:39Z",
+   "lat": -41.53,
+   "lon": -75.49,
+   "prof": 21.0,
+   "lugar": "143 km al O de Ancud",
+   "ref": "CSN",
+   "mag_max": 3.9,
    "agencias": {
+    "CSN": {
+     "mag": 3.9,
+     "tipo": "M",
+     "prof": 21.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391632.html"
+    },
     "EMSC": {
-     "mag": 4.0,
-     "tipo": "ml",
-     "prof": 25.0,
+     "mag": 3.9,
+     "tipo": "m",
+     "prof": 20.9,
      "url": null
     }
    }
