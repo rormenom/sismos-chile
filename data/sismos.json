@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T04:20:26.086302Z",
+ "actualizado": "2026-11-09T04:25:29.141973Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 272
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 335
+   "n": 336
   }
  },
  "eventos": [
+  {
+   "id": "20261109041319_-33.19_-70.85",
+   "tiempo": "2026-11-09T04:13:19Z",
+   "lat": -33.189,
+   "lon": -70.852,
+   "prof": 71.0,
+   "lugar": "16 km al O de Colina",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 71.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391578.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 71.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109025402_-19.43_-69.28",
    "tiempo": "2026-11-09T02:54:02Z",
