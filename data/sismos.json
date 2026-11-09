@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T14:30:28.138205Z",
+ "actualizado": "2026-11-09T14:35:22.042197Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 341
   }
  },
  "eventos": [
   {
-   "id": "20261109142210_-20.29_-69.37",
-   "tiempo": "2026-11-09T14:22:10Z",
-   "lat": -20.291,
-   "lon": -69.37,
-   "prof": 99.0,
-   "lugar": "23 km al N de Pica",
+   "id": "20261109142208_-20.27_-69.18",
+   "tiempo": "2026-11-09T14:22:08Z",
+   "lat": -20.265,
+   "lon": -69.176,
+   "prof": 115.0,
+   "lugar": "30 km al NE de Pica",
    "ref": "CSN",
-   "mag_max": 3.6,
+   "mag_max": 3.8,
    "agencias": {
     "CSN": {
-     "mag": 3.6,
+     "mag": 3.8,
      "tipo": "Mlv",
-     "prof": 99.0,
+     "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391656.html"
     },
     "EMSC": {
-     "mag": 3.6,
+     "mag": 3.8,
      "tipo": "ml",
-     "prof": 98.6,
+     "prof": 114.7,
      "url": null
     }
    }
@@ -7881,30 +7881,6 @@
      "mag": 3.6,
      "tipo": "ml",
      "prof": 44.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102143308_-32.23_-70.27",
-   "tiempo": "2026-11-02T14:33:08Z",
-   "lat": -32.229,
-   "lon": -70.266,
-   "prof": 111.0,
-   "lugar": "54 km al SE de Mina Los Pelambres",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 111.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390438.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "m",
-     "prof": 110.8,
      "url": null
     }
    }
