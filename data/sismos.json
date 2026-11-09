@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T15:20:21.280431Z",
+ "actualizado": "2026-11-09T15:25:22.087812Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -332,15 +332,21 @@
    }
   },
   {
-   "id": "20261109082213_-27.92_-67.60",
-   "tiempo": "2026-11-09T08:22:13.270000Z",
-   "lat": -27.922,
-   "lon": -67.597,
-   "prof": 10.0,
-   "lugar": "Catamarca Province, Argentina",
-   "ref": "GFZ",
+   "id": "20261109082213_-27.87_-67.71",
+   "tiempo": "2026-11-09T08:22:13.253000Z",
+   "lat": -27.868,
+   "lon": -67.707,
+   "prof": 10,
+   "lugar": "23 km SSW of Fiambalá, Argentina",
+   "ref": "USGS",
    "mag_max": 4.77,
    "agencias": {
+    "USGS": {
+     "mag": 4.2,
+     "tipo": "mb",
+     "prof": 10,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2q"
+    },
     "GFZ": {
      "mag": 4.8,
      "tipo": "mb",
