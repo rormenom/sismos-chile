@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T13:15:23.535749Z",
+ "actualizado": "2026-11-09T13:20:19.926158Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 273
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 341
+   "n": 342
   }
  },
  "eventos": [
+  {
+   "id": "20261109130826_-35.70_-71.32",
+   "tiempo": "2026-11-09T13:08:26Z",
+   "lat": -35.7,
+   "lon": -71.318,
+   "prof": 102.0,
+   "lugar": "30 km al NE de Linares",
+   "ref": "CSN",
+   "mag_max": 3.6,
+   "agencias": {
+    "CSN": {
+     "mag": 3.6,
+     "tipo": "Mlv",
+     "prof": 102.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391645.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 101.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109125552_-28.96_-71.03",
    "tiempo": "2026-11-09T12:55:52Z",
