@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T19:35:19.112542Z",
+ "actualizado": "2026-11-09T19:40:22.367324Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 333
   }
  },
  "eventos": [
+  {
+   "id": "20261109192645_-29.92_-67.32",
+   "tiempo": "2026-11-09T19:26:45Z",
+   "lat": -29.92,
+   "lon": -67.32,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109190437_-24.05_-67.39",
    "tiempo": "2026-11-09T19:04:37Z",
@@ -483,6 +501,24 @@
      "mag": 2.8,
      "tipo": "m",
      "prof": 113.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261109064037_-31.69_-67.05",
+   "tiempo": "2026-11-09T06:40:37Z",
+   "lat": -31.694,
+   "lon": -67.052,
+   "prof": 122.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 122.0,
      "url": null
     }
    }
