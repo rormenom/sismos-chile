@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-09T08:15:21.982813Z",
+ "actualizado": "2026-11-09T08:20:38.632251Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 274
+   "n": 273
   },
   "USGS": {
    "ok": true,
    "n": 7
   },
   "GFZ": {
-   "ok": false,
-   "error": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "n": 4
   },
   "EMSC": {
    "ok": true,
-   "n": 341
+   "n": 340
   }
  },
  "eventos": [
@@ -969,7 +969,7 @@
    "prof": 65.0,
    "lugar": "16 km al E de Pisagua",
    "ref": "CSN",
-   "mag_max": 4.9,
+   "mag_max": 4.95,
    "agencias": {
     "CSN": {
      "mag": 4.9,
@@ -982,6 +982,12 @@
      "tipo": "mwr",
      "prof": 68.785,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf"
+    },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "mb",
+     "prof": 55.3,
+     "url": null
     },
     "EMSC": {
      "mag": 4.7,
@@ -1180,6 +1186,12 @@
      "tipo": "mb",
      "prof": 223.654,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwg"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 231.9,
+     "url": null
     },
     "EMSC": {
      "mag": 4.0,
@@ -6215,6 +6227,12 @@
      "prof": 119.327,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5q"
     },
+    "GFZ": {
+     "mag": 4.1,
+     "tipo": "ML",
+     "prof": 135.9,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.1,
      "tipo": "mb",
@@ -6856,6 +6874,12 @@
      "tipo": "mb",
      "prof": 106.613,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "Mw",
+     "prof": 98.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.3,
@@ -7839,30 +7863,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 40.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102081623_-30.16_-71.10",
-   "tiempo": "2026-11-02T08:16:23Z",
-   "lat": -30.158,
-   "lon": -71.096,
-   "prof": 47.0,
-   "lugar": "8 km al N de Andacollo",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 47.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390391.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 47.0,
      "url": null
     }
    }
