@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T03:55:32.023079Z",
+ "actualizado": "2026-11-09T04:00:39.800786Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 273
+   "n": 272
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 337
+   "n": 336
   }
  },
  "eventos": [
@@ -7779,30 +7779,6 @@
      "mag": 3.6,
      "tipo": "ml",
      "prof": 98.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102040013_-29.57_-71.90",
-   "tiempo": "2026-11-02T04:00:13Z",
-   "lat": -29.57,
-   "lon": -71.9,
-   "prof": 39.0,
-   "lugar": "55 km al SO de Punta de Choros",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 39.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390352.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 39.2,
      "url": null
     }
    }
