@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T21:50:23.094119Z",
+ "actualizado": "2026-11-09T21:55:17.425488Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 263
+   "n": 262
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261109215016_-20.82_-69.21",
+   "tiempo": "2026-11-09T21:50:16Z",
+   "lat": -20.82,
+   "lon": -69.21,
+   "prof": 113.1,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 113.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109213014_-19.60_-69.49",
    "tiempo": "2026-11-09T21:30:14Z",
@@ -7659,30 +7677,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 106.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102215240_-21.52_-68.47",
-   "tiempo": "2026-11-02T21:52:40Z",
-   "lat": -21.523,
-   "lon": -68.472,
-   "prof": 133.0,
-   "lugar": "40 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 133.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390511.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 133.0,
      "url": null
     }
    }
