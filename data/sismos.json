@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T10:05:18.623490Z",
+ "actualizado": "2026-11-09T10:10:22.162124Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "EMSC": {
    "ok": true,
@@ -2506,6 +2506,12 @@
      "tipo": "mb",
      "prof": 110.716,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp"
+    },
+    "GFZ": {
+     "mag": 4.2,
+     "tipo": "Mw",
+     "prof": 115.1,
+     "url": null
     },
     "EMSC": {
      "mag": 4.5,
