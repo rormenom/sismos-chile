@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T06:30:34.746615Z",
+ "actualizado": "2026-11-09T06:35:47.152153Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,8 +10,8 @@
    "n": 7
   },
   "GFZ": {
-   "ok": true,
-   "n": 3
+   "ok": false,
+   "error": "<urlopen error timed out>"
   },
   "EMSC": {
    "ok": true,
@@ -20,19 +20,19 @@
  },
  "eventos": [
   {
-   "id": "20261109062234_-22.42_-68.52",
-   "tiempo": "2026-11-09T06:22:34Z",
-   "lat": -22.416,
-   "lon": -68.515,
-   "prof": 104.0,
-   "lugar": "43 km al E de Calama",
+   "id": "20261109062233_-22.38_-68.56",
+   "tiempo": "2026-11-09T06:22:33Z",
+   "lat": -22.375,
+   "lon": -68.557,
+   "prof": 106.0,
+   "lugar": "40 km al E de Calama",
    "ref": "CSN",
-   "mag_max": 4.0,
+   "mag_max": 3.9,
    "agencias": {
     "CSN": {
-     "mag": 4.0,
-     "tipo": "M",
-     "prof": 104.0,
+     "mag": 3.9,
+     "tipo": "Mlv",
+     "prof": 106.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391598.html"
     },
     "EMSC": {
@@ -897,7 +897,7 @@
    "prof": 65.0,
    "lugar": "16 km al E de Pisagua",
    "ref": "CSN",
-   "mag_max": 4.91,
+   "mag_max": 4.9,
    "agencias": {
     "CSN": {
      "mag": 4.9,
@@ -910,12 +910,6 @@
      "tipo": "mwr",
      "prof": 68.785,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf"
-    },
-    "GFZ": {
-     "mag": 4.9,
-     "tipo": "mb",
-     "prof": 58.5,
-     "url": null
     },
     "EMSC": {
      "mag": 4.7,
@@ -6149,12 +6143,6 @@
      "prof": 119.327,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5q"
     },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "ML",
-     "prof": 135.9,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.1,
      "tipo": "mb",
@@ -6796,12 +6784,6 @@
      "tipo": "mb",
      "prof": 106.613,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "Mw",
-     "prof": 98.7,
-     "url": null
     },
     "EMSC": {
      "mag": 4.3,
