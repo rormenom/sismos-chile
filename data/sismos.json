@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T08:25:34.314592Z",
+ "actualizado": "2026-11-09T08:30:27.243595Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,8 +10,8 @@
    "n": 7
   },
   "GFZ": {
-   "ok": true,
-   "n": 4
+   "ok": false,
+   "error": "HTTP Error 502: Bad Gateway"
   },
   "EMSC": {
    "ok": true,
@@ -969,7 +969,7 @@
    "prof": 65.0,
    "lugar": "16 km al E de Pisagua",
    "ref": "CSN",
-   "mag_max": 4.95,
+   "mag_max": 4.9,
    "agencias": {
     "CSN": {
      "mag": 4.9,
@@ -982,12 +982,6 @@
      "tipo": "mwr",
      "prof": 68.785,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf"
-    },
-    "GFZ": {
-     "mag": 5.0,
-     "tipo": "mb",
-     "prof": 55.3,
-     "url": null
     },
     "EMSC": {
      "mag": 4.7,
@@ -1186,12 +1180,6 @@
      "tipo": "mb",
      "prof": 223.654,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwg"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "mb",
-     "prof": 231.9,
-     "url": null
     },
     "EMSC": {
      "mag": 4.0,
@@ -6227,12 +6215,6 @@
      "prof": 119.327,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv5q"
     },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "ML",
-     "prof": 135.9,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.1,
      "tipo": "mb",
@@ -6874,12 +6856,6 @@
      "tipo": "mb",
      "prof": 106.613,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "Mw",
-     "prof": 98.7,
-     "url": null
     },
     "EMSC": {
      "mag": 4.3,
