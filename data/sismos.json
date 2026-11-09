@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-09T09:50:23.720321Z",
+ "actualizado": "2026-11-09T09:55:18.016276Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 341
   }
  },
  "eventos": [
@@ -7875,30 +7875,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 102.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102095032_-19.20_-69.41",
-   "tiempo": "2026-11-02T09:50:32Z",
-   "lat": -19.197,
-   "lon": -69.412,
-   "prof": 94.0,
-   "lugar": "13 km al N de Camiña",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 94.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390401.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 93.8,
      "url": null
     }
    }
