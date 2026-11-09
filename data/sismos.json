@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T11:45:22.582908Z",
+ "actualizado": "2026-11-09T11:50:20.964473Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 340
   }
  },
  "eventos": [
+  {
+   "id": "20261109114534_-41.72_-76.17",
+   "tiempo": "2026-11-09T11:45:34Z",
+   "lat": -41.72,
+   "lon": -76.17,
+   "prof": 25.0,
+   "lugar": "OFF COAST OF LOS LAGOS, CHILE",
+   "ref": "EMSC",
+   "mag_max": 4.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 4.0,
+     "tipo": "ml",
+     "prof": 25.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109095034_-20.50_-68.86",
    "tiempo": "2026-11-09T09:50:34Z",
