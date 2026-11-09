@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09T16:40:22.154961Z",
+ "actualizado": "2026-11-09T16:45:21.861020Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261109163817_-21.29_-68.64",
+   "tiempo": "2026-11-09T16:38:17Z",
+   "lat": -21.289,
+   "lon": -68.638,
+   "prof": 131.0,
+   "lugar": "41 km al O de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 131.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391671.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 131.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109153011_-20.58_-69.02",
    "tiempo": "2026-11-09T15:30:11Z",
@@ -7743,30 +7767,6 @@
      "mag": 3.8,
      "tipo": "ml",
      "prof": 104.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261102164159_-31.82_-71.77",
-   "tiempo": "2026-11-02T16:41:59Z",
-   "lat": -31.818,
-   "lon": -71.766,
-   "prof": 30.0,
-   "lugar": "26 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 30.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390464.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 30.3,
      "url": null
     }
    }
