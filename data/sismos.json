@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-10T01:05:18.956609Z",
+ "actualizado": "2026-11-10T01:10:21.468381Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261110005917_-21.49_-68.11",
+   "tiempo": "2026-11-10T00:59:17Z",
+   "lat": -21.489,
+   "lon": -68.113,
+   "prof": 143.0,
+   "lugar": "33 km al SE de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 143.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391728.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 142.6,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261109233415_-32.66_-71.82",
    "tiempo": "2026-11-09T23:34:15Z",
@@ -7605,24 +7629,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 73.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103010837_-28.81_-67.39",
-   "tiempo": "2026-11-03T01:08:37Z",
-   "lat": -28.81,
-   "lon": -67.39,
-   "prof": 114.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 114.0,
      "url": null
     }
    }
