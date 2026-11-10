@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-10T01:40:19.108765Z",
+ "actualizado": "2026-11-10T01:45:19.709491Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 261
   },
   "USGS": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "GFZ": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "EMSC": {
    "ok": true,
-   "n": 328
+   "n": 327
   }
  },
  "eventos": [
@@ -7569,42 +7569,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 208.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103014125_-19.02_-69.38",
-   "tiempo": "2026-11-03T01:41:25Z",
-   "lat": -19.015,
-   "lon": -69.377,
-   "prof": 108.0,
-   "lugar": "34 km al N de Camiña",
-   "ref": "CSN",
-   "mag_max": 4.3,
-   "agencias": {
-    "CSN": {
-     "mag": 4.3,
-     "tipo": "Mlv",
-     "prof": 108.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390543.html"
-    },
-    "USGS": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 106.613,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv27"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "Mw",
-     "prof": 98.7,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 98.7,
      "url": null
     }
    }
