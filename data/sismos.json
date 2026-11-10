@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T21:45:22.063519Z",
+ "actualizado": "2026-11-10T21:50:23.208182Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 326
   }
  },
  "eventos": [
+  {
+   "id": "20261110214040_-32.18_-67.20",
+   "tiempo": "2026-11-10T21:40:40Z",
+   "lat": -32.18,
+   "lon": -67.2,
+   "prof": 163.0,
+   "lugar": "SAN LUIS, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 163.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261110183126_-31.39_-67.68",
    "tiempo": "2026-11-10T18:31:26Z",
