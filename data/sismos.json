@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T10:45:20.394848Z",
+ "actualizado": "2026-11-10T10:50:21.341528Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261110103828_-25.92_-70.04",
+   "tiempo": "2026-11-10T10:38:28Z",
+   "lat": -25.919,
+   "lon": -70.04,
+   "prof": 59.0,
+   "lugar": "52 km al N de Diego de Almagro",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 59.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391794.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 59.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261110102101_-21.22_-69.08",
    "tiempo": "2026-11-10T10:21:01Z",
@@ -7503,30 +7527,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 57.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103104911_-21.02_-68.51",
-   "tiempo": "2026-11-03T10:49:11Z",
-   "lat": -21.023,
-   "lon": -68.513,
-   "prof": 140.0,
-   "lugar": "26 km al SE de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 140.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390608.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 140.0,
      "url": null
     }
    }
