@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-10T13:15:23.433006Z",
+ "actualizado": "2026-11-10T13:20:35.020364Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 255
+   "n": 253
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 323
   }
  },
  "eventos": [
@@ -7455,54 +7455,6 @@
      "mag": 4.1,
      "tipo": "mb",
      "prof": 123.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103131949_-22.18_-69.67",
-   "tiempo": "2026-11-03T13:19:49Z",
-   "lat": -22.176,
-   "lon": -69.669,
-   "prof": 62.0,
-   "lugar": "19 km al N de María Elena",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 62.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390631.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 61.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103131636_-34.71_-71.76",
-   "tiempo": "2026-11-03T13:16:36Z",
-   "lat": -34.711,
-   "lon": -71.763,
-   "prof": 44.0,
-   "lugar": "29 km al NE de Vichuquén",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 44.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390628.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 44.0,
      "url": null
     }
    }
