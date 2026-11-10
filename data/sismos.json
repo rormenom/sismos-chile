@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T05:00:36.496587Z",
+ "actualizado": "2026-11-10T05:05:19.392093Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 326
   }
  },
  "eventos": [
+  {
+   "id": "20261110045707_-21.10_-69.11",
+   "tiempo": "2026-11-10T04:57:07Z",
+   "lat": -21.101,
+   "lon": -69.111,
+   "prof": 114.0,
+   "lugar": "56 km al SO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 114.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391758.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 114.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261110043319_-30.94_-70.22",
    "tiempo": "2026-11-10T04:33:19Z",
@@ -7492,19 +7516,13 @@
   {
    "id": "20261103050514_-26.42_-70.77",
    "tiempo": "2026-11-03T05:05:14Z",
-   "lat": -26.424,
+   "lat": -26.42,
    "lon": -70.77,
-   "prof": 34.0,
-   "lugar": "17 km al SO de Chañaral",
-   "ref": "CSN",
+   "prof": 33.6,
+   "lugar": "OFFSHORE ATACAMA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.2,
    "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 34.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390570.html"
-    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
