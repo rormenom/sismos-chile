@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T16:25:22.018377Z",
+ "actualizado": "2026-11-10T16:30:29.782704Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 324
+   "n": 325
   }
  },
  "eventos": [
@@ -207,6 +207,24 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 105.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261110074833_-25.91_-66.62",
+   "tiempo": "2026-11-10T07:48:33Z",
+   "lat": -25.907,
+   "lon": -66.62,
+   "prof": 8.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 8.0,
      "url": null
     }
    }
