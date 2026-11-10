@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T15:40:27.672810Z",
+ "actualizado": "2026-11-10T15:45:30.369934Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 326
   }
  },
  "eventos": [
   {
-   "id": "20261110153259_-22.10_-68.54",
-   "tiempo": "2026-11-10T15:32:59Z",
-   "lat": -22.102,
-   "lon": -68.537,
-   "prof": 116.0,
-   "lugar": "58 km al NE de Calama",
+   "id": "20261110153258_-22.12_-68.57",
+   "tiempo": "2026-11-10T15:32:58Z",
+   "lat": -22.116,
+   "lon": -68.569,
+   "prof": 122.0,
+   "lugar": "54 km al NE de Calama",
    "ref": "CSN",
    "mag_max": 3.5,
    "agencias": {
     "CSN": {
      "mag": 3.5,
      "tipo": "Mlv",
-     "prof": 116.0,
+     "prof": 122.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391818.html"
     },
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
-     "prof": 115.9,
+     "prof": 122.1,
      "url": null
     }
    }
@@ -297,6 +297,24 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 135.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261110055743_-26.00_-66.72",
+   "tiempo": "2026-11-10T05:57:43Z",
+   "lat": -26.002,
+   "lon": -66.718,
+   "prof": 5.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 5.0,
      "url": null
     }
    }
