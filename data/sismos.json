@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-10T06:55:20.266923Z",
+ "actualizado": "2026-11-10T07:00:30.122599Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 257
+   "n": 256
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 324
   }
  },
  "eventos": [
@@ -7485,30 +7485,6 @@
      "mag": 3.2,
      "tipo": "m",
      "prof": 99.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103065526_-18.64_-71.17",
-   "tiempo": "2026-11-03T06:55:26Z",
-   "lat": -18.645,
-   "lon": -71.173,
-   "prof": 19.0,
-   "lugar": "92 km al O de Arica",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 19.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390586.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 18.7,
      "url": null
     }
    }
