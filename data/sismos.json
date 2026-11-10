@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-10T17:45:21.701110Z",
+ "actualizado": "2026-11-10T17:50:22.032694Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 251
+   "n": 249
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 326
+   "n": 324
   }
  },
  "eventos": [
@@ -7437,54 +7437,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 173.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103174907_-34.32_-70.69",
-   "tiempo": "2026-11-03T17:49:07Z",
-   "lat": -34.323,
-   "lon": -70.689,
-   "prof": 96.0,
-   "lugar": "18 km al S de Rancagua",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 96.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390672.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 96.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103174838_-21.64_-68.64",
-   "tiempo": "2026-11-03T17:48:38Z",
-   "lat": -21.636,
-   "lon": -68.642,
-   "prof": 124.0,
-   "lugar": "61 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 124.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390673.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 124.4,
      "url": null
     }
    }
