@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-10T07:25:21.843070Z",
+ "actualizado": "2026-11-10T07:30:26.746166Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 257
+   "n": 258
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 326
   }
  },
  "eventos": [
+  {
+   "id": "20261110072345_-29.96_-67.37",
+   "tiempo": "2026-11-10T07:23:45Z",
+   "lat": -29.96,
+   "lon": -67.37,
+   "prof": 10.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261110071415_-24.03_-67.12",
+   "tiempo": "2026-11-10T07:14:15Z",
+   "lat": -24.027,
+   "lon": -67.116,
+   "prof": 234.0,
+   "lugar": "84 km al O de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 234.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391773.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 233.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261110070440_-20.27_-69.02",
    "tiempo": "2026-11-10T07:04:40Z",
@@ -7491,24 +7533,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 229.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261103072836_-28.74_-68.89",
-   "tiempo": "2026-11-03T07:28:36Z",
-   "lat": -28.74,
-   "lon": -68.89,
-   "prof": 99.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.2,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "m",
-     "prof": 99.0,
      "url": null
     }
    }
