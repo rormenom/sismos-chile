@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T11:20:22.581729Z",
+ "actualizado": "2026-11-10T11:25:18.403093Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,12 +20,12 @@
  },
  "eventos": [
   {
-   "id": "20261110111442_-19.27_-69.39",
-   "tiempo": "2026-11-10T11:14:42Z",
-   "lat": -19.27,
-   "lon": -69.39,
+   "id": "20261110111440_-19.23_-69.27",
+   "tiempo": "2026-11-10T11:14:40Z",
+   "lat": -19.226,
+   "lon": -69.265,
    "prof": 103.0,
-   "lugar": "6 km al NE de Camiña",
+   "lugar": "20 km al NE de Camiña",
    "ref": "CSN",
    "mag_max": 3.8,
    "agencias": {
@@ -38,7 +38,7 @@
     "EMSC": {
      "mag": 3.8,
      "tipo": "ml",
-     "prof": 102.8,
+     "prof": 103.4,
      "url": null
     }
    }
