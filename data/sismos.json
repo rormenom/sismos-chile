@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T12:15:24.329147Z",
+ "actualizado": "2026-11-10T12:20:25.396881Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 323
+   "n": 324
   }
  },
  "eventos": [
@@ -513,6 +513,24 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 142.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261109235112_-17.66_-69.37",
+   "tiempo": "2026-11-09T23:51:12Z",
+   "lat": -17.658,
+   "lon": -69.371,
+   "prof": 160.0,
+   "lugar": "LA PAZ, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.3,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "m",
+     "prof": 160.0,
      "url": null
     }
    }
