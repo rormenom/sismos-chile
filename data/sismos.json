@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-10T17:55:19.215463Z",
+ "actualizado": "2026-11-10T18:00:31.397285Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 249
+   "n": 250
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 324
+   "n": 326
   }
  },
  "eventos": [
+  {
+   "id": "20261110175142_-22.16_-67.67",
+   "tiempo": "2026-11-10T17:51:42Z",
+   "lat": -22.156,
+   "lon": -67.673,
+   "prof": 210.0,
+   "lugar": "101 km al NE de San Pedro de Atacama",
+   "ref": "CSN",
+   "mag_max": 3.0,
+   "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 210.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391836.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 209.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261110174807_-31.95_-69.89",
+   "tiempo": "2026-11-10T17:48:07Z",
+   "lat": -31.95,
+   "lon": -69.89,
+   "prof": 94.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "m",
+     "prof": 94.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261110153258_-22.12_-68.57",
    "tiempo": "2026-11-10T15:32:58Z",
