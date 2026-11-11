@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T05:25:17.978019Z",
+ "actualizado": "2026-11-11T05:30:25.124729Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 247
+   "n": 246
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261111052309_-31.81_-69.36",
+   "tiempo": "2026-11-11T05:23:09Z",
+   "lat": -31.81,
+   "lon": -69.36,
+   "prof": 116.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "m",
+     "prof": 116.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111051033_-24.06_-67.53",
    "tiempo": "2026-11-11T05:10:33Z",
@@ -7455,30 +7473,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 232.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104052841_-25.42_-70.49",
-   "tiempo": "2026-11-04T05:28:41Z",
-   "lat": -25.423,
-   "lon": -70.489,
-   "prof": 62.0,
-   "lugar": "2 km al S de Taltal",
-   "ref": "CSN",
-   "mag_max": 3.6,
-   "agencias": {
-    "CSN": {
-     "mag": 3.6,
-     "tipo": "Mlv",
-     "prof": 62.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390743.html"
-    },
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 62.1,
      "url": null
     }
    }
