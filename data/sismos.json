@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T17:20:23.481553Z",
+ "actualizado": "2026-11-11T17:25:21.271890Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 332
+   "n": 331
   }
  },
  "eventos": [
@@ -36,7 +36,7 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392002.html"
     },
     "EMSC": {
-     "mag": 3.9,
+     "mag": 3.5,
      "tipo": "ml",
      "prof": 238.8,
      "url": null
@@ -7629,24 +7629,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 116.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104172319_-28.73_-68.69",
-   "tiempo": "2026-11-04T17:23:19Z",
-   "lat": -28.73,
-   "lon": -68.69,
-   "prof": 10.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.7,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "m",
-     "prof": 10.0,
      "url": null
     }
    }
