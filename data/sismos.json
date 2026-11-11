@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T11:50:19.318728Z",
+ "actualizado": "2026-11-11T11:55:16.367764Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 6
+   "n": 7
   },
   "GFZ": {
    "ok": true,
@@ -35,6 +35,12 @@
      "prof": 86.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391956.html"
     },
+    "USGS": {
+     "mag": 5.1,
+     "tipo": "mb",
+     "prof": 91.309,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
+    },
     "GFZ": {
      "mag": 5.0,
      "tipo": "mb",
@@ -42,9 +48,9 @@
      "url": null
     },
     "EMSC": {
-     "mag": 5.2,
-     "tipo": "ml",
-     "prof": 103.0,
+     "mag": 5.1,
+     "tipo": "mb",
+     "prof": 91.3,
      "url": null
     }
    }
