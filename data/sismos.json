@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T14:30:27.517254Z",
+ "actualizado": "2026-11-11T14:35:18.695715Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 256
+   "n": 255
   },
   "USGS": {
    "ok": true,
@@ -7745,18 +7745,12 @@
    "id": "20261104143513_-23.80_-66.87",
    "tiempo": "2026-11-04T14:35:13Z",
    "lat": -23.8,
-   "lon": -66.866,
-   "prof": 50.0,
-   "lugar": "73 km al NO de San Antonio de los Cobres",
-   "ref": "CSN",
+   "lon": -66.87,
+   "prof": 50.1,
+   "lugar": "JUJUY, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 3.3,
    "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 50.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390798.html"
-    },
     "EMSC": {
      "mag": 3.3,
      "tipo": "ml",
