@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T09:35:20.382770Z",
+ "actualizado": "2026-11-11T09:40:23.761010Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,11 +11,11 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "EMSC": {
    "ok": true,
-   "n": 332
+   "n": 331
   }
  },
  "eventos": [
@@ -112,6 +112,12 @@
      "tipo": "mb",
      "prof": 26.346,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhn"
+    },
+    "GFZ": {
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 13.1,
+     "url": null
     },
     "EMSC": {
      "mag": 4.4,
@@ -7587,24 +7593,6 @@
      "mag": 3.5,
      "tipo": "m",
      "prof": 241.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104093727_-38.28_-68.78",
-   "tiempo": "2026-11-04T09:37:27Z",
-   "lat": -38.282,
-   "lon": -68.776,
-   "prof": 11.0,
-   "lugar": "NEUQUEN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.3,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "m",
-     "prof": 11.0,
      "url": null
     }
    }
