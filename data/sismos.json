@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T20:15:24.302726Z",
+ "actualizado": "2026-11-11T20:57:37.061457Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 260
+   "n": 262
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,76 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 340
   }
  },
  "eventos": [
+  {
+   "id": "20261111204503_-19.64_-69.30",
+   "tiempo": "2026-11-11T20:45:03Z",
+   "lat": -19.645,
+   "lon": -69.301,
+   "prof": 115.0,
+   "lugar": "39 km al S de Camiña",
+   "ref": "CSN",
+   "mag_max": 4.3,
+   "agencias": {
+    "CSN": {
+     "mag": 4.3,
+     "tipo": "Mlv",
+     "prof": 115.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392037.html"
+    },
+    "EMSC": {
+     "mag": 4.3,
+     "tipo": "ml",
+     "prof": 114.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261111204150_-20.63_-69.09",
+   "tiempo": "2026-11-11T20:41:50Z",
+   "lat": -20.632,
+   "lon": -69.093,
+   "prof": 97.0,
+   "lugar": "29 km al SE de Pica",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 97.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392036.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 97.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261111203410_-31.16_-68.13",
+   "tiempo": "2026-11-11T20:34:10Z",
+   "lat": -31.16,
+   "lon": -68.13,
+   "prof": 80.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 80.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111195056_-23.02_-70.23",
    "tiempo": "2026-11-11T19:50:56Z",
@@ -7815,24 +7881,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 45.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104202622_-28.72_-68.63",
-   "tiempo": "2026-11-04T20:26:22Z",
-   "lat": -28.724,
-   "lon": -68.631,
-   "prof": 15.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 15.0,
      "url": null
     }
    }
