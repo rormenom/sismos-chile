@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T16:00:30.810033Z",
+ "actualizado": "2026-11-11T16:05:19.553567Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261111155704_-28.35_-70.21",
+   "tiempo": "2026-11-11T15:57:04Z",
+   "lat": -28.349,
+   "lon": -70.21,
+   "prof": 101.0,
+   "lugar": "53 km al NE de Alto del Carmen",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 101.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391990.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 100.6,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111144655_-31.39_-69.34",
    "tiempo": "2026-11-11T14:46:55.270000Z",
@@ -7689,30 +7713,6 @@
      "mag": 3.2,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104160324_-21.62_-68.55",
-   "tiempo": "2026-11-04T16:03:24Z",
-   "lat": -21.625,
-   "lon": -68.552,
-   "prof": 149.0,
-   "lugar": "54 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 149.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390807.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 148.7,
      "url": null
     }
    }
