@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T07:05:15.970248Z",
+ "actualizado": "2026-11-11T07:10:22.493173Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261111065729_-33.25_-72.22",
+   "id": "20261111065729_-33.25_-72.14",
    "tiempo": "2026-11-11T06:57:29Z",
    "lat": -33.249,
-   "lon": -72.223,
-   "prof": 10.0,
-   "lugar": "56 km al O de El Tabo",
+   "lon": -72.141,
+   "prof": 24.0,
+   "lugar": "49 km al NO de El Tabo",
    "ref": "CSN",
    "mag_max": 4.6,
    "agencias": {
     "CSN": {
      "mag": 4.4,
-     "tipo": "M",
-     "prof": 10.0,
+     "tipo": "Mlv",
+     "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391920.html"
     },
     "EMSC": {
      "mag": 4.6,
      "tipo": "m",
-     "prof": 10.0,
+     "prof": 24.0,
      "url": null
     }
    }
