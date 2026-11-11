@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T07:00:29.127708Z",
+ "actualizado": "2026-11-11T07:05:15.970248Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 251
+   "n": 250
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 330
   }
  },
  "eventos": [
+  {
+   "id": "20261111065729_-33.25_-72.22",
+   "tiempo": "2026-11-11T06:57:29Z",
+   "lat": -33.249,
+   "lon": -72.223,
+   "prof": 10.0,
+   "lugar": "56 km al O de El Tabo",
+   "ref": "CSN",
+   "mag_max": 4.6,
+   "agencias": {
+    "CSN": {
+     "mag": 4.4,
+     "tipo": "M",
+     "prof": 10.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391920.html"
+    },
+    "EMSC": {
+     "mag": 4.6,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111060403_-31.66_-70.32",
    "tiempo": "2026-11-11T06:04:03Z",
@@ -7527,54 +7551,6 @@
      "mag": 3.8,
      "tipo": "ml",
      "prof": 307.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104070404_-31.70_-69.94",
-   "tiempo": "2026-11-04T07:04:04Z",
-   "lat": -31.701,
-   "lon": -69.942,
-   "prof": 113.0,
-   "lugar": "62 km al E de Mina Los Pelambres",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 113.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390758.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 112.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104070032_-31.21_-71.77",
-   "tiempo": "2026-11-04T07:00:32Z",
-   "lat": -31.21,
-   "lon": -71.773,
-   "prof": 30.0,
-   "lugar": "37 km al NO de Canela Baja",
-   "ref": "CSN",
-   "mag_max": 3.4,
-   "agencias": {
-    "CSN": {
-     "mag": 3.4,
-     "tipo": "Mlv",
-     "prof": 30.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390754.html"
-    },
-    "EMSC": {
-     "mag": 3.4,
-     "tipo": "ml",
-     "prof": 29.9,
      "url": null
     }
    }
