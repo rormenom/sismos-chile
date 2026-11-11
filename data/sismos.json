@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T10:35:20.004167Z",
+ "actualizado": "2026-11-11T10:40:20.237125Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 253
+   "n": 254
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261111102726_-21.79_-68.64",
+   "tiempo": "2026-11-11T10:27:26Z",
+   "lat": -21.786,
+   "lon": -68.635,
+   "prof": 126.0,
+   "lugar": "74 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 126.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391949.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 126.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111100723_-22.29_-68.66",
    "tiempo": "2026-11-11T10:07:23Z",
@@ -7617,24 +7641,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 121.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104103820_-19.54_-67.45",
-   "tiempo": "2026-11-04T10:38:20Z",
-   "lat": -19.537,
-   "lon": -67.453,
-   "prof": 241.0,
-   "lugar": "ORURO, BOLIVIA",
-   "ref": "EMSC",
-   "mag_max": 3.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "m",
-     "prof": 241.0,
      "url": null
     }
    }
