@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T16:50:25.694749Z",
+ "actualizado": "2026-11-11T16:55:18.606467Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 333
   }
  },
  "eventos": [
@@ -7659,24 +7659,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104165334_-28.33_-69.35",
-   "tiempo": "2026-11-04T16:53:34Z",
-   "lat": -28.332,
-   "lon": -69.35,
-   "prof": 123.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 123.0,
      "url": null
     }
    }
