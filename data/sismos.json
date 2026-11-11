@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T19:40:27.545824Z",
+ "actualizado": "2026-11-11T19:45:22.469907Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -69,10 +69,10 @@
    "prof": 20.0,
    "lugar": "46 km al NO de Ancud",
    "ref": "CSN",
-   "mag_max": 5.0,
+   "mag_max": 5.1,
    "agencias": {
     "CSN": {
-     "mag": 4.9,
+     "mag": 5.1,
      "tipo": "Mw",
      "prof": 20.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392022.html"
