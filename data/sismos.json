@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T07:25:16.716811Z",
+ "actualizado": "2026-11-11T07:30:26.299194Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -27,7 +27,7 @@
    "prof": 24.0,
    "lugar": "49 km al NO de El Tabo",
    "ref": "CSN",
-   "mag_max": 4.6,
+   "mag_max": 4.4,
    "agencias": {
     "CSN": {
      "mag": 4.4,
@@ -36,8 +36,8 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391920.html"
     },
     "EMSC": {
-     "mag": 4.6,
-     "tipo": "m",
+     "mag": 4.4,
+     "tipo": "ml",
      "prof": 24.0,
      "url": null
     }
