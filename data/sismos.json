@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T06:00:27.722685Z",
+ "actualizado": "2026-11-11T06:05:29.581950Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 249
+   "n": 250
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 329
+   "n": 330
   }
  },
  "eventos": [
+  {
+   "id": "20261111055616_-28.73_-71.38",
+   "tiempo": "2026-11-11T05:56:16Z",
+   "lat": -28.725,
+   "lon": -71.384,
+   "prof": 26.0,
+   "lugar": "33 km al SO de Huasco",
+   "ref": "CSN",
+   "mag_max": 3.5,
+   "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 26.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391911.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 25.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111055103_-19.28_-70.14",
    "tiempo": "2026-11-11T05:51:03Z",
