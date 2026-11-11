@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T13:40:26.543221Z",
+ "actualizado": "2026-11-11T13:45:20.928745Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -627,6 +627,24 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 172.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261111002532_-31.55_-69.68",
+   "tiempo": "2026-11-11T00:25:32Z",
+   "lat": -31.553,
+   "lon": -69.681,
+   "prof": 116.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 116.0,
      "url": null
     }
    }
@@ -7653,24 +7671,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 50.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104134021_-31.54_-68.95",
-   "tiempo": "2026-11-04T13:40:21Z",
-   "lat": -31.535,
-   "lon": -68.947,
-   "prof": 113.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 113.0,
      "url": null
     }
    }
