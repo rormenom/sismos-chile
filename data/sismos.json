@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T03:40:21.768649Z",
+ "actualizado": "2026-11-11T03:45:21.005179Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 250
+   "n": 249
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 330
   }
  },
  "eventos": [
@@ -7545,30 +7545,6 @@
      "mag": 3.5,
      "tipo": "ml",
      "prof": 66.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104034035_-24.15_-70.37",
-   "tiempo": "2026-11-04T03:40:35Z",
-   "lat": -24.153,
-   "lon": -70.37,
-   "prof": 41.0,
-   "lugar": "19 km al NE de Caleta El Cobre",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 41.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390728.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 41.2,
      "url": null
     }
    }
