@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T18:45:21.310560Z",
+ "actualizado": "2026-11-11T18:50:22.408403Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 254
+   "n": 255
   },
   "USGS": {
    "ok": true,
@@ -25,14 +25,20 @@
    "lat": -28.58,
    "lon": -70.5,
    "prof": 116.0,
-   "lugar": "ATACAMA, CHILE",
-   "ref": "EMSC",
-   "mag_max": 4.0,
+   "lugar": "20 km al N de Alto del Carmen",
+   "ref": "CSN",
+   "mag_max": 4.1,
    "agencias": {
-    "EMSC": {
+    "CSN": {
      "mag": 4.0,
-     "tipo": "ml",
+     "tipo": "Mlv",
      "prof": 116.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392014.html"
+    },
+    "EMSC": {
+     "mag": 4.1,
+     "tipo": "ml",
+     "prof": 93.9,
      "url": null
     }
    }
