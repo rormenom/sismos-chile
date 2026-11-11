@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T05:10:20.689834Z",
+ "actualizado": "2026-11-11T05:15:22.544127Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 245
+   "n": 247
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,58 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 327
   }
  },
  "eventos": [
+  {
+   "id": "20261111051031_-24.28_-67.31",
+   "tiempo": "2026-11-11T05:10:31Z",
+   "lat": -24.284,
+   "lon": -67.31,
+   "prof": 227.0,
+   "lugar": "97 km al SE de Socaire",
+   "ref": "CSN",
+   "mag_max": 4.2,
+   "agencias": {
+    "CSN": {
+     "mag": 4.2,
+     "tipo": "M",
+     "prof": 227.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391898.html"
+    },
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "m",
+     "prof": 227.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261111050357_-21.34_-68.45",
+   "tiempo": "2026-11-11T05:03:57Z",
+   "lat": -21.345,
+   "lon": -68.454,
+   "prof": 134.0,
+   "lugar": "25 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 134.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391897.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 134.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111030223_-22.24_-67.99",
    "tiempo": "2026-11-11T03:02:23Z",
