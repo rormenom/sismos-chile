@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T14:55:19.655510Z",
+ "actualizado": "2026-11-11T15:00:27.230359Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261111144655_-31.43_-69.39",
+   "tiempo": "2026-11-11T14:46:55.810000Z",
+   "lat": -31.435,
+   "lon": -69.389,
+   "prof": 108.2,
+   "lugar": "San Juan Province, Argentina",
+   "ref": "GFZ",
+   "mag_max": 4.69,
+   "agencias": {
+    "GFZ": {
+     "mag": 4.7,
+     "tipo": "mb",
+     "prof": 108.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111144227_-32.38_-71.80",
    "tiempo": "2026-11-11T14:42:27Z",
