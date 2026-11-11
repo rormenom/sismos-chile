@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T08:20:25.299449Z",
+ "actualizado": "2026-11-11T08:25:17.421044Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 251
+   "n": 253
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,58 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 333
   }
  },
  "eventos": [
+  {
+   "id": "20261111081857_-23.32_-68.21",
+   "tiempo": "2026-11-11T08:18:57Z",
+   "lat": -23.32,
+   "lon": -68.206,
+   "prof": 115.0,
+   "lugar": "44 km al NO de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 115.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391934.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 114.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261111080318_-22.07_-67.82",
+   "tiempo": "2026-11-11T08:03:18Z",
+   "lat": -22.066,
+   "lon": -67.824,
+   "prof": 214.0,
+   "lugar": "103 km al NE de San Pedro de Atacama",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 214.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391931.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 214.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111065729_-33.25_-72.14",
    "tiempo": "2026-11-11T06:57:29Z",
