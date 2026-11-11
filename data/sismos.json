@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T13:50:23.891130Z",
+ "actualizado": "2026-11-11T13:55:16.340273Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 253
+   "n": 254
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 335
   }
  },
  "eventos": [
+  {
+   "id": "20261111134538_-33.74_-70.10",
+   "tiempo": "2026-11-11T13:45:38Z",
+   "lat": -33.744,
+   "lon": -70.096,
+   "prof": 7.0,
+   "lugar": "26 km al E de San José de Maipo",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 7.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391973.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 6.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111121619_-23.86_-67.74",
    "tiempo": "2026-11-11T12:16:19Z",
