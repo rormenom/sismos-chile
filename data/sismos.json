@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T22:10:25.514926Z",
+ "actualizado": "2026-11-11T22:15:20.933115Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "GFZ": {
    "ok": true,
@@ -75,7 +75,7 @@
    "prof": 115.0,
    "lugar": "39 km al S de Camiña",
    "ref": "CSN",
-   "mag_max": 4.3,
+   "mag_max": 4.5,
    "agencias": {
     "CSN": {
      "mag": 4.3,
@@ -83,9 +83,15 @@
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392037.html"
     },
+    "USGS": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 112.957,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
+    },
     "EMSC": {
-     "mag": 4.3,
-     "tipo": "ml",
+     "mag": 4.5,
+     "tipo": "mb",
      "prof": 114.9,
      "url": null
     }
