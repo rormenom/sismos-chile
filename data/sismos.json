@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-11T19:35:20.154042Z",
+ "actualizado": "2026-11-11T19:40:27.545824Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 257
+   "n": 258
   },
   "USGS": {
    "ok": true,
-   "n": 8
+   "n": 9
   },
   "GFZ": {
    "ok": true,
@@ -15,48 +15,78 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 335
+   "n": 336
   }
  },
  "eventos": [
   {
-   "id": "20261111192119_-41.57_-73.71",
-   "tiempo": "2026-11-11T19:21:19.310000Z",
-   "lat": -41.575,
-   "lon": -73.71,
-   "prof": 35.0,
-   "lugar": "LOS LAGOS, CHILE",
-   "ref": "EMSC",
-   "mag_max": 5.1,
+   "id": "20261111192150_-21.02_-68.46",
+   "tiempo": "2026-11-11T19:21:50Z",
+   "lat": -21.018,
+   "lon": -68.463,
+   "prof": 140.0,
+   "lugar": "29 km al SE de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.8,
    "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 140.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392024.html"
+    },
     "EMSC": {
-     "mag": 5.1,
-     "tipo": "m",
-     "prof": 35.0,
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 140.2,
      "url": null
     }
    }
   },
   {
-   "id": "20261111192115_-41.58_-74.21",
-   "tiempo": "2026-11-11T19:21:15Z",
-   "lat": -41.58,
-   "lon": -74.21,
-   "prof": 19.0,
-   "lugar": "45 km al NO de Ancud",
-   "ref": "CSN",
-   "mag_max": 5.1,
+   "id": "20261111192119_-41.54_-73.87",
+   "tiempo": "2026-11-11T19:21:19.150000Z",
+   "lat": -41.536,
+   "lon": -73.871,
+   "prof": 32.9,
+   "lugar": "Southern Chile",
+   "ref": "GFZ",
+   "mag_max": 4.97,
    "agencias": {
-    "CSN": {
-     "mag": 5.1,
-     "tipo": "Mw",
-     "prof": 19.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392022.html"
-    },
     "GFZ": {
      "mag": 5.0,
      "tipo": "mb",
      "prof": 32.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261111192115_-41.58_-74.23",
+   "tiempo": "2026-11-11T19:21:15Z",
+   "lat": -41.58,
+   "lon": -74.23,
+   "prof": 20.0,
+   "lugar": "46 km al NO de Ancud",
+   "ref": "CSN",
+   "mag_max": 5.0,
+   "agencias": {
+    "CSN": {
+     "mag": 4.9,
+     "tipo": "Mw",
+     "prof": 20.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392022.html"
+    },
+    "USGS": {
+     "mag": 5.0,
+     "tipo": "mb",
+     "prof": 34.893,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
+    },
+    "EMSC": {
+     "mag": 5.0,
+     "tipo": "mb",
+     "prof": 34.9,
      "url": null
     }
    }
