@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T18:50:22.408403Z",
+ "actualizado": "2026-11-11T18:55:18.023553Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 255
+   "n": 254
   },
   "USGS": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 332
+   "n": 331
   }
  },
  "eventos": [
   {
-   "id": "20261111184156_-28.58_-70.50",
-   "tiempo": "2026-11-11T18:41:56Z",
-   "lat": -28.58,
-   "lon": -70.5,
-   "prof": 116.0,
-   "lugar": "20 km al N de Alto del Carmen",
+   "id": "20261111184157_-28.63_-70.34",
+   "tiempo": "2026-11-11T18:41:57Z",
+   "lat": -28.629,
+   "lon": -70.337,
+   "prof": 94.0,
+   "lugar": "21 km al NE de Alto del Carmen",
    "ref": "CSN",
    "mag_max": 4.1,
    "agencias": {
     "CSN": {
-     "mag": 4.0,
+     "mag": 4.1,
      "tipo": "Mlv",
-     "prof": 116.0,
+     "prof": 94.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392014.html"
     },
     "EMSC": {
      "mag": 4.1,
      "tipo": "ml",
-     "prof": 93.9,
+     "prof": 94.1,
      "url": null
     }
    }
@@ -7629,30 +7629,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 15.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104185120_-29.42_-70.87",
-   "tiempo": "2026-11-04T18:51:20Z",
-   "lat": -29.424,
-   "lon": -70.872,
-   "prof": 68.0,
-   "lugar": "33 km al E de La Higuera",
-   "ref": "CSN",
-   "mag_max": 3.8,
-   "agencias": {
-    "CSN": {
-     "mag": 3.8,
-     "tipo": "Mlv",
-     "prof": 68.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390834.html"
-    },
-    "EMSC": {
-     "mag": 3.8,
-     "tipo": "ml",
-     "prof": 68.0,
      "url": null
     }
    }
