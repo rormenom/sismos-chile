@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T19:15:24.318884Z",
+ "actualizado": "2026-11-11T19:20:21.637548Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -82,6 +82,12 @@
      "tipo": "Mlv",
      "prof": 94.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392014.html"
+    },
+    "USGS": {
+     "mag": 3.9,
+     "tipo": "mb",
+     "prof": 113.235,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmi"
     },
     "EMSC": {
      "mag": 4.1,
