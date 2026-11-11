@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T17:10:26.070457Z",
+ "actualizado": "2026-11-11T17:15:23.596274Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 254
+   "n": 253
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 331
   }
  },
  "eventos": [
@@ -7621,66 +7621,6 @@
    "agencias": {
     "EMSC": {
      "mag": 2.7,
-     "tipo": "m",
-     "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104171437_-31.22_-68.45",
-   "tiempo": "2026-11-04T17:14:37Z",
-   "lat": -31.222,
-   "lon": -68.455,
-   "prof": 104.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.1,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "m",
-     "prof": 104.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104171137_-35.08_-71.32",
-   "tiempo": "2026-11-04T17:11:37Z",
-   "lat": -35.081,
-   "lon": -71.318,
-   "prof": 72.0,
-   "lugar": "13 km al SO de Curicó",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 72.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390814.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 72.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104171045_-28.72_-68.67",
-   "tiempo": "2026-11-04T17:10:45Z",
-   "lat": -28.717,
-   "lon": -68.667,
-   "prof": 10.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
      "tipo": "m",
      "prof": 10.0,
      "url": null
