@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-11T05:55:16.998827Z",
+ "actualizado": "2026-11-11T06:00:27.722685Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 248
+   "n": 249
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261111055103_-19.28_-70.14",
+   "tiempo": "2026-11-11T05:51:03Z",
+   "lat": -19.282,
+   "lon": -70.135,
+   "prof": 56.0,
+   "lugar": "14 km al S de Cuya",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 56.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391909.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 56.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111054520_-19.28_-70.14",
    "tiempo": "2026-11-11T05:45:20Z",
@@ -85,7 +109,7 @@
     },
     "EMSC": {
      "mag": 3.2,
-     "tipo": "ml",
+     "tipo": "m",
      "prof": 228.5,
      "url": null
     }
@@ -7503,24 +7527,6 @@
      "mag": 3.4,
      "tipo": "ml",
      "prof": 29.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104055603_-31.15_-68.65",
-   "tiempo": "2026-11-04T05:56:03Z",
-   "lat": -31.146,
-   "lon": -68.646,
-   "prof": 101.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 101.0,
      "url": null
     }
    }
