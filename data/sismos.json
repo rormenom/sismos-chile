@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T18:25:17.569293Z",
+ "actualizado": "2026-11-11T18:30:26.597180Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261111182248_-20.83_-69.15",
+   "tiempo": "2026-11-11T18:22:48Z",
+   "lat": -20.826,
+   "lon": -69.152,
+   "prof": 111.0,
+   "lugar": "42 km al SE de Pica",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 111.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392011.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 110.6,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261111171948_-24.09_-67.31",
    "tiempo": "2026-11-11T17:19:48Z",
@@ -7605,30 +7629,6 @@
      "mag": 3.8,
      "tipo": "ml",
      "prof": 68.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261104182939_-23.82_-67.22",
-   "tiempo": "2026-11-04T18:29:39Z",
-   "lat": -23.817,
-   "lon": -67.223,
-   "prof": 248.0,
-   "lugar": "72 km al E de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 248.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390828.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 247.9,
      "url": null
     }
    }
