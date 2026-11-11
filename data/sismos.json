@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T02:25:16.872248Z",
+ "actualizado": "2026-11-11T02:30:24.574851Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261111022051_-27.78_-71.75",
-   "tiempo": "2026-11-11T02:20:51Z",
-   "lat": -27.78,
-   "lon": -71.746,
-   "prof": 10.0,
-   "lugar": "68 km al NO de Carrizal Bajo",
+   "id": "20261111022054_-27.89_-71.56",
+   "tiempo": "2026-11-11T02:20:54Z",
+   "lat": -27.892,
+   "lon": -71.557,
+   "prof": 34.0,
+   "lugar": "45 km al NO de Carrizal Bajo",
    "ref": "CSN",
-   "mag_max": 3.7,
+   "mag_max": 3.6,
    "agencias": {
     "CSN": {
-     "mag": 3.7,
+     "mag": 3.6,
      "tipo": "Mlv",
-     "prof": 10.0,
+     "prof": 34.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391883.html"
     },
     "EMSC": {
-     "mag": 3.7,
+     "mag": 3.6,
      "tipo": "ml",
-     "prof": 10.0,
+     "prof": 33.8,
      "url": null
     }
    }
