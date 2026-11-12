@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T08:35:18.610157Z",
+ "actualizado": "2026-11-12T08:40:28.406753Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -614,7 +614,7 @@
     "EMSC": {
      "mag": 5.0,
      "tipo": "mb",
-     "prof": 34.9,
+     "prof": 35.0,
      "url": null
     }
    }
@@ -708,9 +708,9 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmi"
     },
     "EMSC": {
-     "mag": 4.1,
-     "tipo": "ml",
-     "prof": 94.1,
+     "mag": 3.9,
+     "tipo": "mb",
+     "prof": 102.8,
      "url": null
     }
    }
@@ -836,19 +836,19 @@
    }
   },
   {
-   "id": "20261111144655_-31.39_-69.34",
-   "tiempo": "2026-11-11T14:46:55.270000Z",
-   "lat": -31.385,
-   "lon": -69.345,
-   "prof": 104.7,
+   "id": "20261111144655_-31.38_-69.32",
+   "tiempo": "2026-11-11T14:46:55.120000Z",
+   "lat": -31.375,
+   "lon": -69.316,
+   "prof": 106.4,
    "lugar": "SAN JUAN, ARGENTINA",
    "ref": "EMSC",
-   "mag_max": 4.6,
+   "mag_max": 4.5,
    "agencias": {
     "EMSC": {
-     "mag": 4.6,
-     "tipo": "m",
-     "prof": 104.7,
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 106.4,
      "url": null
     }
    }
@@ -1016,7 +1016,7 @@
     "EMSC": {
      "mag": 5.1,
      "tipo": "mb",
-     "prof": 91.3,
+     "prof": 86.0,
      "url": null
     }
    }
