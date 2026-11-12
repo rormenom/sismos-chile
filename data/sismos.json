@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T22:20:20.199492Z",
+ "actualizado": "2026-11-12T22:25:18.862321Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 260
+   "n": 261
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 341
   }
  },
  "eventos": [
+  {
+   "id": "20261112221651_-23.82_-68.70",
+   "tiempo": "2026-11-12T22:16:51Z",
+   "lat": -23.815,
+   "lon": -68.7,
+   "prof": 107.0,
+   "lugar": "62 km al NE de Mina La Escondida",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 107.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392225.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 106.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261112212754_-38.30_-68.76",
+   "tiempo": "2026-11-12T21:27:54Z",
+   "lat": -38.296,
+   "lon": -68.762,
+   "prof": 7.0,
+   "lugar": "NEUQUEN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 7.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112210945_-32.23_-66.30",
    "tiempo": "2026-11-12T21:09:45Z",
