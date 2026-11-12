@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T01:45:19.172340Z",
+ "actualizado": "2026-11-12T01:50:21.516532Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261112014106_-36.12_-71.27",
+   "tiempo": "2026-11-12T01:41:06Z",
+   "lat": -36.124,
+   "lon": -71.267,
+   "prof": 119.0,
+   "lugar": "43 km al SE de Linares",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 119.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392070.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 119.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112004253_-29.68_-68.01",
    "tiempo": "2026-11-12T00:42:53Z",
@@ -7773,30 +7797,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 30.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261105014703_-22.34_-68.07",
-   "tiempo": "2026-11-05T01:47:03Z",
-   "lat": -22.342,
-   "lon": -68.069,
-   "prof": 164.0,
-   "lugar": "66 km al N de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 164.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390883.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 163.6,
      "url": null
     }
    }
