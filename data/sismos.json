@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T14:35:31.491629Z",
+ "actualizado": "2026-11-12T14:40:28.633490Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 261
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261112142114_-24.06_-67.52",
+   "tiempo": "2026-11-12T14:21:14Z",
+   "lat": -24.06,
+   "lon": -67.52,
+   "prof": 201.1,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 201.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112134939_-22.07_-68.72",
    "tiempo": "2026-11-12T13:49:39Z",
@@ -7911,30 +7929,6 @@
      "mag": 2.6,
      "tipo": "m",
      "prof": 20.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261105143648_-19.01_-69.53",
-   "tiempo": "2026-11-05T14:36:48Z",
-   "lat": -19.011,
-   "lon": -69.535,
-   "prof": 72.0,
-   "lugar": "35 km al N de Camiña",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 72.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390965.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 71.5,
      "url": null
     }
    }
