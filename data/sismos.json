@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T07:15:25.738071Z",
+ "actualizado": "2026-11-12T07:20:22.961140Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -596,24 +596,6 @@
    }
   },
   {
-   "id": "20261111192119_-41.54_-73.87",
-   "tiempo": "2026-11-11T19:21:19.150000Z",
-   "lat": -41.536,
-   "lon": -73.871,
-   "prof": 32.9,
-   "lugar": "Southern Chile",
-   "ref": "GFZ",
-   "mag_max": 4.85,
-   "agencias": {
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "Mw",
-     "prof": 32.9,
-     "url": null
-    }
-   }
-  },
-  {
    "id": "20261111192115_-41.58_-74.23",
    "tiempo": "2026-11-11T19:21:15Z",
    "lat": -41.58,
@@ -634,6 +616,12 @@
      "tipo": "mb",
      "prof": 34.893,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
+    },
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "Mw",
+     "prof": 23.9,
+     "url": null
     },
     "EMSC": {
      "mag": 5.0,
