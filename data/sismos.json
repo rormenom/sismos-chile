@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T19:50:19.977450Z",
+ "actualizado": "2026-11-12T19:55:30.185718Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 344
+   "n": 345
   }
  },
  "eventos": [
@@ -129,6 +129,24 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 26.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261112163414_-28.22_-67.59",
+   "tiempo": "2026-11-12T16:34:14Z",
+   "lat": -28.223,
+   "lon": -67.592,
+   "prof": 126.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 126.0,
      "url": null
     }
    }
