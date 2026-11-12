@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T12:10:35.189740Z",
+ "actualizado": "2026-11-12T12:15:32.093988Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261112115942_-19.41_-68.85",
    "tiempo": "2026-11-12T11:59:42Z",
-   "lat": -19.41,
-   "lon": -68.85,
-   "prof": 119.1,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
+   "lat": -19.406,
+   "lon": -68.848,
+   "prof": 119.0,
+   "lugar": "26 km al SO de Colchane",
+   "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 119.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392145.html"
+    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
