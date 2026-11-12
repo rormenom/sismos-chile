@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T21:10:22.028599Z",
+ "actualizado": "2026-11-12T21:15:34.909896Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 263
+   "n": 262
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261112210945_-32.23_-66.30",
+   "tiempo": "2026-11-12T21:09:45Z",
+   "lat": -32.23,
+   "lon": -66.3,
+   "prof": 10.0,
+   "lugar": "SAN LUIS, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112203007_-31.53_-71.70",
    "tiempo": "2026-11-12T20:30:07Z",
@@ -7935,30 +7953,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 131.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261105211452_-22.25_-67.89",
-   "tiempo": "2026-11-05T21:14:52Z",
-   "lat": -22.252,
-   "lon": -67.889,
-   "prof": 205.0,
-   "lugar": "81 km al NE de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 205.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390998.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "m",
-     "prof": 205.1,
      "url": null
     }
    }
