@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T09:40:22.667709Z",
+ "actualizado": "2026-11-12T09:45:22.750486Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261112093533_-29.14_-72.64",
+   "tiempo": "2026-11-12T09:35:33Z",
+   "lat": -29.137,
+   "lon": -72.635,
+   "prof": 41.0,
+   "lugar": "114 km al O de Punta de Choros",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 41.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392133.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 41.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112091142_-22.06_-68.66",
    "tiempo": "2026-11-12T09:11:42Z",
@@ -7767,24 +7791,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 48.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261105094200_-32.11_-69.12",
-   "tiempo": "2026-11-05T09:42:00Z",
-   "lat": -32.11,
-   "lon": -69.12,
-   "prof": 106.0,
-   "lugar": "MENDOZA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 106.0,
      "url": null
     }
    }
