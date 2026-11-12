@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T03:00:27.696730Z",
+ "actualizado": "2026-11-12T03:05:18.180384Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261112025816_-20.23_-70.86",
+   "tiempo": "2026-11-12T02:58:16Z",
+   "lat": -20.234,
+   "lon": -70.857,
+   "prof": 23.0,
+   "lugar": "73 km al O de Iquique",
+   "ref": "CSN",
+   "mag_max": 3.0,
+   "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 23.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392084.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 22.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112023251_-24.08_-67.48",
    "tiempo": "2026-11-12T02:32:51Z",
@@ -7815,30 +7839,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 203.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261105030152_-31.39_-71.65",
-   "tiempo": "2026-11-05T03:01:52Z",
-   "lat": -31.389,
-   "lon": -71.653,
-   "prof": 31.0,
-   "lugar": "19 km al O de Canela Baja",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 31.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/390886.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 30.9,
      "url": null
     }
    }
