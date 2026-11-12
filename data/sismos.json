@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T11:55:49.713042Z",
+ "actualizado": "2026-11-12T12:00:30.573720Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": false,
-   "error": "The read operation timed out"
+   "error": "HTTP Error 502: Bad Gateway"
   },
   "EMSC": {
    "ok": true,
