@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T07:10:22.472945Z",
+ "actualizado": "2026-11-12T07:15:25.738071Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "EMSC": {
    "ok": true,
@@ -473,10 +473,16 @@
      "prof": 112.957,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
     },
+    "GFZ": {
+     "mag": 4.1,
+     "tipo": "Mw",
+     "prof": 111.2,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.3,
      "tipo": "ml",
-     "prof": 114.9,
+     "prof": 111.2,
      "url": null
     }
    }
@@ -597,11 +603,11 @@
    "prof": 32.9,
    "lugar": "Southern Chile",
    "ref": "GFZ",
-   "mag_max": 4.97,
+   "mag_max": 4.85,
    "agencias": {
     "GFZ": {
-     "mag": 5.0,
-     "tipo": "mb",
+     "mag": 4.8,
+     "tipo": "Mw",
      "prof": 32.9,
      "url": null
     }
