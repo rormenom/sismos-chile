@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T18:55:20.621938Z",
+ "actualizado": "2026-11-12T19:00:30.284417Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 343
+   "n": 345
   }
  },
  "eventos": [
@@ -39,6 +39,24 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 115.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261112183753_-21.40_-66.63",
+   "tiempo": "2026-11-12T18:37:53Z",
+   "lat": -21.401,
+   "lon": -66.631,
+   "prof": 223.2,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "m",
+     "prof": 223.2,
      "url": null
     }
    }
@@ -171,6 +189,24 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 122.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261112152958_-28.25_-67.47",
+   "tiempo": "2026-11-12T15:29:58Z",
+   "lat": -28.25,
+   "lon": -67.47,
+   "prof": 133.0,
+   "lugar": "CATAMARCA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 133.0,
      "url": null
     }
    }
