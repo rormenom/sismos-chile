@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T08:40:28.406753Z",
+ "actualizado": "2026-11-12T08:45:21.247284Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -474,8 +474,8 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
     },
     "EMSC": {
-     "mag": 4.3,
-     "tipo": "ml",
+     "mag": 4.5,
+     "tipo": "mb",
      "prof": 111.2,
      "url": null
     }
