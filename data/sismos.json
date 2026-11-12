@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-12T08:20:25.264522Z",
+ "actualizado": "2026-11-12T08:25:32.293091Z",
  "fuentes": {
   "CSN": {
    "ok": true,
    "n": 257
   },
   "USGS": {
-   "ok": true,
-   "n": 10
+   "ok": false,
+   "error": "HTTP Error 504: Gateway Time-out"
   },
   "GFZ": {
    "ok": true,
@@ -465,19 +465,13 @@
    "prof": 115.0,
    "lugar": "39 km al S de Camiña",
    "ref": "CSN",
-   "mag_max": 4.5,
+   "mag_max": 4.3,
    "agencias": {
     "CSN": {
      "mag": 4.3,
      "tipo": "Mlv",
      "prof": 115.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392037.html"
-    },
-    "USGS": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 112.957,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
     },
     "GFZ": {
      "mag": 4.1,
@@ -617,12 +611,6 @@
      "prof": 20.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392022.html"
     },
-    "USGS": {
-     "mag": 5.0,
-     "tipo": "mb",
-     "prof": 34.893,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
-    },
     "GFZ": {
      "mag": 4.8,
      "tipo": "Mw",
@@ -718,12 +706,6 @@
      "tipo": "Mlv",
      "prof": 94.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392014.html"
-    },
-    "USGS": {
-     "mag": 3.9,
-     "tipo": "mb",
-     "prof": 113.235,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmi"
     },
     "EMSC": {
      "mag": 4.1,
@@ -1031,12 +1013,6 @@
      "prof": 91.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391956.html"
     },
-    "USGS": {
-     "mag": 5.1,
-     "tipo": "mb",
-     "prof": 91.309,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
-    },
     "GFZ": {
      "mag": 4.7,
      "tipo": "Mw",
@@ -1246,12 +1222,6 @@
      "tipo": "Mlv",
      "prof": 24.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391920.html"
-    },
-    "USGS": {
-     "mag": 4.2,
-     "tipo": "mb",
-     "prof": 26.346,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhn"
     },
     "GFZ": {
      "mag": 4.3,
@@ -3212,21 +3182,15 @@
    }
   },
   {
-   "id": "20261109082213_-27.87_-67.71",
-   "tiempo": "2026-11-09T08:22:13.253000Z",
-   "lat": -27.868,
-   "lon": -67.707,
-   "prof": 10,
-   "lugar": "23 km SSW of Fiambalá, Argentina",
-   "ref": "USGS",
+   "id": "20261109082213_-27.92_-67.60",
+   "tiempo": "2026-11-09T08:22:13.270000Z",
+   "lat": -27.922,
+   "lon": -67.597,
+   "prof": 10.0,
+   "lugar": "Catamarca Province, Argentina",
+   "ref": "GFZ",
    "mag_max": 4.77,
    "agencias": {
-    "USGS": {
-     "mag": 4.2,
-     "tipo": "mb",
-     "prof": 10,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2q"
-    },
     "GFZ": {
      "mag": 4.8,
      "tipo": "mb",
@@ -4235,12 +4199,6 @@
      "prof": 65.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391473.html"
     },
-    "USGS": {
-     "mag": 4.7,
-     "tipo": "mwr",
-     "prof": 68.785,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf"
-    },
     "GFZ": {
      "mag": 5.0,
      "tipo": "mb",
@@ -4419,38 +4377,32 @@
    "prof": 241.0,
    "lugar": "68 km al E de Socaire",
    "ref": "CSN",
-   "mag_max": 4.0,
+   "mag_max": 4.05,
    "agencias": {
     "CSN": {
      "mag": 4.0,
      "tipo": "Mlv",
      "prof": 241.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391432.html"
-    }
-   }
-  },
-  {
-   "id": "20261108070249_-24.05_-66.89",
-   "tiempo": "2026-11-08T07:02:49.940000Z",
-   "lat": -24.046,
-   "lon": -66.888,
-   "prof": 223.654,
-   "lugar": "60 km WNW of San Antonio de los Cobres, Argentina",
-   "ref": "USGS",
-   "mag_max": 4.3,
-   "agencias": {
-    "USGS": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 223.654,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwg"
     },
     "GFZ": {
      "mag": 4.0,
      "tipo": "mb",
      "prof": 231.9,
      "url": null
-    },
+    }
+   }
+  },
+  {
+   "id": "20261108070248_-23.99_-66.73",
+   "tiempo": "2026-11-08T07:02:48.890000Z",
+   "lat": -23.993,
+   "lon": -66.729,
+   "prof": 192.0,
+   "lugar": "JUJUY, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 4.0,
+   "agencias": {
     "EMSC": {
      "mag": 4.0,
      "tipo": "ml",
@@ -5626,12 +5578,6 @@
      "tipo": "Mlv",
      "prof": 102.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391293.html"
-    },
-    "USGS": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 110.716,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp"
     },
     "GFZ": {
      "mag": 4.2,
@@ -6922,12 +6868,6 @@
      "tipo": "Mlv",
      "prof": 38.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391046.html"
-    },
-    "USGS": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 25.803,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twet"
     },
     "EMSC": {
      "mag": 3.7,
