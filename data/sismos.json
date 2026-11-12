@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T06:35:17.408196Z",
+ "actualizado": "2026-11-12T06:40:18.356366Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 260
+   "n": 261
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 340
   }
  },
  "eventos": [
+  {
+   "id": "20261112063229_-21.30_-70.65",
+   "tiempo": "2026-11-12T06:32:29Z",
+   "lat": -21.304,
+   "lon": -70.652,
+   "prof": 22.0,
+   "lugar": "72 km al SO de Patache",
+   "ref": "CSN",
+   "mag_max": 3.7,
+   "agencias": {
+    "CSN": {
+     "mag": 3.7,
+     "tipo": "Mlv",
+     "prof": 22.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392113.html"
+    },
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "ml",
+     "prof": 21.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112051842_-23.88_-67.48",
    "tiempo": "2026-11-12T05:18:42Z",
