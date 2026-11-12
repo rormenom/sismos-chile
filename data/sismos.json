@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-12T20:35:20.110089Z",
+ "actualizado": "2026-11-12T20:40:21.035524Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 344
   }
  },
  "eventos": [
+  {
+   "id": "20261112203007_-31.53_-71.70",
+   "tiempo": "2026-11-12T20:30:07Z",
+   "lat": -31.531,
+   "lon": -71.698,
+   "prof": 44.0,
+   "lugar": "27 km al SO de Canela Baja",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 44.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392216.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 43.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261112192911_-21.63_-68.55",
    "tiempo": "2026-11-12T19:29:11Z",
@@ -39,6 +63,24 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 136.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261112191218_-31.70_-69.48",
+   "tiempo": "2026-11-12T19:12:18Z",
+   "lat": -31.705,
+   "lon": -69.476,
+   "prof": 115.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 115.0,
      "url": null
     }
    }
