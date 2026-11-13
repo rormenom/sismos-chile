@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T07:25:19.350967Z",
+ "actualizado": "2026-11-13T07:30:23.584163Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 259
+   "n": 258
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 338
   }
  },
  "eventos": [
@@ -7869,30 +7869,6 @@
      "mag": 4.0,
      "tipo": "m",
      "prof": 111.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106072536_-32.84_-71.57",
-   "tiempo": "2026-11-06T07:25:36Z",
-   "lat": -32.837,
-   "lon": -71.569,
-   "prof": 56.0,
-   "lugar": "8 km al SO de Quintero",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 56.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391075.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 55.7,
      "url": null
     }
    }
