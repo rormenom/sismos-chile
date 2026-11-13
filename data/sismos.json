@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T05:35:17.178254Z",
+ "actualizado": "2026-11-13T05:40:24.131053Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 260
+   "n": 261
   },
   "USGS": {
    "ok": true,
@@ -22,15 +22,21 @@
   {
    "id": "20261113052855_-24.20_-68.13",
    "tiempo": "2026-11-13T05:28:55Z",
-   "lat": -24.2,
-   "lon": -68.13,
-   "prof": 148.6,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -24.204,
+   "lon": -68.133,
+   "prof": 149.0,
+   "lugar": "73 km al S de Socaire",
+   "ref": "CSN",
    "mag_max": 3.4,
    "agencias": {
-    "EMSC": {
+    "CSN": {
      "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 149.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392274.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
      "tipo": "ml",
      "prof": 148.6,
      "url": null
