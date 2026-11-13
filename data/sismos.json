@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T03:10:22.088757Z",
+ "actualizado": "2026-11-13T03:15:30.204167Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261113031115_-24.01_-67.48",
+   "tiempo": "2026-11-13T03:11:15Z",
+   "lat": -24.009,
+   "lon": -67.476,
+   "prof": 209.0,
+   "lugar": "63 km al SE de Socaire",
+   "ref": "CSN",
+   "mag_max": 4.2,
+   "agencias": {
+    "CSN": {
+     "mag": 4.2,
+     "tipo": "Mlv",
+     "prof": 209.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392257.html"
+    },
+    "EMSC": {
+     "mag": 4.2,
+     "tipo": "ml",
+     "prof": 208.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113024649_-22.50_-71.23",
    "tiempo": "2026-11-13T02:46:49Z",
@@ -7833,30 +7857,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 205.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106031127_-30.68_-71.67",
-   "tiempo": "2026-11-06T03:11:27Z",
-   "lat": -30.683,
-   "lon": -71.674,
-   "prof": 27.0,
-   "lugar": "2 km al SE de Parque Fray Jorge",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 27.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391048.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 27.1,
      "url": null
     }
    }
