@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T05:45:19.230241Z",
+ "actualizado": "2026-11-13T05:50:19.493750Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261113054351_-27.99_-69.27",
+   "tiempo": "2026-11-13T05:43:51Z",
+   "lat": -27.986,
+   "lon": -69.268,
+   "prof": 110.0,
+   "lugar": "125 km al SE de Copiapó",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 110.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392275.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 110.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113052855_-24.20_-68.13",
    "tiempo": "2026-11-13T05:28:55Z",
@@ -7917,30 +7941,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 219.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106054816_-21.57_-68.53",
-   "tiempo": "2026-11-06T05:48:16Z",
-   "lat": -21.571,
-   "lon": -68.535,
-   "prof": 133.0,
-   "lugar": "48 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 133.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391060.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 133.4,
      "url": null
     }
    }
