@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T07:45:21.931631Z",
+ "actualizado": "2026-11-13T07:50:20.433916Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 259
+   "n": 260
   },
   "USGS": {
    "ok": true,
@@ -11,14 +11,38 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 340
   }
  },
  "eventos": [
+  {
+   "id": "20261113074148_-18.72_-70.84",
+   "tiempo": "2026-11-13T07:41:48Z",
+   "lat": -18.719,
+   "lon": -70.836,
+   "prof": 19.0,
+   "lugar": "60 km al SO de Arica",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 19.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392285.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 18.7,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113073616_-21.78_-70.22",
    "tiempo": "2026-11-13T07:36:16Z",
@@ -316,6 +340,12 @@
      "tipo": "mb",
      "prof": 176.658,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy0"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 180.9,
+     "url": null
     }
    }
   },
