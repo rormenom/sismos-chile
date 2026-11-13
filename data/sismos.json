@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T05:00:26.411406Z",
+ "actualizado": "2026-11-13T05:05:17.433545Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 257
+   "n": 258
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,44 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 340
   }
  },
  "eventos": [
   {
+   "id": "20261113045838_-24.04_-67.49",
+   "tiempo": "2026-11-13T04:58:38Z",
+   "lat": -24.04,
+   "lon": -67.49,
+   "prof": 216.0,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 216.0,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261113045410_-21.15_-68.89",
    "tiempo": "2026-11-13T04:54:10Z",
-   "lat": -21.15,
-   "lon": -68.89,
+   "lat": -21.153,
+   "lon": -68.886,
    "prof": 121.0,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
+   "lugar": "43 km al SO de Mina Collahuasi",
+   "ref": "CSN",
    "mag_max": 2.7,
    "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 121.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392267.html"
+    },
     "EMSC": {
      "mag": 2.7,
      "tipo": "ml",
