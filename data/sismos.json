@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T04:40:20.308673Z",
+ "actualizado": "2026-11-13T04:45:19.368843Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 9
+   "n": 10
   },
   "GFZ": {
    "ok": true,
@@ -141,7 +141,7 @@
    "prof": 188.0,
    "lugar": "73 km al SE de Socaire",
    "ref": "CSN",
-   "mag_max": 3.8,
+   "mag_max": 4.3,
    "agencias": {
     "CSN": {
      "mag": 3.8,
@@ -149,10 +149,28 @@
      "prof": 188.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392248.html"
     },
+    "USGS": {
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 207.347,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txxp"
+    }
+   }
+  },
+  {
+   "id": "20261113014434_-24.14_-66.99",
+   "tiempo": "2026-11-13T01:44:34.060000Z",
+   "lat": -24.137,
+   "lon": -66.994,
+   "prof": 192.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.3,
+   "agencias": {
     "EMSC": {
      "mag": 3.3,
      "tipo": "ml",
-     "prof": 188.2,
+     "prof": 192.0,
      "url": null
     }
    }
