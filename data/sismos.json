@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T10:05:17.034810Z",
+ "actualizado": "2026-11-13T10:10:38.468402Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,20 +15,26 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 343
+   "n": 342
   }
  },
  "eventos": [
   {
    "id": "20261113095933_-19.81_-69.17",
    "tiempo": "2026-11-13T09:59:33Z",
-   "lat": -19.81,
-   "lon": -69.17,
+   "lat": -19.809,
+   "lon": -69.169,
    "prof": 100.0,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
+   "lugar": "61 km al SE de Camiña",
+   "ref": "CSN",
    "mag_max": 2.5,
    "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 100.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392296.html"
+    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
@@ -7959,30 +7965,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 204.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106101011_-27.95_-69.00",
-   "tiempo": "2026-11-06T10:10:11Z",
-   "lat": -27.954,
-   "lon": -69.002,
-   "prof": 112.0,
-   "lugar": "146 km al SE de Copiapó",
-   "ref": "CSN",
-   "mag_max": 4.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.7,
-     "tipo": "Mlv",
-     "prof": 112.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391089.html"
-    },
-    "EMSC": {
-     "mag": 4.0,
-     "tipo": "m",
-     "prof": 111.6,
      "url": null
     }
    }
