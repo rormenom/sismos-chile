@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T16:10:20.438313Z",
+ "actualizado": "2026-11-13T16:15:20.861200Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -2232,9 +2232,9 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392022.html"
     },
     "USGS": {
-     "mag": 5.0,
-     "tipo": "mb",
-     "prof": 34.893,
+     "mag": 4.9,
+     "tipo": "mww",
+     "prof": 18.804,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
     },
     "GFZ": {
