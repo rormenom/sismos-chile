@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T01:30:27.069356Z",
+ "actualizado": "2026-11-13T01:35:16.826112Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261113012641_-29.00_-71.65",
+   "id": "20261113012641_-28.99_-71.64",
    "tiempo": "2026-11-13T01:26:41Z",
-   "lat": -29.0,
-   "lon": -71.65,
-   "prof": 29.8,
-   "lugar": "OFFSHORE ATACAMA, CHILE",
-   "ref": "EMSC",
-   "mag_max": 4.0,
+   "lat": -28.991,
+   "lon": -71.645,
+   "prof": 30.0,
+   "lugar": "34 km al NO de Punta de Choros",
+   "ref": "CSN",
+   "mag_max": 4.2,
    "agencias": {
+    "CSN": {
+     "mag": 4.2,
+     "tipo": "Mlv",
+     "prof": 30.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392245.html"
+    },
     "EMSC": {
-     "mag": 4.0,
+     "mag": 4.2,
      "tipo": "ml",
-     "prof": 29.8,
+     "prof": 30.2,
      "url": null
     }
    }
