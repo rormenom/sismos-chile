@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T20:45:22.917805Z",
+ "actualizado": "2026-11-13T20:50:22.224471Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 254
+   "n": 253
   },
   "USGS": {
    "ok": true,
@@ -22,19 +22,13 @@
   {
    "id": "20261113203806_-18.00_-70.59",
    "tiempo": "2026-11-13T20:38:06Z",
-   "lat": -17.998,
-   "lon": -70.588,
-   "prof": 76.0,
-   "lugar": "36 km al O de Tacna",
-   "ref": "CSN",
+   "lat": -18.0,
+   "lon": -70.59,
+   "prof": 76.3,
+   "lugar": "OFFSHORE TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.1,
    "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 76.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392380.html"
-    },
     "EMSC": {
      "mag": 3.1,
      "tipo": "ml",
