@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T14:55:48.672335Z",
+ "actualizado": "2026-11-13T15:00:58.970990Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 256
+   "n": 257
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 340
   }
  },
  "eventos": [
+  {
+   "id": "20261113145251_-38.45_-72.94",
+   "tiempo": "2026-11-13T14:52:51Z",
+   "lat": -38.449,
+   "lon": -72.935,
+   "prof": 45.0,
+   "lugar": "44 km al NO de Temuco",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 45.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392331.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 45.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113143212_-21.73_-68.55",
    "tiempo": "2026-11-13T14:32:12Z",
@@ -441,6 +465,24 @@
      "mag": 3.4,
      "tipo": "ml",
      "prof": 216.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261113045544_-28.75_-68.67",
+   "tiempo": "2026-11-13T04:55:44Z",
+   "lat": -28.747,
+   "lon": -68.67,
+   "prof": 9.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 9.0,
      "url": null
     }
    }
