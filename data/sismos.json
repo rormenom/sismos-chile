@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T21:10:25.308896Z",
+ "actualizado": "2026-11-13T21:15:22.833318Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -27,11 +27,11 @@
    "prof": 76.3,
    "lugar": "OFFSHORE TARAPACA, CHILE",
    "ref": "EMSC",
-   "mag_max": 3.1,
+   "mag_max": 3.5,
    "agencias": {
     "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
+     "mag": 3.5,
+     "tipo": "m",
      "prof": 76.3,
      "url": null
     }
