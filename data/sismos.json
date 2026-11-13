@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T11:40:26.954483Z",
+ "actualizado": "2026-11-13T11:45:40.009225Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261113113505_-21.13_-68.72",
    "tiempo": "2026-11-13T11:35:05Z",
-   "lat": -21.13,
-   "lon": -68.72,
-   "prof": 116.2,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -21.131,
+   "lon": -68.717,
+   "prof": 116.0,
+   "lugar": "34 km al S de Mina Collahuasi",
+   "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 116.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392305.html"
+    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
