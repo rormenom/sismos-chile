@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T07:35:22.008211Z",
+ "actualizado": "2026-11-13T07:40:24.213629Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 339
   }
  },
  "eventos": [
+  {
+   "id": "20261113073616_-21.77_-70.22",
+   "tiempo": "2026-11-13T07:36:16Z",
+   "lat": -21.77,
+   "lon": -70.22,
+   "prof": 39.9,
+   "lugar": "OFFSHORE ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 39.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113055031_-22.74_-66.93",
    "tiempo": "2026-11-13T05:50:31Z",
