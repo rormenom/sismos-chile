@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T14:25:21.193047Z",
+ "actualizado": "2026-11-13T14:30:24.790241Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261113141958_-21.26_-67.99",
+   "tiempo": "2026-11-13T14:19:58Z",
+   "lat": -21.263,
+   "lon": -67.994,
+   "prof": 247.0,
+   "lugar": "27 km al E de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 247.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392328.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 246.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113125028_-22.41_-68.57",
    "tiempo": "2026-11-13T12:50:28Z",
@@ -7815,30 +7839,6 @@
      "mag": 2.7,
      "tipo": "m",
      "prof": 123.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106142700_-23.83_-68.78",
-   "tiempo": "2026-11-06T14:27:00Z",
-   "lat": -23.831,
-   "lon": -68.782,
-   "prof": 98.0,
-   "lugar": "56 km al NE de Mina La Escondida",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 98.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391128.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 97.9,
      "url": null
     }
    }
