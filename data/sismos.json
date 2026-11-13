@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T23:30:26.273106Z",
+ "actualizado": "2026-11-13T23:35:20.851521Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 251
+   "n": 253
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,50 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 337
+   "n": 338
   }
  },
  "eventos": [
   {
+   "id": "20261113232536_-35.10_-71.16",
+   "tiempo": "2026-11-13T23:25:36Z",
+   "lat": -35.104,
+   "lon": -71.16,
+   "prof": 101.0,
+   "lugar": "15 km al SE de Curicó",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 101.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392395.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 100.7,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261113232343_-21.68_-68.26",
    "tiempo": "2026-11-13T23:23:43Z",
-   "lat": -21.68,
-   "lon": -68.26,
-   "prof": 161.1,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -21.676,
+   "lon": -68.258,
+   "prof": 161.0,
+   "lugar": "50 km al S de Ollagüe",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 161.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392394.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
