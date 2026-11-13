@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T01:50:20.238434Z",
+ "actualizado": "2026-11-13T01:55:16.281400Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,12 +20,12 @@
  },
  "eventos": [
   {
-   "id": "20261113014433_-23.93_-67.26",
-   "tiempo": "2026-11-13T01:44:33Z",
+   "id": "20261113014434_-23.93_-67.27",
+   "tiempo": "2026-11-13T01:44:34Z",
    "lat": -23.93,
-   "lon": -67.263,
+   "lon": -67.273,
    "prof": 188.0,
-   "lugar": "74 km al SE de Socaire",
+   "lugar": "73 km al SE de Socaire",
    "ref": "CSN",
    "mag_max": 3.8,
    "agencias": {
