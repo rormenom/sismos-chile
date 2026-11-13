@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T05:30:26.517303Z",
+ "actualizado": "2026-11-13T05:35:17.178254Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 259
+   "n": 260
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 341
   }
  },
  "eventos": [
+  {
+   "id": "20261113052855_-24.20_-68.13",
+   "tiempo": "2026-11-13T05:28:55Z",
+   "lat": -24.2,
+   "lon": -68.13,
+   "prof": 148.6,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 148.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261113052531_-22.66_-68.19",
+   "tiempo": "2026-11-13T05:25:31Z",
+   "lat": -22.664,
+   "lon": -68.195,
+   "prof": 147.0,
+   "lugar": "28 km al N de San Pedro de Atacama",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 147.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392271.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 147.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113052017_-36.87_-71.14",
    "tiempo": "2026-11-13T05:20:17Z",
