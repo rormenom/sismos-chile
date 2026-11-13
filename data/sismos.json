@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T05:15:20.047671Z",
+ "actualizado": "2026-11-13T05:20:21.431949Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 259
+   "n": 258
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 338
   }
  },
  "eventos": [
@@ -7851,48 +7851,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 133.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106051845_-30.78_-69.78",
-   "tiempo": "2026-11-06T05:18:45Z",
-   "lat": -30.78,
-   "lon": -69.78,
-   "prof": 220.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.3,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "m",
-     "prof": 220.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106051525_-17.57_-69.80",
-   "tiempo": "2026-11-06T05:15:25Z",
-   "lat": -17.574,
-   "lon": -69.804,
-   "prof": 155.0,
-   "lugar": "34 km al O de Visviri",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 155.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391059.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 155.4,
      "url": null
     }
    }
