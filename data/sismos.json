@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-13T05:25:19.801767Z",
+ "actualizado": "2026-11-13T05:30:26.517303Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "GFZ": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 339
   }
  },
  "eventos": [
+  {
+   "id": "20261113052017_-36.87_-71.14",
+   "tiempo": "2026-11-13T05:20:17Z",
+   "lat": -36.865,
+   "lon": -71.14,
+   "prof": 165.0,
+   "lugar": "50 km al SE de San Fabián",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 165.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392270.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "m",
+     "prof": 164.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113045838_-24.04_-67.49",
    "tiempo": "2026-11-13T04:58:38Z",
@@ -154,6 +178,24 @@
      "tipo": "ml",
      "prof": 212.1,
      "url": null
+    }
+   }
+  },
+  {
+   "id": "20261113031115_-24.21_-67.26",
+   "tiempo": "2026-11-13T03:11:15.340000Z",
+   "lat": -24.211,
+   "lon": -67.263,
+   "prof": 176.658,
+   "lugar": "95 km W of San Antonio de los Cobres, Argentina",
+   "ref": "USGS",
+   "mag_max": 4.2,
+   "agencias": {
+    "USGS": {
+     "mag": 4.2,
+     "tipo": "mb",
+     "prof": 176.658,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy0"
     }
    }
   },
