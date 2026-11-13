@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T01:25:21.480568Z",
+ "actualizado": "2026-11-13T01:30:27.069356Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261113012641_-29.00_-71.65",
+   "tiempo": "2026-11-13T01:26:41Z",
+   "lat": -29.0,
+   "lon": -71.65,
+   "prof": 29.8,
+   "lugar": "OFFSHORE ATACAMA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 4.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 4.0,
+     "tipo": "ml",
+     "prof": 29.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113002333_-24.10_-67.59",
    "tiempo": "2026-11-13T00:23:33Z",
@@ -7839,24 +7857,6 @@
      "mag": 3.5,
      "tipo": "ml",
      "prof": 219.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106012941_-31.28_-68.92",
-   "tiempo": "2026-11-06T01:29:41Z",
-   "lat": -31.28,
-   "lon": -68.92,
-   "prof": 106.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.7,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "m",
-     "prof": 106.0,
      "url": null
     }
    }
