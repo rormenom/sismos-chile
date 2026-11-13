@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T07:40:24.213629Z",
+ "actualizado": "2026-11-13T07:45:21.931631Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261113073616_-21.77_-70.22",
+   "id": "20261113073616_-21.78_-70.22",
    "tiempo": "2026-11-13T07:36:16Z",
-   "lat": -21.77,
-   "lon": -70.22,
-   "prof": 39.9,
-   "lugar": "OFFSHORE ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
-   "mag_max": 3.4,
+   "lat": -21.776,
+   "lon": -70.215,
+   "prof": 41.0,
+   "lugar": "35 km al N de Tocopilla",
+   "ref": "CSN",
+   "mag_max": 3.5,
    "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 41.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392283.html"
+    },
     "EMSC": {
-     "mag": 3.4,
+     "mag": 3.5,
      "tipo": "ml",
-     "prof": 39.9,
+     "prof": 40.7,
      "url": null
     }
    }
