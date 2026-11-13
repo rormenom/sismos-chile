@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-13T03:05:16.767290Z",
+ "actualizado": "2026-11-13T03:10:22.088757Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 260
+   "n": 259
   },
   "USGS": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 339
   }
  },
  "eventos": [
@@ -7857,36 +7857,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 27.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106030936_-20.31_-70.51",
-   "tiempo": "2026-11-06T03:09:36Z",
-   "lat": -20.31,
-   "lon": -70.51,
-   "prof": 38.0,
-   "lugar": "39 km al O de Iquique",
-   "ref": "CSN",
-   "mag_max": 3.7,
-   "agencias": {
-    "CSN": {
-     "mag": 3.7,
-     "tipo": "Mlv",
-     "prof": 38.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391046.html"
-    },
-    "USGS": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 25.803,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twet"
-    },
-    "EMSC": {
-     "mag": 3.7,
-     "tipo": "ml",
-     "prof": 22.0,
      "url": null
     }
    }
