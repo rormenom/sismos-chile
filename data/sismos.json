@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T10:15:23.506806Z",
+ "actualizado": "2026-11-13T10:20:21.878525Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,8 +10,8 @@
    "n": 11
   },
   "GFZ": {
-   "ok": true,
-   "n": 13
+   "ok": false,
+   "error": "HTTP Error 502: Bad Gateway"
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261113101132_-30.23_-69.49",
+   "tiempo": "2026-11-13T10:11:32Z",
+   "lat": -30.228,
+   "lon": -69.49,
+   "prof": 17.0,
+   "lugar": "101 km al E de Paihuano",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 17.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392297.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 17.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261113095933_-19.81_-69.17",
    "tiempo": "2026-11-13T09:59:33Z",
@@ -406,12 +430,6 @@
      "tipo": "mb",
      "prof": 176.658,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txy0"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "mb",
-     "prof": 180.9,
-     "url": null
     }
    }
   },
@@ -1363,16 +1381,10 @@
    "lat": -31.599,
    "lon": -69.403,
    "prof": 118.4,
-   "lugar": "San Juan Province, Argentina",
-   "ref": "GFZ",
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 3.8,
    "agencias": {
-    "GFZ": {
-     "mag": 3.6,
-     "tipo": "ML",
-     "prof": 118.4,
-     "url": null
-    },
     "EMSC": {
      "mag": 3.8,
      "tipo": "m",
@@ -1835,12 +1847,6 @@
      "prof": 112.957,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
     },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "Mw",
-     "prof": 111.2,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mb",
@@ -1978,12 +1984,6 @@
      "tipo": "mb",
      "prof": 34.893,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq"
-    },
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "Mw",
-     "prof": 23.9,
-     "url": null
     },
     "EMSC": {
      "mag": 5.0,
@@ -2210,21 +2210,15 @@
    }
   },
   {
-   "id": "20261111144655_-31.39_-69.34",
-   "tiempo": "2026-11-11T14:46:55.270000Z",
-   "lat": -31.385,
-   "lon": -69.345,
-   "prof": 104.7,
-   "lugar": "San Juan Province, Argentina",
-   "ref": "GFZ",
+   "id": "20261111144655_-31.38_-69.32",
+   "tiempo": "2026-11-11T14:46:55.120000Z",
+   "lat": -31.375,
+   "lon": -69.316,
+   "prof": 106.4,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 4.5,
    "agencias": {
-    "GFZ": {
-     "mag": 4.4,
-     "tipo": "Mw",
-     "prof": 104.7,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mb",
@@ -2392,12 +2386,6 @@
      "tipo": "mb",
      "prof": 91.309,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
-    },
-    "GFZ": {
-     "mag": 4.7,
-     "tipo": "Mw",
-     "prof": 86.6,
-     "url": null
     },
     "EMSC": {
      "mag": 5.1,
@@ -2609,12 +2597,6 @@
      "prof": 26.346,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhn"
     },
-    "GFZ": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 13.1,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.2,
      "tipo": "mb",
@@ -2824,12 +2806,6 @@
      "tipo": "Mlv",
      "prof": 209.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391898.html"
-    },
-    "GFZ": {
-     "mag": 3.9,
-     "tipo": "ML",
-     "prof": 185.5,
-     "url": null
     }
    }
   },
@@ -3328,12 +3304,6 @@
      "tipo": "Mlv",
      "prof": 103.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391797.html"
-    },
-    "GFZ": {
-     "mag": 3.7,
-     "tipo": "ML",
-     "prof": 105.8,
-     "url": null
     },
     "EMSC": {
      "mag": 3.8,
@@ -4587,19 +4557,13 @@
    "prof": 10,
    "lugar": "23 km SSW of Fiambalá, Argentina",
    "ref": "USGS",
-   "mag_max": 4.77,
+   "mag_max": 4.2,
    "agencias": {
     "USGS": {
      "mag": 4.2,
      "tipo": "mb",
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2q"
-    },
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "mb",
-     "prof": 10.0,
-     "url": null
     },
     "EMSC": {
      "mag": 4.2,
@@ -5595,7 +5559,7 @@
    "prof": 65.0,
    "lugar": "16 km al E de Pisagua",
    "ref": "CSN",
-   "mag_max": 4.95,
+   "mag_max": 4.9,
    "agencias": {
     "CSN": {
      "mag": 4.9,
@@ -5608,12 +5572,6 @@
      "tipo": "mwr",
      "prof": 68.785,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twxf"
-    },
-    "GFZ": {
-     "mag": 5.0,
-     "tipo": "mb",
-     "prof": 55.3,
-     "url": null
     },
     "EMSC": {
      "mag": 4.7,
@@ -5812,12 +5770,6 @@
      "tipo": "mb",
      "prof": 223.654,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwg"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "mb",
-     "prof": 231.9,
-     "url": null
     },
     "EMSC": {
      "mag": 4.0,
@@ -7001,12 +6953,6 @@
      "prof": 110.716,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp"
     },
-    "GFZ": {
-     "mag": 4.2,
-     "tipo": "Mw",
-     "prof": 115.1,
-     "url": null
-    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mb",
@@ -7941,30 +7887,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 29.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261106101818_-23.92_-67.32",
-   "tiempo": "2026-11-06T10:18:18Z",
-   "lat": -23.918,
-   "lon": -67.324,
-   "prof": 204.0,
-   "lugar": "68 km al SE de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 204.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391090.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 204.4,
      "url": null
     }
    }
