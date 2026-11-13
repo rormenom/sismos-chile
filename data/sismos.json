@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-13T04:50:20.426471Z",
+ "actualizado": "2026-11-13T04:55:16.417794Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 256
+   "n": 257
   },
   "USGS": {
    "ok": true,
@@ -38,19 +38,25 @@
    }
   },
   {
-   "id": "20261113042234_-25.66_-70.77",
+   "id": "20261113042234_-25.67_-70.76",
    "tiempo": "2026-11-13T04:22:34Z",
-   "lat": -25.66,
-   "lon": -70.77,
-   "prof": 34.9,
-   "lugar": "OFFSHORE ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -25.668,
+   "lon": -70.757,
+   "prof": 31.0,
+   "lugar": "40 km al SO de Taltal",
+   "ref": "CSN",
    "mag_max": 2.9,
    "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 31.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392263.html"
+    },
     "EMSC": {
      "mag": 2.9,
      "tipo": "ml",
-     "prof": 34.9,
+     "prof": 31.4,
      "url": null
     }
    }
