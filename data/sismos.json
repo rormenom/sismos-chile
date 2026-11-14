@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T07:55:17.197534Z",
+ "actualizado": "2026-11-14T08:00:27.889748Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 273
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 360
+   "n": 361
   }
  },
  "eventos": [
+  {
+   "id": "20261114075323_-31.93_-69.99",
+   "tiempo": "2026-11-14T07:53:23Z",
+   "lat": -31.935,
+   "lon": -69.994,
+   "prof": 115.0,
+   "lugar": "57 km al E de Mina Los Pelambres",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 115.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392469.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 115.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261114073217_-18.07_-69.35",
    "tiempo": "2026-11-14T07:32:17Z",
@@ -8240,7 +8264,7 @@
     "USGS": {
      "mag": 4.5,
      "tipo": "mb",
-     "prof": 110.716,
+     "prof": 106.801,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp"
     },
     "GFZ": {
