@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T01:50:20.961631Z",
+ "actualizado": "2026-11-14T01:55:19.178161Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261114014853_-20.08_-68.97",
+   "tiempo": "2026-11-14T01:48:53Z",
+   "lat": -20.081,
+   "lon": -68.975,
+   "prof": 111.0,
+   "lugar": "59 km al NE de Pica",
+   "ref": "CSN",
+   "mag_max": 3.2,
+   "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 111.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392407.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 111.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261114012630_-21.41_-67.42",
    "tiempo": "2026-11-14T01:26:30Z",
@@ -7935,30 +7959,6 @@
      "mag": 3.6,
      "tipo": "m",
      "prof": 132.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107015432_-21.14_-70.30",
-   "tiempo": "2026-11-07T01:54:32Z",
-   "lat": -21.142,
-   "lon": -70.298,
-   "prof": 35.0,
-   "lugar": "38 km al S de Patache",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 35.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391215.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 34.7,
      "url": null
     }
    }
