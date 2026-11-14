@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T15:30:26.090271Z",
+ "actualizado": "2026-11-14T15:35:28.716469Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7952,12 +7952,12 @@
    }
   },
   {
-   "id": "20261107213151_-40.15_-73.64",
+   "id": "20261107213151_-40.14_-73.63",
    "tiempo": "2026-11-07T21:31:51Z",
-   "lat": -40.145,
-   "lon": -73.643,
+   "lat": -40.144,
+   "lon": -73.63,
    "prof": 10.0,
-   "lugar": "50 km al N de Bahía Mansa",
+   "lugar": "49 km al SO de Valdivia",
    "ref": "CSN",
    "mag_max": 3.5,
    "agencias": {
