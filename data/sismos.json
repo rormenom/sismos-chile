@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T07:25:19.543568Z",
+ "actualizado": "2026-11-14T07:30:33.753363Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 273
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 360
   }
  },
  "eventos": [
+  {
+   "id": "20261114072121_-27.41_-70.24",
+   "tiempo": "2026-11-14T07:21:21Z",
+   "lat": -27.413,
+   "lon": -70.24,
+   "prof": 87.0,
+   "lugar": "10 km al SE de Copiapó",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 87.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392464.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 87.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261114071024_-23.44_-67.34",
    "tiempo": "2026-11-14T07:10:24Z",
