@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T16:55:19.387467Z",
+ "actualizado": "2026-11-14T17:00:29.619275Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 269
+   "n": 268
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 354
+   "n": 353
   }
  },
  "eventos": [
+  {
+   "id": "20261114164753_-28.75_-70.41",
+   "tiempo": "2026-11-14T16:47:53Z",
+   "lat": -28.748,
+   "lon": -70.413,
+   "prof": 84.0,
+   "lugar": "7 km al E de Alto del Carmen",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 84.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392522.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 84.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261114163622_-23.96_-66.92",
    "tiempo": "2026-11-14T16:36:22Z",
@@ -8181,54 +8205,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 120.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107165954_-32.67_-70.21",
-   "tiempo": "2026-11-07T16:59:54Z",
-   "lat": -32.675,
-   "lon": -70.206,
-   "prof": 105.0,
-   "lugar": "41 km al E de Los Andes",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 105.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391329.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "m",
-     "prof": 104.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107165713_-18.36_-69.48",
-   "tiempo": "2026-11-07T16:57:13Z",
-   "lat": -18.36,
-   "lon": -69.481,
-   "prof": 129.0,
-   "lugar": "20 km al SE de Putre",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 129.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391326.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 128.7,
      "url": null
     }
    }
