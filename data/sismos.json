@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-14T01:55:19.178161Z",
+ "actualizado": "2026-11-14T02:00:28.845426Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 259
   },
   "USGS": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "GFZ": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 344
   }
  },
  "eventos": [
+  {
+   "id": "20261114015053_-28.00_-69.23",
+   "tiempo": "2026-11-14T01:50:53Z",
+   "lat": -28.005,
+   "lon": -69.235,
+   "prof": 94.0,
+   "lugar": "129 km al SE de Copiapó",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 94.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392408.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 93.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261114014853_-20.08_-68.97",
    "tiempo": "2026-11-14T01:48:53Z",
@@ -178,6 +202,18 @@
      "tipo": "Mlv",
      "prof": 20.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392399.html"
+    },
+    "USGS": {
+     "mag": 4.6,
+     "tipo": "mb",
+     "prof": 10,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty59"
+    },
+    "EMSC": {
+     "mag": 4.6,
+     "tipo": "mb",
+     "prof": 10.0,
+     "url": null
     }
    }
   },
