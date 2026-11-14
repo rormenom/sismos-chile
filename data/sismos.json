@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T15:00:36.446551Z",
+ "actualizado": "2026-11-14T15:05:31.478418Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 268
+   "n": 269
   },
   "USGS": {
    "ok": true,
@@ -22,16 +22,22 @@
   {
    "id": "20261114145300_-30.36_-69.52",
    "tiempo": "2026-11-14T14:53:00Z",
-   "lat": -30.36,
-   "lon": -69.52,
+   "lat": -30.359,
+   "lon": -69.524,
    "prof": 20.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
+   "lugar": "102 km al E de Paihuano",
+   "ref": "CSN",
    "mag_max": 3.5,
    "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 20.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392510.html"
+    },
     "EMSC": {
      "mag": 3.5,
-     "tipo": "ml",
+     "tipo": "m",
      "prof": 20.0,
      "url": null
     }
