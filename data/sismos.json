@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T20:20:20.543049Z",
+ "actualizado": "2026-11-14T20:25:17.633522Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 265
+   "n": 266
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261114200948_-23.74_-67.15",
    "tiempo": "2026-11-14T20:09:48Z",
-   "lat": -23.74,
-   "lon": -67.15,
-   "prof": 239.8,
-   "lugar": "JUJUY, ARGENTINA",
-   "ref": "EMSC",
+   "lat": -23.738,
+   "lon": -67.153,
+   "prof": 240.0,
+   "lugar": "77 km al E de Socaire",
+   "ref": "CSN",
    "mag_max": 2.8,
    "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 240.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392553.html"
+    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
