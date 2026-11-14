@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T22:45:20.294217Z",
+ "actualizado": "2026-11-14T22:50:19.646354Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 237
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 353
+   "n": 352
   }
  },
  "eventos": [
@@ -4900,19 +4900,13 @@
   {
    "id": "20261110232403_-23.82_-67.31",
    "tiempo": "2026-11-10T23:24:03Z",
-   "lat": -23.817,
-   "lon": -67.314,
-   "prof": 230.0,
-   "lugar": "64 km al E de Socaire",
-   "ref": "CSN",
+   "lat": -23.82,
+   "lon": -67.31,
+   "prof": 229.7,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.1,
    "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 230.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391869.html"
-    },
     "EMSC": {
      "mag": 3.1,
      "tipo": "ml",
@@ -4996,19 +4990,13 @@
   {
    "id": "20261110175142_-22.16_-67.67",
    "tiempo": "2026-11-10T17:51:42Z",
-   "lat": -22.156,
-   "lon": -67.673,
-   "prof": 210.0,
-   "lugar": "101 km al NE de San Pedro de Atacama",
-   "ref": "CSN",
+   "lat": -22.16,
+   "lon": -67.67,
+   "prof": 209.9,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
    "mag_max": 3.0,
    "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 210.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391836.html"
-    },
     "EMSC": {
      "mag": 3.0,
      "tipo": "ml",
@@ -5038,19 +5026,13 @@
   {
    "id": "20261110153258_-22.12_-68.57",
    "tiempo": "2026-11-10T15:32:58Z",
-   "lat": -22.116,
-   "lon": -68.569,
-   "prof": 122.0,
-   "lugar": "54 km al NE de Calama",
-   "ref": "CSN",
+   "lat": -22.12,
+   "lon": -68.57,
+   "prof": 122.1,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.5,
    "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 122.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391818.html"
-    },
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
@@ -5060,21 +5042,15 @@
    }
   },
   {
-   "id": "20261110143138_-21.84_-67.77",
+   "id": "20261110143138_-21.85_-67.77",
    "tiempo": "2026-11-10T14:31:38Z",
-   "lat": -21.845,
-   "lon": -67.769,
-   "prof": 256.0,
-   "lugar": "85 km al SE de Ollagüe",
-   "ref": "CSN",
+   "lat": -21.85,
+   "lon": -67.77,
+   "prof": 255.8,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
    "mag_max": 2.6,
    "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 256.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391812.html"
-    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
@@ -5102,21 +5078,15 @@
    }
   },
   {
-   "id": "20261110130320_-21.89_-68.74",
+   "id": "20261110130320_-21.88_-68.74",
    "tiempo": "2026-11-10T13:03:20Z",
-   "lat": -21.885,
-   "lon": -68.743,
-   "prof": 103.0,
-   "lugar": "68 km al N de Calama",
-   "ref": "CSN",
+   "lat": -21.88,
+   "lon": -68.74,
+   "prof": 102.6,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.3,
    "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 103.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391808.html"
-    },
     "EMSC": {
      "mag": 3.3,
      "tipo": "ml",
@@ -5162,21 +5132,15 @@
    }
   },
   {
-   "id": "20261110111440_-19.23_-69.27",
-   "tiempo": "2026-11-10T11:14:40Z",
-   "lat": -19.226,
-   "lon": -69.265,
-   "prof": 103.0,
-   "lugar": "20 km al NE de Camiña",
-   "ref": "CSN",
+   "id": "20261110111442_-19.26_-69.38",
+   "tiempo": "2026-11-10T11:14:42.420000Z",
+   "lat": -19.257,
+   "lon": -69.381,
+   "prof": 105.8,
+   "lugar": "Northern Chile",
+   "ref": "GFZ",
    "mag_max": 3.8,
    "agencias": {
-    "CSN": {
-     "mag": 3.8,
-     "tipo": "Mlv",
-     "prof": 103.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391797.html"
-    },
     "GFZ": {
      "mag": 3.7,
      "tipo": "ML",
@@ -5194,19 +5158,13 @@
   {
    "id": "20261110103828_-25.92_-70.04",
    "tiempo": "2026-11-10T10:38:28Z",
-   "lat": -25.919,
+   "lat": -25.92,
    "lon": -70.04,
-   "prof": 59.0,
-   "lugar": "52 km al N de Diego de Almagro",
-   "ref": "CSN",
+   "prof": 59.4,
+   "lugar": "ATACAMA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.6,
    "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 59.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391794.html"
-    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
@@ -5236,19 +5194,13 @@
   {
    "id": "20261110102101_-21.22_-69.08",
    "tiempo": "2026-11-10T10:21:01Z",
-   "lat": -21.222,
-   "lon": -69.079,
-   "prof": 99.0,
-   "lugar": "62 km al SO de Mina Collahuasi",
-   "ref": "CSN",
+   "lat": -21.22,
+   "lon": -69.08,
+   "prof": 99.1,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 4.1,
    "agencias": {
-    "CSN": {
-     "mag": 4.1,
-     "tipo": "Mlv",
-     "prof": 99.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391793.html"
-    },
     "EMSC": {
      "mag": 4.1,
      "tipo": "ml",
@@ -5260,19 +5212,13 @@
   {
    "id": "20261110091310_-24.27_-67.54",
    "tiempo": "2026-11-10T09:13:10Z",
-   "lat": -24.269,
-   "lon": -67.544,
-   "prof": 206.0,
-   "lugar": "83 km al SE de Socaire",
-   "ref": "CSN",
+   "lat": -24.27,
+   "lon": -67.54,
+   "prof": 206.3,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 206.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391786.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -5356,19 +5302,13 @@
   {
    "id": "20261110071415_-24.03_-67.12",
    "tiempo": "2026-11-10T07:14:15Z",
-   "lat": -24.027,
-   "lon": -67.116,
-   "prof": 234.0,
-   "lugar": "84 km al O de San Antonio de los Cobres",
-   "ref": "CSN",
+   "lat": -24.03,
+   "lon": -67.12,
+   "prof": 233.9,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 3.1,
    "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 234.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391773.html"
-    },
     "EMSC": {
      "mag": 3.1,
      "tipo": "ml",
@@ -5380,19 +5320,13 @@
   {
    "id": "20261110070440_-20.27_-69.02",
    "tiempo": "2026-11-10T07:04:40Z",
-   "lat": -20.266,
+   "lat": -20.27,
    "lon": -69.02,
-   "prof": 102.0,
-   "lugar": "41 km al NE de Pica",
-   "ref": "CSN",
+   "prof": 102.5,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.7,
    "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 102.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391772.html"
-    },
     "EMSC": {
      "mag": 2.7,
      "tipo": "ml",
@@ -5404,19 +5338,13 @@
   {
    "id": "20261110060750_-21.34_-68.63",
    "tiempo": "2026-11-10T06:07:50Z",
-   "lat": -21.342,
-   "lon": -68.631,
-   "prof": 136.0,
-   "lugar": "41 km al O de Ollagüe",
-   "ref": "CSN",
+   "lat": -21.34,
+   "lon": -68.63,
+   "prof": 135.5,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.6,
    "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 136.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391765.html"
-    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
@@ -5483,18 +5411,12 @@
    "id": "20261110051554_-21.55_-69.95",
    "tiempo": "2026-11-10T05:15:54Z",
    "lat": -21.55,
-   "lon": -69.952,
-   "prof": 80.0,
-   "lugar": "45 km al O de Quillagua",
-   "ref": "CSN",
+   "lon": -69.95,
+   "prof": 79.5,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 80.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391761.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -5506,19 +5428,13 @@
   {
    "id": "20261110045707_-21.10_-69.11",
    "tiempo": "2026-11-10T04:57:07Z",
-   "lat": -21.101,
-   "lon": -69.111,
-   "prof": 114.0,
-   "lugar": "56 km al SO de Mina Collahuasi",
-   "ref": "CSN",
+   "lat": -21.1,
+   "lon": -69.11,
+   "prof": 114.4,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 114.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391758.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -5528,21 +5444,15 @@
    }
   },
   {
-   "id": "20261110043319_-30.94_-70.22",
+   "id": "20261110043319_-30.94_-70.21",
    "tiempo": "2026-11-10T04:33:19Z",
-   "lat": -30.943,
-   "lon": -70.215,
-   "prof": 117.0,
-   "lugar": "76 km al E de Monte Patria",
-   "ref": "CSN",
+   "lat": -30.94,
+   "lon": -70.21,
+   "prof": 117.2,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 2.7,
    "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 117.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391755.html"
-    },
     "EMSC": {
      "mag": 2.7,
      "tipo": "ml",
@@ -5554,19 +5464,13 @@
   {
    "id": "20261110042432_-30.76_-71.96",
    "tiempo": "2026-11-10T04:24:32Z",
-   "lat": -30.763,
-   "lon": -71.956,
+   "lat": -30.76,
+   "lon": -71.96,
    "prof": 28.0,
-   "lugar": "28 km al O de Parque Fray Jorge",
-   "ref": "CSN",
+   "lugar": "OFFSHORE COQUIMBO, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.9,
    "agencias": {
-    "CSN": {
-     "mag": 3.9,
-     "tipo": "Mlv",
-     "prof": 28.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391752.html"
-    },
     "EMSC": {
      "mag": 3.9,
      "tipo": "ml",
@@ -5578,19 +5482,13 @@
   {
    "id": "20261110035405_-21.89_-68.61",
    "tiempo": "2026-11-10T03:54:05Z",
-   "lat": -21.888,
-   "lon": -68.611,
-   "prof": 112.0,
-   "lugar": "73 km al NE de Calama",
-   "ref": "CSN",
+   "lat": -21.89,
+   "lon": -68.61,
+   "prof": 112.4,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.5,
    "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 112.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391749.html"
-    },
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
@@ -5602,19 +5500,13 @@
   {
    "id": "20261110034837_-25.01_-68.17",
    "tiempo": "2026-11-10T03:48:37Z",
-   "lat": -25.012,
-   "lon": -68.171,
-   "prof": 138.0,
-   "lugar": "122 km al SE de Mina La Escondida",
-   "ref": "CSN",
+   "lat": -25.01,
+   "lon": -68.17,
+   "prof": 138.5,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 138.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391748.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -5626,19 +5518,13 @@
   {
    "id": "20261110032714_-29.90_-70.53",
    "tiempo": "2026-11-10T03:27:14Z",
-   "lat": -29.901,
-   "lon": -70.535,
-   "prof": 95.0,
-   "lugar": "14 km al N de Paihuano",
-   "ref": "CSN",
+   "lat": -29.9,
+   "lon": -70.53,
+   "prof": 95.2,
+   "lugar": "COQUIMBO, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.5,
    "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 95.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391745.html"
-    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
@@ -5704,19 +5590,13 @@
   {
    "id": "20261110014602_-21.20_-68.83",
    "tiempo": "2026-11-10T01:46:02Z",
-   "lat": -21.204,
-   "lon": -68.827,
-   "prof": 116.0,
-   "lugar": "45 km al SO de Mina Collahuasi",
-   "ref": "CSN",
+   "lat": -21.2,
+   "lon": -68.83,
+   "prof": 116.4,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.9,
    "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 116.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391733.html"
-    },
     "EMSC": {
      "mag": 2.9,
      "tipo": "ml",
@@ -5746,19 +5626,13 @@
   {
    "id": "20261110010334_-21.38_-69.83",
    "tiempo": "2026-11-10T01:03:34Z",
-   "lat": -21.378,
-   "lon": -69.825,
-   "prof": 54.0,
-   "lugar": "43 km al NO de Quillagua",
-   "ref": "CSN",
+   "lat": -21.38,
+   "lon": -69.83,
+   "prof": 53.8,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.5,
    "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 54.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391729.html"
-    },
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
@@ -5770,19 +5644,13 @@
   {
    "id": "20261110005917_-21.49_-68.11",
    "tiempo": "2026-11-10T00:59:17Z",
-   "lat": -21.489,
-   "lon": -68.113,
-   "prof": 143.0,
-   "lugar": "33 km al SE de Ollagüe",
-   "ref": "CSN",
+   "lat": -21.49,
+   "lon": -68.11,
+   "prof": 142.6,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 143.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391728.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -8075,18 +7943,12 @@
    "id": "20261107235211_-21.17_-68.86",
    "tiempo": "2026-11-07T23:52:11Z",
    "lat": -21.17,
-   "lon": -68.862,
-   "prof": 127.0,
-   "lugar": "44 km al SO de Mina Collahuasi",
-   "ref": "CSN",
+   "lon": -68.86,
+   "prof": 127.3,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 127.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391390.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -8098,19 +7960,13 @@
   {
    "id": "20261107232416_-22.59_-68.98",
    "tiempo": "2026-11-07T23:24:16Z",
-   "lat": -22.587,
-   "lon": -68.982,
-   "prof": 101.0,
-   "lugar": "14 km al SO de Calama",
-   "ref": "CSN",
+   "lat": -22.59,
+   "lon": -68.98,
+   "prof": 100.8,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.7,
    "agencias": {
-    "CSN": {
-     "mag": 3.7,
-     "tipo": "Mlv",
-     "prof": 101.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391389.html"
-    },
     "EMSC": {
      "mag": 3.7,
      "tipo": "ml",
@@ -8120,21 +7976,15 @@
    }
   },
   {
-   "id": "20261107230717_-31.70_-71.88",
+   "id": "20261107230717_-31.69_-71.88",
    "tiempo": "2026-11-07T23:07:17Z",
-   "lat": -31.695,
+   "lat": -31.69,
    "lon": -71.88,
-   "prof": 27.0,
-   "lugar": "42 km al NO de Los Vilos",
-   "ref": "CSN",
+   "prof": 27.2,
+   "lugar": "OFFSHORE COQUIMBO, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.8,
    "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 27.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391386.html"
-    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
@@ -8144,49 +7994,19 @@
    }
   },
   {
-   "id": "20261107230140_-31.72_-71.89",
+   "id": "20261107230140_-31.72_-71.90",
    "tiempo": "2026-11-07T23:01:40Z",
-   "lat": -31.717,
-   "lon": -71.895,
+   "lat": -31.72,
+   "lon": -71.9,
    "prof": 26.0,
-   "lugar": "42 km al NO de Los Vilos",
-   "ref": "CSN",
+   "lugar": "OFFSHORE COQUIMBO, CHILE",
+   "ref": "EMSC",
    "mag_max": 3.0,
    "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 26.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391385.html"
-    },
     "EMSC": {
      "mag": 3.0,
      "tipo": "ml",
      "prof": 26.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107224636_-23.08_-67.05",
-   "tiempo": "2026-11-07T22:46:36Z",
-   "lat": -23.082,
-   "lon": -67.046,
-   "prof": 237.0,
-   "lugar": "103 km al NE de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 237.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391380.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 237.3,
      "url": null
     }
    }
