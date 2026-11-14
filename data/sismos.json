@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T00:00:30.357369Z",
+ "actualizado": "2026-11-14T00:05:18.039751Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,19 +20,19 @@
  },
  "eventos": [
   {
-   "id": "20261113235516_-37.96_-74.79",
+   "id": "20261113235516_-37.94_-74.61",
    "tiempo": "2026-11-13T23:55:16Z",
-   "lat": -37.96,
-   "lon": -74.79,
-   "prof": 30.0,
-   "lugar": "107 km al O de Lebu",
+   "lat": -37.943,
+   "lon": -74.605,
+   "prof": 20.0,
+   "lugar": "91 km al O de Lebu",
    "ref": "CSN",
-   "mag_max": 4.9,
+   "mag_max": 4.6,
    "agencias": {
     "CSN": {
-     "mag": 4.9,
+     "mag": 4.6,
      "tipo": "Mlv",
-     "prof": 30.0,
+     "prof": 20.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392399.html"
     }
    }
