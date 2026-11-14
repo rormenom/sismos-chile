@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T03:30:17.858644Z",
+ "actualizado": "2026-11-14T03:35:19.493153Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "GFZ": {
    "ok": true,
@@ -38,19 +38,25 @@
    }
   },
   {
-   "id": "20261114031827_-23.82_-66.77",
-   "tiempo": "2026-11-14T03:18:27Z",
-   "lat": -23.82,
-   "lon": -66.77,
-   "prof": 218.0,
-   "lugar": "JUJUY, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 4.2,
+   "id": "20261114031826_-23.94_-66.76",
+   "tiempo": "2026-11-14T03:18:26.652000Z",
+   "lat": -23.944,
+   "lon": -66.764,
+   "prof": 216.092,
+   "lugar": "54 km NW of San Antonio de los Cobres, Argentina",
+   "ref": "USGS",
+   "mag_max": 4.7,
    "agencias": {
+    "USGS": {
+     "mag": 4.7,
+     "tipo": "mb",
+     "prof": 216.092,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p"
+    },
     "EMSC": {
-     "mag": 4.2,
-     "tipo": "ml",
-     "prof": 218.0,
+     "mag": 4.7,
+     "tipo": "mb",
+     "prof": 216.1,
      "url": null
     }
    }
