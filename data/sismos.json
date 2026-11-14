@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T14:30:25.535393Z",
+ "actualizado": "2026-11-14T14:35:17.234339Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 269
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 357
+   "n": 355
   }
  },
  "eventos": [
@@ -5216,25 +5216,25 @@
    }
   },
   {
-   "id": "20261110042432_-30.75_-71.94",
+   "id": "20261110042432_-30.76_-71.96",
    "tiempo": "2026-11-10T04:24:32Z",
-   "lat": -30.754,
-   "lon": -71.936,
+   "lat": -30.763,
+   "lon": -71.956,
    "prof": 28.0,
-   "lugar": "26 km al O de Parque Fray Jorge",
+   "lugar": "28 km al O de Parque Fray Jorge",
    "ref": "CSN",
-   "mag_max": 3.8,
+   "mag_max": 3.9,
    "agencias": {
     "CSN": {
-     "mag": 3.8,
+     "mag": 3.9,
      "tipo": "Mlv",
      "prof": 28.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391752.html"
     },
     "EMSC": {
-     "mag": 3.8,
+     "mag": 3.9,
      "tipo": "ml",
-     "prof": 27.9,
+     "prof": 28.0,
      "url": null
     }
    }
@@ -8247,54 +8247,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107143324_-32.16_-71.84",
-   "tiempo": "2026-11-07T14:33:24Z",
-   "lat": -32.158,
-   "lon": -71.839,
-   "prof": 28.0,
-   "lugar": "29 km al O de Pichidangui",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 28.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391312.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 27.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107143030_-28.63_-71.38",
-   "tiempo": "2026-11-07T14:30:30Z",
-   "lat": -28.632,
-   "lon": -71.376,
-   "prof": 29.0,
-   "lugar": "24 km al SO de Huasco",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 29.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391310.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 28.8,
      "url": null
     }
    }
