@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-14T10:50:20.876549Z",
+ "actualizado": "2026-11-14T10:54:14.171865Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 270
   },
   "USGS": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "GFZ": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "EMSC": {
    "ok": true,
-   "n": 358
+   "n": 357
   }
  },
  "eventos": [
@@ -8289,42 +8289,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 42.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107105311_-21.59_-68.67",
-   "tiempo": "2026-11-07T10:53:11Z",
-   "lat": -21.588,
-   "lon": -68.67,
-   "prof": 102.0,
-   "lugar": "59 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 4.5,
-   "agencias": {
-    "CSN": {
-     "mag": 4.3,
-     "tipo": "Mlv",
-     "prof": 102.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391293.html"
-    },
-    "USGS": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 106.801,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twrp"
-    },
-    "GFZ": {
-     "mag": 4.2,
-     "tipo": "Mw",
-     "prof": 115.1,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 105.6,
      "url": null
     }
    }
