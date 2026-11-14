@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T15:45:21.856729Z",
+ "actualizado": "2026-11-14T15:50:21.777438Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -5306,7 +5306,7 @@
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
-     "prof": 106.9,
+     "prof": 112.4,
      "url": null
     }
    }
@@ -5456,12 +5456,12 @@
    }
   },
   {
-   "id": "20261110010334_-21.37_-69.82",
+   "id": "20261110010334_-21.38_-69.83",
    "tiempo": "2026-11-10T01:03:34Z",
-   "lat": -21.374,
-   "lon": -69.824,
+   "lat": -21.378,
+   "lon": -69.825,
    "prof": 54.0,
-   "lugar": "44 km al NO de Quillagua",
+   "lugar": "43 km al NO de Quillagua",
    "ref": "CSN",
    "mag_max": 3.5,
    "agencias": {
@@ -5474,7 +5474,7 @@
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
-     "prof": 53.6,
+     "prof": 53.8,
      "url": null
     }
    }
