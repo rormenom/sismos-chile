@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-14T23:50:20.198946Z",
+ "actualizado": "2026-11-14T23:55:16.692317Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 261
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261114234414_-25.92_-66.53",
+   "tiempo": "2026-11-14T23:44:14Z",
+   "lat": -25.92,
+   "lon": -66.53,
+   "prof": 10.0,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.1,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261114231420_-22.16_-68.85",
    "tiempo": "2026-11-14T23:14:20Z",
@@ -8115,30 +8133,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 45.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261107235211_-21.17_-68.86",
-   "tiempo": "2026-11-07T23:52:11Z",
-   "lat": -21.17,
-   "lon": -68.862,
-   "prof": 127.0,
-   "lugar": "44 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 127.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391390.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 127.3,
      "url": null
     }
    }
