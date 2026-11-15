@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T02:00:33.711858Z",
+ "actualizado": "2026-11-15T02:05:21.222375Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,12 +20,12 @@
  },
  "eventos": [
   {
-   "id": "20261115014753_-32.12_-71.15",
+   "id": "20261115014753_-32.12_-71.17",
    "tiempo": "2026-11-15T01:47:53Z",
    "lat": -32.118,
-   "lon": -71.154,
+   "lon": -71.168,
    "prof": 81.0,
-   "lugar": "26 km al NO de Petorca",
+   "lugar": "27 km al NO de Petorca",
    "ref": "CSN",
    "mag_max": 2.9,
    "agencias": {
