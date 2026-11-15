@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T11:10:20.119770Z",
+ "actualizado": "2026-11-15T11:15:25.790554Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,49 @@
  },
  "eventos": [
   {
-   "id": "20261115110427_-33.05_-72.10",
-   "tiempo": "2026-11-15T11:04:27Z",
-   "lat": -33.045,
-   "lon": -72.104,
-   "prof": 14.0,
-   "lugar": "46 km al O de Valparaíso",
+   "id": "20261115110730_-33.05_-72.09",
+   "tiempo": "2026-11-15T11:07:30Z",
+   "lat": -33.054,
+   "lon": -72.087,
+   "prof": 20.0,
+   "lugar": "44 km al O de Valparaíso",
    "ref": "CSN",
-   "mag_max": 3.3,
+   "mag_max": 2.8,
    "agencias": {
     "CSN": {
-     "mag": 3.3,
+     "mag": 2.8,
      "tipo": "Mlv",
-     "prof": 14.0,
+     "prof": 20.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392671.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 19.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261115110427_-33.04_-72.12",
+   "tiempo": "2026-11-15T11:04:27Z",
+   "lat": -33.039,
+   "lon": -72.118,
+   "prof": 20.0,
+   "lugar": "47 km al O de Valparaíso",
+   "ref": "CSN",
+   "mag_max": 3.5,
+   "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 20.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392670.html"
     },
     "EMSC": {
-     "mag": 3.3,
+     "mag": 3.5,
      "tipo": "ml",
-     "prof": 13.6,
+     "prof": 20.0,
      "url": null
     }
    }
@@ -8151,30 +8175,6 @@
      "mag": 3.7,
      "tipo": "ml",
      "prof": 107.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261108111244_-20.72_-69.20",
-   "tiempo": "2026-11-08T11:12:44Z",
-   "lat": -20.723,
-   "lon": -69.205,
-   "prof": 114.0,
-   "lugar": "29 km al SE de Pica",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 114.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391466.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 113.9,
      "url": null
     }
    }
