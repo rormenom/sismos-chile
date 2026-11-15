@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T23:25:17.328762Z",
+ "actualizado": "2026-11-15T23:30:25.968878Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "GFZ": {
    "ok": true,
@@ -40,6 +40,24 @@
      "tipo": "ml",
      "prof": 279.6,
      "url": null
+    }
+   }
+  },
+  {
+   "id": "20261115230421_-22.55_-66.37",
+   "tiempo": "2026-11-15T23:04:21.749000Z",
+   "lat": -22.549,
+   "lon": -66.374,
+   "prof": 239.456,
+   "lugar": "72 km WNW of Abra Pampa, Argentina",
+   "ref": "USGS",
+   "mag_max": 4.4,
+   "agencias": {
+    "USGS": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 239.456,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tygl"
     }
    }
   },
