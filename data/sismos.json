@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-15T07:00:29.397462Z",
+ "actualizado": "2026-11-15T07:05:21.802506Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 258
+   "n": 257
   },
   "USGS": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "GFZ": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "EMSC": {
    "ok": true,
-   "n": 348
+   "n": 347
   }
  },
  "eventos": [
@@ -8043,54 +8043,6 @@
      "mag": 3.3,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261108070251_-23.74_-67.24",
-   "tiempo": "2026-11-08T07:02:51Z",
-   "lat": -23.74,
-   "lon": -67.241,
-   "prof": 241.0,
-   "lugar": "68 km al E de Socaire",
-   "ref": "CSN",
-   "mag_max": 4.0,
-   "agencias": {
-    "CSN": {
-     "mag": 4.0,
-     "tipo": "Mlv",
-     "prof": 241.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391432.html"
-    }
-   }
-  },
-  {
-   "id": "20261108070249_-24.05_-66.89",
-   "tiempo": "2026-11-08T07:02:49.940000Z",
-   "lat": -24.046,
-   "lon": -66.888,
-   "prof": 223.654,
-   "lugar": "60 km WNW of San Antonio de los Cobres, Argentina",
-   "ref": "USGS",
-   "mag_max": 4.3,
-   "agencias": {
-    "USGS": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 223.654,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwg"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "mb",
-     "prof": 231.9,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.0,
-     "tipo": "ml",
-     "prof": 192.0,
      "url": null
     }
    }
