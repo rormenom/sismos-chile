@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T11:50:24.543720Z",
+ "actualizado": "2026-11-15T11:55:17.744722Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 16
+   "n": 17
   },
   "GFZ": {
    "ok": true,
@@ -59,10 +59,16 @@
      "prof": 37.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392677.html"
     },
+    "USGS": {
+     "mag": 4.1,
+     "tipo": "mwr",
+     "prof": 27.161,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tye3"
+    },
     "EMSC": {
      "mag": 4.4,
      "tipo": "mw",
-     "prof": 11.9,
+     "prof": 9.2,
      "url": null
     }
    }
