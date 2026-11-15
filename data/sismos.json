@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-15T16:00:26.766332Z",
+ "actualizado": "2026-11-15T16:05:20.305191Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 267
+   "n": 268
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261115154813_-29.31_-69.53",
-   "tiempo": "2026-11-15T15:48:13Z",
-   "lat": -29.31,
-   "lon": -69.53,
-   "prof": 131.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
+   "id": "20261115154812_-29.33_-69.56",
+   "tiempo": "2026-11-15T15:48:12Z",
+   "lat": -29.333,
+   "lon": -69.561,
+   "prof": 124.0,
+   "lugar": "110 km al SE de Alto del Carmen",
+   "ref": "CSN",
    "mag_max": 2.8,
    "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 124.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392707.html"
+    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "m",
-     "prof": 131.0,
+     "prof": 124.1,
      "url": null
     }
    }
