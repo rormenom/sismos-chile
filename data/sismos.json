@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-15T01:00:27.045626Z",
+ "actualizado": "2026-11-15T01:05:17.676722Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 261
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 352
+   "n": 351
   }
  },
  "eventos": [
@@ -8133,30 +8133,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 164.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261108010340_-32.65_-71.12",
-   "tiempo": "2026-11-08T01:03:40Z",
-   "lat": -32.645,
-   "lon": -71.123,
-   "prof": 61.0,
-   "lugar": "24 km al SE de La Ligua",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 61.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391399.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 60.8,
      "url": null
     }
    }
