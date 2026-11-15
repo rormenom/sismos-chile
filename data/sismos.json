@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T04:15:19.174847Z",
+ "actualizado": "2026-11-15T04:20:20.076096Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "GFZ": {
    "ok": true,
@@ -15,24 +15,36 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 346
+   "n": 347
   }
  },
  "eventos": [
   {
-   "id": "20261115035959_-31.32_-68.64",
-   "tiempo": "2026-11-15T03:59:59.690000Z",
-   "lat": -31.324,
-   "lon": -68.644,
-   "prof": 101.3,
-   "lugar": "San Juan Province, Argentina",
-   "ref": "GFZ",
-   "mag_max": 4.75,
+   "id": "20261115035959_-31.32_-68.68",
+   "tiempo": "2026-11-15T03:59:59.682000Z",
+   "lat": -31.322,
+   "lon": -68.682,
+   "prof": 108.94,
+   "lugar": "19 km NW of Albardón, Argentina",
+   "ref": "USGS",
+   "mag_max": 4.8,
    "agencias": {
+    "USGS": {
+     "mag": 4.8,
+     "tipo": "mb",
+     "prof": 108.94,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx"
+    },
     "GFZ": {
      "mag": 4.8,
      "tipo": "mb",
      "prof": 101.3,
+     "url": null
+    },
+    "EMSC": {
+     "mag": 4.8,
+     "tipo": "mb",
+     "prof": 108.9,
      "url": null
     }
    }
