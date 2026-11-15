@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T04:50:23.291336Z",
+ "actualizado": "2026-11-15T04:55:16.850685Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "GFZ": {
    "ok": true,
@@ -51,13 +51,19 @@
    "prof": 240.0,
    "lugar": "104 km al E de Socaire",
    "ref": "CSN",
-   "mag_max": 4.1,
+   "mag_max": 4.4,
    "agencias": {
     "CSN": {
      "mag": 4.1,
      "tipo": "Mlv",
      "prof": 240.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392610.html"
+    },
+    "USGS": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 254.527,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyc0"
     },
     "EMSC": {
      "mag": 3.8,
