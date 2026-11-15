@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-15T07:25:15.739213Z",
+ "actualizado": "2026-11-15T07:30:24.225212Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 257
+   "n": 258
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261115072010_-23.81_-67.32",
+   "tiempo": "2026-11-15T07:20:10Z",
+   "lat": -23.811,
+   "lon": -67.32,
+   "prof": 252.0,
+   "lugar": "63 km al E de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 252.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392638.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 251.7,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261115064725_-22.23_-68.91",
    "tiempo": "2026-11-15T06:47:25Z",
@@ -8023,24 +8047,6 @@
    "agencias": {
     "EMSC": {
      "mag": 3.8,
-     "tipo": "m",
-     "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261108072630_-31.70_-67.30",
-   "tiempo": "2026-11-08T07:26:30Z",
-   "lat": -31.7,
-   "lon": -67.3,
-   "prof": 10.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.3,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.3,
      "tipo": "m",
      "prof": 10.0,
      "url": null
