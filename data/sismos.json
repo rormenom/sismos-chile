@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-15T15:55:18.334118Z",
+ "actualizado": "2026-11-15T16:00:26.766332Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 268
+   "n": 267
   },
   "USGS": {
    "ok": true,
@@ -20,10 +20,28 @@
  },
  "eventos": [
   {
-   "id": "20261115154444_-33.07_-71.51",
+   "id": "20261115154813_-29.31_-69.53",
+   "tiempo": "2026-11-15T15:48:13Z",
+   "lat": -29.31,
+   "lon": -69.53,
+   "prof": 131.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 131.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261115154444_-33.06_-71.51",
    "tiempo": "2026-11-15T15:44:44Z",
-   "lat": -33.069,
-   "lon": -71.514,
+   "lat": -33.061,
+   "lon": -71.509,
    "prof": 37.0,
    "lugar": "10 km al E de Valparaíso",
    "ref": "CSN",
@@ -8217,30 +8235,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 109.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261108155959_-24.17_-67.55",
-   "tiempo": "2026-11-08T15:59:59Z",
-   "lat": -24.167,
-   "lon": -67.546,
-   "prof": 218.0,
-   "lugar": "73 km al SE de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 218.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391497.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 218.0,
      "url": null
     }
    }
