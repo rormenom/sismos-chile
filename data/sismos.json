@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T15:40:24.063387Z",
+ "actualizado": "2026-11-16T15:45:24.264672Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 350
+   "n": 351
   }
  },
  "eventos": [
+  {
+   "id": "20261116154056_-23.62_-69.02",
+   "tiempo": "2026-11-16T15:40:56Z",
+   "lat": -23.62,
+   "lon": -69.02,
+   "prof": 87.0,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 87.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116151755_-22.45_-69.53",
    "tiempo": "2026-11-16T15:17:55Z",
