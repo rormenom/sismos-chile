@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T06:20:26.140347Z",
+ "actualizado": "2026-11-16T06:25:20.592008Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 348
   }
  },
  "eventos": [
@@ -63,6 +63,30 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 196.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261116055208_-38.83_-74.78",
+   "tiempo": "2026-11-16T05:52:08Z",
+   "lat": -38.826,
+   "lon": -74.785,
+   "prof": 20.0,
+   "lugar": "124 km al O de Tirúa",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 20.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392833.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 20.0,
      "url": null
     }
    }
@@ -8115,48 +8139,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 204.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109062233_-22.38_-68.58",
-   "tiempo": "2026-11-09T06:22:33Z",
-   "lat": -22.383,
-   "lon": -68.579,
-   "prof": 109.0,
-   "lugar": "37 km al E de Calama",
-   "ref": "CSN",
-   "mag_max": 3.9,
-   "agencias": {
-    "CSN": {
-     "mag": 3.9,
-     "tipo": "Mlv",
-     "prof": 109.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391598.html"
-    },
-    "EMSC": {
-     "mag": 3.9,
-     "tipo": "ml",
-     "prof": 108.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109062040_-28.86_-68.88",
-   "tiempo": "2026-11-09T06:20:40Z",
-   "lat": -28.86,
-   "lon": -68.88,
-   "prof": 131.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.9,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.9,
-     "tipo": "m",
-     "prof": 131.0,
      "url": null
     }
    }
