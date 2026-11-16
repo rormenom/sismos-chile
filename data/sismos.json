@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T12:30:29.442317Z",
+ "actualizado": "2026-11-16T12:35:20.392465Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 270
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 350
+   "n": 349
   }
  },
  "eventos": [
@@ -1428,8 +1428,8 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tydr"
     },
     "GFZ": {
-     "mag": 4.2,
-     "tipo": "ML",
+     "mag": 4.1,
+     "tipo": "Mw",
      "prof": 10.0,
      "url": null
     },
@@ -8223,30 +8223,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 110.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109123511_-32.11_-71.65",
-   "tiempo": "2026-11-09T12:35:11Z",
-   "lat": -32.106,
-   "lon": -71.653,
-   "prof": 39.0,
-   "lugar": "12 km al O de Pichidangui",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 39.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391640.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 38.5,
      "url": null
     }
    }
