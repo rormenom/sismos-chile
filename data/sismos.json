@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T05:55:16.591680Z",
+ "actualizado": "2026-11-16T06:00:29.434730Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -858,9 +858,9 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tye3"
     },
     "EMSC": {
-     "mag": 4.4,
+     "mag": 4.1,
      "tipo": "mw",
-     "prof": 9.2,
+     "prof": 30.5,
      "url": null
     }
    }
@@ -1291,8 +1291,8 @@
     },
     "EMSC": {
      "mag": 4.3,
-     "tipo": "ml",
-     "prof": 152.1,
+     "tipo": "mb",
+     "prof": 126.0,
      "url": null
     }
    }
@@ -1320,9 +1320,9 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyc0"
     },
     "EMSC": {
-     "mag": 3.8,
-     "tipo": "ml",
-     "prof": 240.1,
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 207.0,
      "url": null
     }
    }
@@ -1352,7 +1352,7 @@
     "EMSC": {
      "mag": 4.8,
      "tipo": "mb",
-     "prof": 108.9,
+     "prof": 108.0,
      "url": null
     }
    }
@@ -1380,9 +1380,9 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybv"
     },
     "EMSC": {
-     "mag": 3.9,
-     "tipo": "ml",
-     "prof": 124.0,
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 129.8,
      "url": null
     }
    }
@@ -1854,9 +1854,9 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty9n"
     },
     "EMSC": {
-     "mag": 3.7,
-     "tipo": "ml",
-     "prof": 189.4,
+     "mag": 4.6,
+     "tipo": "mb",
+     "prof": 192.0,
      "url": null
     }
    }
