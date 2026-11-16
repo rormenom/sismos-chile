@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-11-16T08:20:31.263932Z",
+ "actualizado": "2026-11-16T08:25:30.472773Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 269
+   "n": 270
   },
   "USGS": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "GFZ": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261116081632_-33.04_-72.10",
+   "tiempo": "2026-11-16T08:16:32Z",
+   "lat": -33.039,
+   "lon": -72.101,
+   "prof": 22.0,
+   "lugar": "45 km al O de Valparaíso",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 22.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392861.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 21.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116072737_-22.93_-67.26",
    "tiempo": "2026-11-16T07:27:37Z",
@@ -8199,36 +8223,6 @@
      "mag": 3.4,
      "tipo": "ml",
      "prof": 99.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109082213_-27.87_-67.71",
-   "tiempo": "2026-11-09T08:22:13.253000Z",
-   "lat": -27.868,
-   "lon": -67.707,
-   "prof": 10,
-   "lugar": "23 km SSW of Fiambalá, Argentina",
-   "ref": "USGS",
-   "mag_max": 4.77,
-   "agencias": {
-    "USGS": {
-     "mag": 4.2,
-     "tipo": "mb",
-     "prof": 10,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2q"
-    },
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "mb",
-     "prof": 10.0,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.2,
-     "tipo": "mb",
-     "prof": 10.0,
      "url": null
     }
    }
