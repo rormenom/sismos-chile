@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T22:25:16.419383Z",
+ "actualizado": "2026-11-16T22:30:25.018141Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 277
   },
   "USGS": {
    "ok": true,
@@ -2535,6 +2535,24 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 100.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261114221925_-32.06_-68.12",
+   "tiempo": "2026-11-14T22:19:25Z",
+   "lat": -32.059,
+   "lon": -68.119,
+   "prof": 10.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 10.0,
      "url": null
     }
    }
@@ -8415,30 +8433,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 24.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109222836_-30.38_-72.21",
-   "tiempo": "2026-11-09T22:28:36Z",
-   "lat": -30.378,
-   "lon": -72.208,
-   "prof": 36.0,
-   "lugar": "59 km al NO de Parque Fray Jorge",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 36.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391717.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 35.6,
      "url": null
     }
    }
