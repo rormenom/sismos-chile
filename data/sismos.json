@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T19:25:21.057460Z",
+ "actualizado": "2026-11-16T19:30:28.041755Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 276
+   "n": 277
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261116190747_-23.09_-67.17",
+   "tiempo": "2026-11-16T19:07:47Z",
+   "lat": -23.094,
+   "lon": -67.167,
+   "prof": 240.0,
+   "lugar": "92 km al NE de Socaire",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 240.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392961.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 239.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116183117_-21.34_-68.66",
    "tiempo": "2026-11-16T18:31:17Z",
@@ -8427,24 +8451,6 @@
      "mag": 3.6,
      "tipo": "m",
      "prof": 46.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109192645_-29.92_-67.32",
-   "tiempo": "2026-11-09T19:26:45Z",
-   "lat": -29.92,
-   "lon": -67.32,
-   "prof": 10.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.8,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "m",
-     "prof": 10.0,
      "url": null
     }
    }
