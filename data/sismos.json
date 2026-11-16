@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T19:35:20.718045Z",
+ "actualizado": "2026-11-16T19:40:20.254582Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 277
+   "n": 278
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261116192056_-20.66_-68.91",
+   "tiempo": "2026-11-16T19:20:56Z",
+   "lat": -20.662,
+   "lon": -68.908,
+   "prof": 97.0,
+   "lugar": "32 km al NO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 97.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392963.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 97.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116190747_-23.09_-67.17",
    "tiempo": "2026-11-16T19:07:47Z",
@@ -8433,24 +8457,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 56.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109193856_-17.41_-71.66",
-   "tiempo": "2026-11-09T19:38:56Z",
-   "lat": -17.41,
-   "lon": -71.66,
-   "prof": 46.0,
-   "lugar": "NEAR COAST OF SOUTHERN PERU",
-   "ref": "EMSC",
-   "mag_max": 3.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "m",
-     "prof": 46.0,
      "url": null
     }
    }
