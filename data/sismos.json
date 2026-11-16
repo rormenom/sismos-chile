@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T11:45:22.907365Z",
+ "actualizado": "2026-11-16T11:50:20.883631Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 351
+   "n": 350
   }
  },
  "eventos": [
@@ -8241,30 +8241,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 38.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109114539_-41.53_-75.48",
-   "tiempo": "2026-11-09T11:45:39Z",
-   "lat": -41.533,
-   "lon": -75.482,
-   "prof": 20.0,
-   "lugar": "142 km al O de Ancud",
-   "ref": "CSN",
-   "mag_max": 3.9,
-   "agencias": {
-    "CSN": {
-     "mag": 3.9,
-     "tipo": "Mlv",
-     "prof": 20.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391632.html"
-    },
-    "EMSC": {
-     "mag": 3.9,
-     "tipo": "ml",
-     "prof": 20.1,
      "url": null
     }
    }
