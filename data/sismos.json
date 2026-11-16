@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T12:25:20.854067Z",
+ "actualizado": "2026-11-16T12:30:29.442317Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 16
+   "n": 17
   },
   "EMSC": {
    "ok": true,
@@ -1426,6 +1426,12 @@
      "tipo": "mwr",
      "prof": 19.435,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tydr"
+    },
+    "GFZ": {
+     "mag": 4.2,
+     "tipo": "ML",
+     "prof": 10.0,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
