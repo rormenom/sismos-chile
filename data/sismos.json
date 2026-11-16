@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T06:45:41.769878Z",
+ "actualizado": "2026-11-16T06:50:25.036702Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 265
+   "n": 266
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261116063823_-36.87_-70.69",
-   "tiempo": "2026-11-16T06:38:23Z",
-   "lat": -36.87,
-   "lon": -70.69,
-   "prof": 163.0,
-   "lugar": "NEUQUEN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.8,
+   "id": "20261116063825_-36.65_-70.93",
+   "tiempo": "2026-11-16T06:38:25Z",
+   "lat": -36.65,
+   "lon": -70.929,
+   "prof": 165.0,
+   "lugar": "57 km al E de San Fabián",
+   "ref": "CSN",
+   "mag_max": 3.3,
    "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 165.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392839.html"
+    },
     "EMSC": {
-     "mag": 3.8,
+     "mag": 3.3,
      "tipo": "m",
-     "prof": 163.0,
+     "prof": 165.4,
      "url": null
     }
    }
