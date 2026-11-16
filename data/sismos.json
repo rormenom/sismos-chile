@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T13:30:24.590350Z",
+ "actualizado": "2026-11-16T13:35:18.514150Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 266
+   "n": 267
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 345
+   "n": 346
   }
  },
  "eventos": [
+  {
+   "id": "20261116132912_-34.06_-71.23",
+   "tiempo": "2026-11-16T13:29:12Z",
+   "lat": -34.06,
+   "lon": -71.227,
+   "prof": 35.0,
+   "lugar": "27 km al N de Las Cabras",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 35.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392903.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 34.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116105928_-33.09_-72.08",
    "tiempo": "2026-11-16T10:59:28Z",
