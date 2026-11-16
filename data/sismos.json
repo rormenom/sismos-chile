@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T07:25:19.209602Z",
+ "actualizado": "2026-11-16T07:30:31.207935Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 11
+   "n": 12
   },
   "EMSC": {
    "ok": true,
@@ -1011,7 +1011,7 @@
    "prof": 37.0,
    "lugar": "23 km al N de Patache",
    "ref": "CSN",
-   "mag_max": 4.4,
+   "mag_max": 4.49,
    "agencias": {
     "CSN": {
      "mag": 4.4,
@@ -1024,6 +1024,12 @@
      "tipo": "mwr",
      "prof": 27.161,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tye3"
+    },
+    "GFZ": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 22.5,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
