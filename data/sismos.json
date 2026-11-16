@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T07:40:21.328081Z",
+ "actualizado": "2026-11-16T07:45:19.321362Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 12
+   "n": 13
   },
   "EMSC": {
    "ok": true,
@@ -2705,10 +2705,16 @@
      "prof": 216.092,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 200.4,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.7,
      "tipo": "mb",
-     "prof": 216.1,
+     "prof": 200.4,
      "url": null
     }
    }
