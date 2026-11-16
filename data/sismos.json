@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T12:55:19.766437Z",
+ "actualizado": "2026-11-16T13:00:31.058412Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 269
+   "n": 268
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 348
+   "n": 347
   }
  },
  "eventos": [
@@ -8175,30 +8175,6 @@
      "mag": 3.6,
      "tipo": "ml",
      "prof": 101.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109125552_-28.96_-71.03",
-   "tiempo": "2026-11-09T12:55:52Z",
-   "lat": -28.962,
-   "lon": -71.028,
-   "prof": 50.0,
-   "lugar": "51 km al SO de Vallenar",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 50.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391643.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 50.4,
      "url": null
     }
    }
