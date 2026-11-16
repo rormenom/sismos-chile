@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T17:35:29.065027Z",
+ "actualizado": "2026-11-16T17:40:21.734975Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 274
+   "n": 275
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261116172729_-17.90_-70.19",
    "tiempo": "2026-11-16T17:27:29Z",
-   "lat": -17.9,
-   "lon": -70.19,
+   "lat": -17.897,
+   "lon": -70.186,
    "prof": 120.0,
-   "lugar": "SOUTHERN PERU",
-   "ref": "EMSC",
+   "lugar": "15 km al NE de Tacna",
+   "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 120.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392945.html"
+    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
