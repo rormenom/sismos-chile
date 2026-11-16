@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T08:10:25.552738Z",
+ "actualizado": "2026-11-16T08:15:24.211838Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "EMSC": {
    "ok": true,
@@ -1492,6 +1492,12 @@
      "tipo": "mb",
      "prof": 151.745,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyc3"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "ML",
+     "prof": 156.8,
+     "url": null
     },
     "EMSC": {
      "mag": 4.3,
