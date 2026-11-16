@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T06:25:20.592008Z",
+ "actualizado": "2026-11-16T06:30:25.402169Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 348
+   "n": 349
   }
  },
  "eventos": [
+  {
+   "id": "20261116062308_-34.76_-71.77",
+   "tiempo": "2026-11-16T06:23:08Z",
+   "lat": -34.76,
+   "lon": -71.77,
+   "prof": 42.3,
+   "lugar": "LIBERTADOR O'HIGGINS, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 42.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116060631_-21.14_-68.55",
    "tiempo": "2026-11-16T06:06:31Z",
