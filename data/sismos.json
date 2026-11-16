@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T15:25:21.183172Z",
+ "actualizado": "2026-11-16T15:35:19.717979Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 269
+   "n": 270
   },
   "USGS": {
    "ok": true,
@@ -15,24 +15,54 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 350
   }
  },
  "eventos": [
   {
    "id": "20261116151755_-22.45_-69.53",
    "tiempo": "2026-11-16T15:17:55Z",
-   "lat": -22.45,
-   "lon": -69.53,
-   "prof": 52.8,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -22.448,
+   "lon": -69.528,
+   "prof": 53.0,
+   "lugar": "18 km al SE de María Elena",
+   "ref": "CSN",
    "mag_max": 3.5,
    "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 53.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392916.html"
+    },
     "EMSC": {
      "mag": 3.5,
      "tipo": "ml",
      "prof": 52.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261116151731_-32.82_-71.85",
+   "tiempo": "2026-11-16T15:17:31Z",
+   "lat": -32.822,
+   "lon": -71.847,
+   "prof": 25.0,
+   "lugar": "30 km al O de Quintero",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 25.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392914.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 25.4,
      "url": null
     }
    }
@@ -8200,24 +8230,6 @@
      "tipo": "ml",
      "prof": 131.1,
      "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109153011_-20.58_-69.02",
-   "tiempo": "2026-11-09T15:30:11Z",
-   "lat": -20.577,
-   "lon": -69.017,
-   "prof": 99.0,
-   "lugar": "34 km al E de Pica",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 99.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391666.html"
     }
    }
   }
