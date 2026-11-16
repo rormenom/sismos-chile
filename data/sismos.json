@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T19:55:19.024649Z",
+ "actualizado": "2026-11-16T20:00:26.340323Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 277
+   "n": 278
   },
   "USGS": {
    "ok": true,
@@ -22,17 +22,23 @@
   {
    "id": "20261116195157_-33.05_-72.22",
    "tiempo": "2026-11-16T19:51:57Z",
-   "lat": -33.05,
-   "lon": -72.22,
+   "lat": -33.047,
+   "lon": -72.221,
    "prof": 30.0,
-   "lugar": "OFFSHORE VALPARAISO, CHILE",
-   "ref": "EMSC",
+   "lugar": "57 km al O de Valparaíso",
+   "ref": "CSN",
    "mag_max": 4.3,
    "agencias": {
-    "EMSC": {
+    "CSN": {
      "mag": 4.3,
-     "tipo": "ml",
+     "tipo": "Mlv",
      "prof": 30.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392972.html"
+    },
+    "EMSC": {
+     "mag": 4.2,
+     "tipo": "ml",
+     "prof": 24.0,
      "url": null
     }
    }
