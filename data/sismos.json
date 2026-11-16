@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T23:15:32.198944Z",
+ "actualizado": "2026-11-16T23:20:25.278168Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -24,11 +24,17 @@
    "tiempo": "2026-11-16T23:04:25Z",
    "lat": -32.01,
    "lon": -71.42,
-   "prof": 42.9,
-   "lugar": "COQUIMBO, CHILE",
-   "ref": "EMSC",
+   "prof": 43.0,
+   "lugar": "14 km al SE de Los Vilos",
+   "ref": "CSN",
    "mag_max": 3.4,
    "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 43.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393008.html"
+    },
     "EMSC": {
      "mag": 3.4,
      "tipo": "ml",
