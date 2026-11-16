@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-16T21:50:18.980711Z",
+ "actualizado": "2026-11-16T21:55:20.589702Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 278
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 360
+   "n": 359
   }
  },
  "eventos": [
@@ -8439,30 +8439,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 35.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109215016_-20.82_-69.21",
-   "tiempo": "2026-11-09T21:50:16Z",
-   "lat": -20.819,
-   "lon": -69.213,
-   "prof": 113.0,
-   "lugar": "38 km al S de Pica",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 113.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391714.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 113.1,
      "url": null
     }
    }
