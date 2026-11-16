@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T20:35:17.801324Z",
+ "actualizado": "2026-11-16T20:40:20.650647Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,25 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261116203103_-18.62_-69.87",
-   "tiempo": "2026-11-16T20:31:03Z",
-   "lat": -18.62,
-   "lon": -69.869,
-   "prof": 43.0,
-   "lugar": "50 km al E de Arica",
+   "id": "20261116203101_-18.62_-69.75",
+   "tiempo": "2026-11-16T20:31:01Z",
+   "lat": -18.616,
+   "lon": -69.754,
+   "prof": 72.0,
+   "lugar": "51 km al SO de Putre",
    "ref": "CSN",
-   "mag_max": 3.1,
+   "mag_max": 3.3,
    "agencias": {
     "CSN": {
-     "mag": 3.1,
-     "tipo": "M",
-     "prof": 43.0,
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 72.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392983.html"
     },
     "EMSC": {
-     "mag": 3.1,
-     "tipo": "m",
-     "prof": 42.8,
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 72.1,
      "url": null
     }
    }
