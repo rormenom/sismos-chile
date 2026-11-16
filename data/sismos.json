@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T19:50:19.362200Z",
+ "actualizado": "2026-11-16T19:55:19.024649Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 360
   }
  },
  "eventos": [
+  {
+   "id": "20261116195157_-33.05_-72.22",
+   "tiempo": "2026-11-16T19:51:57Z",
+   "lat": -33.05,
+   "lon": -72.22,
+   "prof": 30.0,
+   "lugar": "OFFSHORE VALPARAISO, CHILE",
+   "ref": "EMSC",
+   "mag_max": 4.3,
+   "agencias": {
+    "EMSC": {
+     "mag": 4.3,
+     "tipo": "ml",
+     "prof": 30.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116192056_-20.66_-68.91",
    "tiempo": "2026-11-16T19:20:56Z",
