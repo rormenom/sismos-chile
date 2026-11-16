@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T06:30:25.402169Z",
+ "actualizado": "2026-11-16T06:35:20.547772Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,20 +15,26 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 348
   }
  },
  "eventos": [
   {
    "id": "20261116062308_-34.76_-71.77",
    "tiempo": "2026-11-16T06:23:08Z",
-   "lat": -34.76,
-   "lon": -71.77,
-   "prof": 42.3,
-   "lugar": "LIBERTADOR O'HIGGINS, CHILE",
-   "ref": "EMSC",
+   "lat": -34.762,
+   "lon": -71.772,
+   "prof": 42.0,
+   "lugar": "24 km al NE de Vichuquén",
+   "ref": "CSN",
    "mag_max": 2.5,
    "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 42.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392835.html"
+    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
@@ -8133,30 +8139,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 122.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109063226_-24.17_-67.50",
-   "tiempo": "2026-11-09T06:32:26Z",
-   "lat": -24.174,
-   "lon": -67.504,
-   "prof": 205.0,
-   "lugar": "76 km al SE de Socaire",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 205.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391600.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 204.8,
      "url": null
     }
    }
