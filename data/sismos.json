@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T23:10:30.976600Z",
+ "actualizado": "2026-11-16T23:15:32.198944Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 361
+   "n": 362
   }
  },
  "eventos": [
+  {
+   "id": "20261116230425_-32.01_-71.42",
+   "tiempo": "2026-11-16T23:04:25Z",
+   "lat": -32.01,
+   "lon": -71.42,
+   "prof": 42.9,
+   "lugar": "COQUIMBO, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 42.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116225816_-21.41_-67.56",
    "tiempo": "2026-11-16T22:58:16Z",
