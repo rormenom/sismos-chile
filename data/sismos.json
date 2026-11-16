@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T13:10:20.101791Z",
+ "actualizado": "2026-11-16T13:15:23.857865Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -39,6 +39,24 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 21.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261116105612_-29.12_-68.38",
+   "tiempo": "2026-11-16T10:56:12Z",
+   "lat": -29.12,
+   "lon": -68.38,
+   "prof": 31.0,
+   "lugar": "LA RIOJA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 31.0,
      "url": null
     }
    }
@@ -8133,24 +8151,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 113.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261109131331_-31.25_-68.76",
-   "tiempo": "2026-11-09T13:13:31Z",
-   "lat": -31.25,
-   "lon": -68.76,
-   "prof": 112.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.7,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.7,
-     "tipo": "m",
-     "prof": 112.0,
      "url": null
     }
    }
