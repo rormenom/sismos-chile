@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-17T20:20:20.575955Z",
+ "actualizado": "2026-11-17T20:25:17.280864Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 288
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 361
+   "n": 362
   }
  },
  "eventos": [
+  {
+   "id": "20261117201716_-34.49_-70.37",
+   "tiempo": "2026-11-17T20:17:16Z",
+   "lat": -34.489,
+   "lon": -70.37,
+   "prof": 115.0,
+   "lugar": "49 km al SE de Rancagua",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 115.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393161.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 115.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261117190238_-24.06_-67.20",
    "tiempo": "2026-11-17T19:02:38Z",
