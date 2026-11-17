@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T04:30:24.828278Z",
+ "actualizado": "2026-11-17T04:35:19.921127Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261117042532_-33.06_-72.11",
+   "tiempo": "2026-11-17T04:25:32Z",
+   "lat": -33.059,
+   "lon": -72.115,
+   "prof": 20.0,
+   "lugar": "47 km al O de Valparaíso",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 20.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393045.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 19.6,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261117024338_-31.38_-69.54",
    "tiempo": "2026-11-17T02:43:38Z",
@@ -8457,30 +8481,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 114.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261110043319_-30.94_-70.22",
-   "tiempo": "2026-11-10T04:33:19Z",
-   "lat": -30.943,
-   "lon": -70.215,
-   "prof": 117.0,
-   "lugar": "76 km al E de Monte Patria",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 117.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391755.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 117.2,
      "url": null
     }
    }
