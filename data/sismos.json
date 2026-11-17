@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T03:25:18.035365Z",
+ "actualizado": "2026-11-17T03:30:24.912316Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -177,6 +177,30 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 147.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261117000601_-22.62_-67.55",
+   "tiempo": "2026-11-17T00:06:01Z",
+   "lat": -22.616,
+   "lon": -67.548,
+   "prof": 10.0,
+   "lugar": "75 km al NE de San Pedro de Atacama",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 10.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393029.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 10.0,
      "url": null
     }
    }
@@ -8529,30 +8553,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 138.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261110032714_-29.90_-70.53",
-   "tiempo": "2026-11-10T03:27:14Z",
-   "lat": -29.901,
-   "lon": -70.535,
-   "prof": 95.0,
-   "lugar": "14 km al N de Paihuano",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 95.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391745.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 95.2,
      "url": null
     }
    }
