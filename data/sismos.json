@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T15:00:47.663073Z",
+ "actualizado": "2026-11-17T15:05:19.269792Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 356
+   "n": 357
   }
  },
  "eventos": [
+  {
+   "id": "20261117150020_-21.50_-67.43",
+   "tiempo": "2026-11-17T15:00:20Z",
+   "lat": -21.5,
+   "lon": -67.43,
+   "prof": 292.1,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.9,
+     "tipo": "ml",
+     "prof": 292.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261117140723_-18.91_-69.25",
    "tiempo": "2026-11-17T14:07:23Z",
