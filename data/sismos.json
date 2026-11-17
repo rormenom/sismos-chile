@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-17T10:35:21.579551Z",
+ "actualizado": "2026-11-17T10:40:19.289933Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 278
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 352
+   "n": 351
   }
  },
  "eventos": [
@@ -8295,30 +8295,6 @@
      "mag": 3.8,
      "tipo": "ml",
      "prof": 100.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261110103828_-25.92_-70.04",
-   "tiempo": "2026-11-10T10:38:28Z",
-   "lat": -25.919,
-   "lon": -70.04,
-   "prof": 59.0,
-   "lugar": "52 km al N de Diego de Almagro",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 59.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391794.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 59.4,
      "url": null
     }
    }
