@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-17T00:00:31.425408Z",
+ "actualizado": "2026-11-17T00:05:21.342377Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 282
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 362
+   "n": 363
   }
  },
  "eventos": [
+  {
+   "id": "20261116235417_-17.75_-70.12",
+   "tiempo": "2026-11-16T23:54:17Z",
+   "lat": -17.745,
+   "lon": -70.123,
+   "prof": 111.0,
+   "lugar": "34 km al NE de Tacna",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 111.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393017.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 110.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261116232633_-24.02_-67.37",
    "tiempo": "2026-11-16T23:26:33Z",
