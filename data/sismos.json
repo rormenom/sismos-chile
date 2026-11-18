@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T09:05:16.813353Z",
+ "actualizado": "2026-11-18T09:10:19.733815Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "EMSC": {
    "ok": true,
@@ -776,6 +776,24 @@
    }
   },
   {
+   "id": "20261117150020_-21.50_-67.28",
+   "tiempo": "2026-11-17T15:00:20.480000Z",
+   "lat": -21.503,
+   "lon": -67.279,
+   "prof": 265.3,
+   "lugar": "Chile-Bolivia Border Region",
+   "ref": "GFZ",
+   "mag_max": 3.88,
+   "agencias": {
+    "GFZ": {
+     "mag": 3.9,
+     "tipo": "ML",
+     "prof": 265.3,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261117150018_-21.45_-67.24",
    "tiempo": "2026-11-17T15:00:18Z",
    "lat": -21.447,
@@ -792,9 +810,9 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393107.html"
     },
     "GFZ": {
-     "mag": 3.9,
-     "tipo": "ML",
-     "prof": 265.3,
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 260.4,
      "url": null
     }
    }
