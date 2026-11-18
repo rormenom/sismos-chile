@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T09:35:16.920078Z",
+ "actualizado": "2026-11-18T09:40:20.844687Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 16
+   "n": 17
   },
   "EMSC": {
    "ok": true,
@@ -82,6 +82,12 @@
      "tipo": "Mlv",
      "prof": 64.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393253.html"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "ML",
+     "prof": 26.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
