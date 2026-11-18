@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-18T18:40:31.480104Z",
+ "actualizado": "2026-11-18T18:45:20.278989Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 295
   },
   "USGS": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 365
+   "n": 364
   }
  },
  "eventos": [
@@ -8619,36 +8619,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 94.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111184157_-28.64_-70.32",
-   "tiempo": "2026-11-11T18:41:57Z",
-   "lat": -28.638,
-   "lon": -70.32,
-   "prof": 94.0,
-   "lugar": "21 km al NE de Alto del Carmen",
-   "ref": "CSN",
-   "mag_max": 4.1,
-   "agencias": {
-    "CSN": {
-     "mag": 4.1,
-     "tipo": "Mlv",
-     "prof": 94.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392014.html"
-    },
-    "USGS": {
-     "mag": 3.9,
-     "tipo": "mb",
-     "prof": 113.235,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmi"
-    },
-    "EMSC": {
-     "mag": 3.9,
-     "tipo": "mb",
-     "prof": 102.8,
      "url": null
     }
    }
