@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-18T15:35:18.532567Z",
+ "actualizado": "2026-11-18T15:40:23.237460Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -20,15 +20,21 @@
  },
  "eventos": [
   {
-   "id": "20261118150959_-21.85_-67.65",
+   "id": "20261118150959_-21.84_-67.65",
    "tiempo": "2026-11-18T15:09:59Z",
-   "lat": -21.85,
-   "lon": -67.65,
-   "prof": 236.5,
-   "lugar": "POTOSI, BOLIVIA",
-   "ref": "EMSC",
+   "lat": -21.845,
+   "lon": -67.649,
+   "prof": 237.0,
+   "lugar": "93 km al SE de Ollagüe",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 237.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393310.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
