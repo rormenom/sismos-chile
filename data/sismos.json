@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-18T05:20:25.955763Z",
+ "actualizado": "2026-11-18T05:25:30.025368Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261118051655_-19.50_-69.25",
+   "tiempo": "2026-11-18T05:16:55Z",
+   "lat": -19.5,
+   "lon": -69.245,
+   "prof": 100.0,
+   "lugar": "28 km al SE de Camiña",
+   "ref": "CSN",
+   "mag_max": 3.2,
+   "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 100.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393234.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 99.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261118043907_-21.72_-68.64",
    "tiempo": "2026-11-18T04:39:07Z",
@@ -8649,24 +8673,6 @@
      "mag": 3.2,
      "tipo": "m",
      "prof": 228.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111052309_-31.81_-69.36",
-   "tiempo": "2026-11-11T05:23:09Z",
-   "lat": -31.81,
-   "lon": -69.36,
-   "prof": 116.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.0,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "m",
-     "prof": 116.0,
      "url": null
     }
    }
