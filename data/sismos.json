@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T10:05:19.265743Z",
+ "actualizado": "2026-11-18T10:10:21.536950Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261118095912_-31.92_-69.94",
+   "tiempo": "2026-11-18T09:59:12Z",
+   "lat": -31.919,
+   "lon": -69.937,
+   "prof": 149.0,
+   "lugar": "62 km al E de Mina Los Pelambres",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 149.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393277.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 149.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261118093126_-23.81_-67.26",
    "tiempo": "2026-11-18T09:31:26Z",
@@ -8571,30 +8595,6 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 126.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111100723_-22.29_-68.66",
-   "tiempo": "2026-11-11T10:07:23Z",
-   "lat": -22.286,
-   "lon": -68.663,
-   "prof": 116.0,
-   "lugar": "34 km al NE de Calama",
-   "ref": "CSN",
-   "mag_max": 3.6,
-   "agencias": {
-    "CSN": {
-     "mag": 3.6,
-     "tipo": "Mlv",
-     "prof": 116.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391946.html"
-    },
-    "EMSC": {
-     "mag": 3.6,
-     "tipo": "ml",
-     "prof": 115.5,
      "url": null
     }
    }
