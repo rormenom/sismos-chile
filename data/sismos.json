@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-18T05:50:21.642206Z",
+ "actualizado": "2026-11-18T05:55:17.607745Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 294
+   "n": 293
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 364
+   "n": 363
   }
  },
  "eventos": [
@@ -8601,30 +8601,6 @@
      "mag": 3.5,
      "tipo": "ml",
      "prof": 25.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111055103_-19.28_-70.14",
-   "tiempo": "2026-11-11T05:51:03Z",
-   "lat": -19.282,
-   "lon": -70.135,
-   "prof": 56.0,
-   "lugar": "14 km al S de Cuya",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 56.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391909.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 56.0,
      "url": null
     }
    }
