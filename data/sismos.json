@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-18T20:40:20.624004Z",
+ "actualizado": "2026-11-18T20:45:23.407295Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 292
+   "n": 290
   },
   "USGS": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "GFZ": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "EMSC": {
    "ok": true,
-   "n": 360
+   "n": 358
   }
  },
  "eventos": [
@@ -8457,66 +8457,6 @@
      "mag": 3.3,
      "tipo": "m",
      "prof": 179.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111204503_-19.64_-69.30",
-   "tiempo": "2026-11-11T20:45:03Z",
-   "lat": -19.645,
-   "lon": -69.301,
-   "prof": 115.0,
-   "lugar": "39 km al S de Camiña",
-   "ref": "CSN",
-   "mag_max": 4.5,
-   "agencias": {
-    "CSN": {
-     "mag": 4.3,
-     "tipo": "Mlv",
-     "prof": 115.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392037.html"
-    },
-    "USGS": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 112.957,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txni"
-    },
-    "GFZ": {
-     "mag": 4.1,
-     "tipo": "Mw",
-     "prof": 111.2,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 111.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111204150_-20.63_-69.09",
-   "tiempo": "2026-11-11T20:41:50Z",
-   "lat": -20.632,
-   "lon": -69.093,
-   "prof": 97.0,
-   "lugar": "29 km al SE de Pica",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 97.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392036.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 97.1,
      "url": null
     }
    }
