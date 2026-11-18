@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-18T11:35:18.443475Z",
+ "actualizado": "2026-11-18T11:40:22.952431Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 292
+   "n": 291
   },
   "USGS": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "GFZ": {
    "ok": true,
-   "n": 17
+   "n": 16
   },
   "EMSC": {
    "ok": true,
-   "n": 360
+   "n": 359
   }
  },
  "eventos": [
@@ -8517,42 +8517,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 219.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111113650_-22.48_-69.07",
-   "tiempo": "2026-11-11T11:36:50Z",
-   "lat": -22.482,
-   "lon": -69.066,
-   "prof": 91.0,
-   "lugar": "14 km al O de Calama",
-   "ref": "CSN",
-   "mag_max": 5.1,
-   "agencias": {
-    "CSN": {
-     "mag": 4.9,
-     "tipo": "Mw",
-     "prof": 91.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391956.html"
-    },
-    "USGS": {
-     "mag": 5.1,
-     "tipo": "mb",
-     "prof": 91.309,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txis"
-    },
-    "GFZ": {
-     "mag": 4.7,
-     "tipo": "Mw",
-     "prof": 86.6,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 5.1,
-     "tipo": "mb",
-     "prof": 86.0,
      "url": null
     }
    }
