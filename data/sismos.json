@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T17:10:24.224297Z",
+ "actualizado": "2026-11-18T17:15:33.858325Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261118170807_-28.29_-69.25",
+   "tiempo": "2026-11-18T17:08:07Z",
+   "lat": -28.29,
+   "lon": -69.25,
+   "prof": 126.0,
+   "lugar": "132 km al E de Alto del Carmen",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 126.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393327.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 125.7,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261118162151_-21.04_-68.76",
    "tiempo": "2026-11-18T16:21:51Z",
@@ -8625,30 +8649,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 188.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111171324_-23.80_-67.28",
-   "tiempo": "2026-11-11T17:13:24Z",
-   "lat": -23.805,
-   "lon": -67.284,
-   "prof": 239.0,
-   "lugar": "66 km al E de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.9,
-   "agencias": {
-    "CSN": {
-     "mag": 3.9,
-     "tipo": "Mlv",
-     "prof": 239.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392002.html"
-    },
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "ml",
-     "prof": 238.8,
      "url": null
     }
    }
