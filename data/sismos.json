@@ -1,54 +1,42 @@
 {
- "actualizado": "2026-11-18T06:55:17.249132Z",
+ "actualizado": "2026-11-18T07:00:28.879754Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 293
   },
   "USGS": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "GFZ": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "EMSC": {
    "ok": true,
-   "n": 365
+   "n": 363
   }
  },
  "eventos": [
   {
-   "id": "20261118064551_-30.34_-71.42",
-   "tiempo": "2026-11-18T06:45:51Z",
-   "lat": -30.338,
-   "lon": -71.417,
-   "prof": 42.0,
-   "lugar": "12 km al SE de Tongoy",
+   "id": "20261118064549_-30.22_-71.28",
+   "tiempo": "2026-11-18T06:45:49Z",
+   "lat": -30.224,
+   "lon": -71.276,
+   "prof": 64.0,
+   "lugar": "18 km al O de Andacollo",
    "ref": "CSN",
-   "mag_max": 4.2,
+   "mag_max": 4.1,
    "agencias": {
     "CSN": {
-     "mag": 4.2,
-     "tipo": "Ml",
-     "prof": 42.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393252.html"
-    }
-   }
-  },
-  {
-   "id": "20261118064551_-30.23_-71.10",
-   "tiempo": "2026-11-18T06:45:51.220000Z",
-   "lat": -30.226,
-   "lon": -71.097,
-   "prof": 10.0,
-   "lugar": "COQUIMBO, CHILE",
-   "ref": "EMSC",
-   "mag_max": 4.2,
-   "agencias": {
+     "mag": 4.1,
+     "tipo": "Mlv",
+     "prof": 64.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393253.html"
+    },
     "EMSC": {
-     "mag": 4.2,
+     "mag": 4.1,
      "tipo": "ml",
      "prof": 10.0,
      "url": null
@@ -8601,66 +8589,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 214.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111065729_-33.25_-72.14",
-   "tiempo": "2026-11-11T06:57:29Z",
-   "lat": -33.249,
-   "lon": -72.141,
-   "prof": 24.0,
-   "lugar": "49 km al NO de El Tabo",
-   "ref": "CSN",
-   "mag_max": 4.4,
-   "agencias": {
-    "CSN": {
-     "mag": 4.4,
-     "tipo": "Mlv",
-     "prof": 24.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391920.html"
-    },
-    "USGS": {
-     "mag": 4.2,
-     "tipo": "mb",
-     "prof": 26.346,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txhn"
-    },
-    "GFZ": {
-     "mag": 4.3,
-     "tipo": "mb",
-     "prof": 13.1,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.2,
-     "tipo": "mb",
-     "prof": 8.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111065718_-25.60_-69.92",
-   "tiempo": "2026-11-11T06:57:18Z",
-   "lat": -25.598,
-   "lon": -69.92,
-   "prof": 75.0,
-   "lugar": "61 km al E de Taltal",
-   "ref": "CSN",
-   "mag_max": 3.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 75.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/391923.html"
-    },
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "ml",
-     "prof": 75.3,
      "url": null
     }
    }
