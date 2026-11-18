@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T18:55:28.811836Z",
+ "actualizado": "2026-11-18T19:00:43.780659Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261118185042_-34.96_-72.41",
+   "tiempo": "2026-11-18T18:50:42Z",
+   "lat": -34.961,
+   "lon": -72.405,
+   "prof": 27.0,
+   "lugar": "38 km al O de Vichuquén",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 27.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393341.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 27.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261118184653_-21.38_-68.44",
    "tiempo": "2026-11-18T18:46:53Z",
@@ -8619,30 +8643,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 116.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261111185943_-20.68_-68.90",
-   "tiempo": "2026-11-11T18:59:43Z",
-   "lat": -20.684,
-   "lon": -68.898,
-   "prof": 94.0,
-   "lugar": "30 km al NO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 94.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392016.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 94.1,
      "url": null
     }
    }
