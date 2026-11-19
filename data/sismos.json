@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T18:15:19.955966Z",
+ "actualizado": "2026-11-19T18:20:20.881798Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,29 +11,41 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 348
   }
  },
  "eventos": [
   {
-   "id": "20261119180948_-31.82_-72.08",
+   "id": "20261119180948_-31.83_-72.09",
    "tiempo": "2026-11-19T18:09:48Z",
-   "lat": -31.824,
-   "lon": -72.075,
-   "prof": 30.0,
-   "lugar": "54 km al O de Los Vilos",
+   "lat": -31.827,
+   "lon": -72.089,
+   "prof": 26.0,
+   "lugar": "55 km al O de Los Vilos",
    "ref": "CSN",
-   "mag_max": 4.9,
+   "mag_max": 5.1,
    "agencias": {
     "CSN": {
-     "mag": 4.9,
+     "mag": 5.1,
      "tipo": "Mlv",
-     "prof": 30.0,
+     "prof": 26.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393498.html"
+    },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "M",
+     "prof": 10.0,
+     "url": null
+    },
+    "EMSC": {
+     "mag": 5.1,
+     "tipo": "m",
+     "prof": 13.0,
+     "url": null
     }
    }
   },
@@ -848,7 +860,7 @@
     "USGS": {
      "mag": 4.5,
      "tipo": "mb",
-     "prof": 133.871,
+     "prof": 129.419,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33"
     },
     "GFZ": {
