@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T18:35:23.367351Z",
+ "actualizado": "2026-11-19T18:40:22.793669Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,31 +15,49 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 347
   }
  },
  "eventos": [
   {
-   "id": "20261119182509_-31.83_-72.03",
+   "id": "20261119182557_-31.86_-72.07",
+   "tiempo": "2026-11-19T18:25:57Z",
+   "lat": -31.86,
+   "lon": -72.07,
+   "prof": 26.0,
+   "lugar": "53 km al O de Los Vilos",
+   "ref": "CSN",
+   "mag_max": 3.5,
+   "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Ml",
+     "prof": 26.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393508.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 26.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261119182509_-31.83_-72.01",
    "tiempo": "2026-11-19T18:25:09Z",
    "lat": -31.826,
-   "lon": -72.031,
-   "prof": 22.0,
-   "lugar": "50 km al O de Los Vilos",
+   "lon": -72.011,
+   "prof": 23.0,
+   "lugar": "48 km al O de Los Vilos",
    "ref": "CSN",
    "mag_max": 3.4,
    "agencias": {
     "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 22.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393504.html"
-    },
-    "EMSC": {
      "mag": 3.4,
-     "tipo": "ml",
-     "prof": 22.7,
-     "url": null
+     "tipo": "Mlv",
+     "prof": 23.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393504.html"
     }
    }
   },
@@ -8241,48 +8259,6 @@
      "mag": 2.8,
      "tipo": "m",
      "prof": 115.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261112183924_-21.14_-68.83",
-   "tiempo": "2026-11-12T18:39:24Z",
-   "lat": -21.136,
-   "lon": -68.834,
-   "prof": 116.0,
-   "lugar": "39 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 116.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392202.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 115.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261112183753_-21.40_-66.63",
-   "tiempo": "2026-11-12T18:37:53Z",
-   "lat": -21.401,
-   "lon": -66.631,
-   "prof": 223.2,
-   "lugar": "POTOSI, BOLIVIA",
-   "ref": "EMSC",
-   "mag_max": 3.8,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.8,
-     "tipo": "m",
-     "prof": 223.2,
      "url": null
     }
    }
