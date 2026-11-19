@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-19T21:05:18.384560Z",
+ "actualizado": "2026-11-19T21:10:21.919578Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 291
+   "n": 292
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261119210143_-21.47_-68.64",
+   "tiempo": "2026-11-19T21:01:43Z",
+   "lat": -21.47,
+   "lon": -68.639,
+   "prof": 138.0,
+   "lugar": "48 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 138.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393533.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 137.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261119203530_-31.82_-72.04",
    "tiempo": "2026-11-19T20:35:30Z",
@@ -8355,24 +8379,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 7.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261112210945_-32.23_-66.30",
-   "tiempo": "2026-11-12T21:09:45Z",
-   "lat": -32.23,
-   "lon": -66.3,
-   "prof": 10.0,
-   "lugar": "SAN LUIS, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 10.0,
      "url": null
     }
    }
