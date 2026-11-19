@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T06:55:17.399088Z",
+ "actualizado": "2026-11-19T07:00:27.184512Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 351
+   "n": 352
   }
  },
  "eventos": [
+  {
+   "id": "20261119064959_-28.81_-71.46",
+   "tiempo": "2026-11-19T06:49:59Z",
+   "lat": -28.81,
+   "lon": -71.46,
+   "prof": 30.4,
+   "lugar": "OFFSHORE ATACAMA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 30.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261119060056_-29.90_-69.34",
    "tiempo": "2026-11-19T06:00:56Z",
