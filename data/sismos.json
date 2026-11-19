@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-19T03:50:19.657135Z",
+ "actualizado": "2026-11-19T03:55:18.054316Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 288
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 353
+   "n": 354
   }
  },
  "eventos": [
+  {
+   "id": "20261119034325_-32.20_-69.94",
+   "tiempo": "2026-11-19T03:43:25Z",
+   "lat": -32.201,
+   "lon": -69.938,
+   "prof": 110.0,
+   "lugar": "74 km al SE de Mina Los Pelambres",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 110.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393396.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 109.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261119032531_-23.94_-67.27",
    "tiempo": "2026-11-19T03:25:31Z",
