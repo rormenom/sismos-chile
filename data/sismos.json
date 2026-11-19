@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-19T22:15:23.109072Z",
+ "actualizado": "2026-11-19T22:20:22.374233Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 294
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 354
+   "n": 353
   }
  },
  "eventos": [
@@ -8409,30 +8409,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 135.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261112221651_-23.82_-68.70",
-   "tiempo": "2026-11-12T22:16:51Z",
-   "lat": -23.815,
-   "lon": -68.7,
-   "prof": 107.0,
-   "lugar": "62 km al NE de Mina La Escondida",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 107.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392225.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 106.7,
      "url": null
     }
    }
