@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T15:50:20.269595Z",
+ "actualizado": "2026-11-19T15:55:17.822827Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 346
   }
  },
  "eventos": [
@@ -8199,24 +8199,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 103.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261112155159_-17.49_-71.40",
-   "tiempo": "2026-11-12T15:51:59Z",
-   "lat": -17.49,
-   "lon": -71.4,
-   "prof": 46.0,
-   "lugar": "NEAR COAST OF SOUTHERN PERU",
-   "ref": "EMSC",
-   "mag_max": 3.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "m",
-     "prof": 46.0,
      "url": null
     }
    }
