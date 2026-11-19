@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T00:20:21.045002Z",
+ "actualizado": "2026-11-19T00:25:20.948569Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261119001229_-21.25_-68.60",
+   "tiempo": "2026-11-19T00:12:29Z",
+   "lat": -21.249,
+   "lon": -68.598,
+   "prof": 158.0,
+   "lugar": "36 km al O de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 158.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393378.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 158.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261118234136_-30.38_-72.06",
    "tiempo": "2026-11-18T23:41:36Z",
@@ -8427,30 +8451,6 @@
      "mag": 2.6,
      "tipo": "m",
      "prof": 104.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261112002108_-21.06_-69.05",
-   "tiempo": "2026-11-12T00:21:08Z",
-   "lat": -21.064,
-   "lon": -69.049,
-   "prof": 111.0,
-   "lugar": "48 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 111.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392061.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 111.0,
      "url": null
     }
    }
