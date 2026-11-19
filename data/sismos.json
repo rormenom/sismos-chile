@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-19T15:05:19.906977Z",
+ "actualizado": "2026-11-19T15:10:23.044108Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 284
+   "n": 285
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 349
+   "n": 350
   }
  },
  "eventos": [
+  {
+   "id": "20261119145958_-22.11_-67.76",
+   "tiempo": "2026-11-19T14:59:58Z",
+   "lat": -22.112,
+   "lon": -67.758,
+   "prof": 210.0,
+   "lugar": "101 km al NE de San Pedro de Atacama",
+   "ref": "CSN",
+   "mag_max": 3.2,
+   "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 210.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393469.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 210.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261119141158_-20.59_-69.22",
    "tiempo": "2026-11-19T14:11:58Z",
