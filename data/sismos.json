@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T23:45:19.531654Z",
+ "actualizado": "2026-11-20T23:50:22.481850Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "GFZ": {
    "ok": true,
@@ -22,17 +22,17 @@
   {
    "id": "20261120233735_-31.77_-72.28",
    "tiempo": "2026-11-20T23:37:35Z",
-   "lat": -31.77,
+   "lat": -31.768,
    "lon": -72.28,
-   "prof": 28.0,
+   "prof": 37.0,
    "lugar": "74 km al O de Los Vilos",
    "ref": "CSN",
-   "mag_max": 4.5,
+   "mag_max": 4.6,
    "agencias": {
     "CSN": {
-     "mag": 4.5,
-     "tipo": "Mlv",
-     "prof": 28.0,
+     "mag": 4.6,
+     "tipo": "Mw",
+     "prof": 37.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393771.html"
     }
    }
@@ -52,6 +52,12 @@
      "tipo": "Mw",
      "prof": 118.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393763.html"
+    },
+    "USGS": {
+     "mag": 4.2,
+     "tipo": "mwr",
+     "prof": 114.345,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucey"
     },
     "EMSC": {
      "mag": 4.4,
