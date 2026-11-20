@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T12:35:41.601304Z",
+ "actualizado": "2026-11-20T12:40:26.138088Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 356
   }
  },
  "eventos": [
+  {
+   "id": "20261120123659_-36.18_-73.47",
+   "tiempo": "2026-11-20T12:36:59Z",
+   "lat": -36.18,
+   "lon": -73.47,
+   "prof": 10.5,
+   "lugar": "OFFSHORE BIO-BIO, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "ml",
+     "prof": 10.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120122933_-23.91_-67.54",
    "tiempo": "2026-11-20T12:29:33Z",
