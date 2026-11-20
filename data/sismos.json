@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T01:25:20.467392Z",
+ "actualizado": "2026-11-20T01:30:24.706161Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261120012206_-23.91_-68.11",
+   "tiempo": "2026-11-20T01:22:06Z",
+   "lat": -23.907,
+   "lon": -68.115,
+   "prof": 164.0,
+   "lugar": "42 km al SO de Socaire",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 164.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393562.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 163.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120011336_-27.75_-68.93",
    "tiempo": "2026-11-20T01:13:36Z",
@@ -8397,30 +8421,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 192.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113012641_-28.99_-71.64",
-   "tiempo": "2026-11-13T01:26:41Z",
-   "lat": -28.991,
-   "lon": -71.645,
-   "prof": 30.0,
-   "lugar": "34 km al NO de Punta de Choros",
-   "ref": "CSN",
-   "mag_max": 4.2,
-   "agencias": {
-    "CSN": {
-     "mag": 4.2,
-     "tipo": "Mlv",
-     "prof": 30.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392245.html"
-    },
-    "EMSC": {
-     "mag": 4.2,
-     "tipo": "ml",
-     "prof": 30.2,
      "url": null
     }
    }
