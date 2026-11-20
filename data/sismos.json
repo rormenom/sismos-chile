@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T11:10:21.594712Z",
+ "actualizado": "2026-11-20T11:15:28.104694Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,19 +20,19 @@
  },
  "eventos": [
   {
-   "id": "20261120110358_-23.40_-70.66",
+   "id": "20261120110358_-23.42_-70.60",
    "tiempo": "2026-11-20T11:03:58Z",
-   "lat": -23.397,
-   "lon": -70.663,
-   "prof": 18.0,
-   "lugar": "39 km al NO de Antofagasta",
+   "lat": -23.417,
+   "lon": -70.6,
+   "prof": 31.0,
+   "lugar": "33 km al NO de Antofagasta",
    "ref": "CSN",
-   "mag_max": 3.0,
+   "mag_max": 2.9,
    "agencias": {
     "CSN": {
-     "mag": 3.0,
+     "mag": 2.9,
      "tipo": "Mlv",
-     "prof": 18.0,
+     "prof": 31.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393644.html"
     },
     "EMSC": {
