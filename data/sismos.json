@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T13:50:30.421383Z",
+ "actualizado": "2026-11-20T13:55:24.339283Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 305
+   "n": 306
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 357
+   "n": 358
   }
  },
  "eventos": [
+  {
+   "id": "20261120134732_-21.32_-69.00",
+   "tiempo": "2026-11-20T13:47:32Z",
+   "lat": -21.317,
+   "lon": -68.997,
+   "prof": 81.0,
+   "lugar": "65 km al SO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 81.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393676.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 81.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120132133_-31.37_-68.51",
    "tiempo": "2026-11-20T13:21:33Z",
@@ -62,25 +86,25 @@
    }
   },
   {
-   "id": "20261120125019_-36.21_-73.52",
-   "tiempo": "2026-11-20T12:50:19Z",
-   "lat": -36.212,
-   "lon": -73.52,
-   "prof": 30.0,
-   "lugar": "66 km al O de Cobquecura",
+   "id": "20261120125020_-36.22_-73.44",
+   "tiempo": "2026-11-20T12:50:20Z",
+   "lat": -36.22,
+   "lon": -73.436,
+   "prof": 25.0,
+   "lugar": "58 km al O de Cobquecura",
    "ref": "CSN",
    "mag_max": 4.0,
    "agencias": {
     "CSN": {
      "mag": 4.0,
      "tipo": "Mlv",
-     "prof": 30.0,
+     "prof": 25.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393664.html"
     },
     "EMSC": {
      "mag": 4.0,
      "tipo": "ml",
-     "prof": 29.6,
+     "prof": 24.8,
      "url": null
     }
    }
