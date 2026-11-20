@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T03:00:28.649456Z",
+ "actualizado": "2026-11-20T03:05:22.307611Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 298
+   "n": 299
   },
   "USGS": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,42 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261120025718_-31.51_-69.14",
+   "tiempo": "2026-11-20T02:57:18.190000Z",
+   "lat": -31.511,
+   "lon": -69.143,
+   "prof": 96.1,
+   "lugar": "San Juan Province, Argentina",
+   "ref": "GFZ",
+   "mag_max": 4.69,
+   "agencias": {
+    "GFZ": {
+     "mag": 4.7,
+     "tipo": "mb",
+     "prof": 96.1,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261120025716_-31.43_-69.45",
+   "tiempo": "2026-11-20T02:57:16Z",
+   "lat": -31.433,
+   "lon": -69.448,
+   "prof": 162.0,
+   "lugar": "89 km al O de San Juan",
+   "ref": "CSN",
+   "mag_max": 4.8,
+   "agencias": {
+    "CSN": {
+     "mag": 4.8,
+     "tipo": "Mlv",
+     "prof": 162.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393573.html"
+    }
+   }
+  },
   {
    "id": "20261120024528_-20.36_-67.64",
    "tiempo": "2026-11-20T02:45:28Z",
