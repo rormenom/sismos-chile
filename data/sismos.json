@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T14:20:19.474941Z",
+ "actualizado": "2026-11-20T14:25:29.382232Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,30 +10,36 @@
    "n": 15
   },
   "GFZ": {
-   "ok": false,
-   "error": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "n": 14
   },
   "EMSC": {
    "ok": true,
-   "n": 357
+   "n": 358
   }
  },
  "eventos": [
   {
-   "id": "20261120141616_-31.79_-72.13",
+   "id": "20261120141616_-31.78_-72.12",
    "tiempo": "2026-11-20T14:16:16Z",
-   "lat": -31.785,
-   "lon": -72.128,
-   "prof": 24.0,
-   "lugar": "60 km al O de Los Vilos",
+   "lat": -31.78,
+   "lon": -72.121,
+   "prof": 28.0,
+   "lugar": "59 km al O de Los Vilos",
    "ref": "CSN",
-   "mag_max": 4.5,
+   "mag_max": 4.4,
    "agencias": {
     "CSN": {
-     "mag": 4.5,
-     "tipo": "Mlv",
-     "prof": 24.0,
+     "mag": 4.4,
+     "tipo": "Mw",
+     "prof": 28.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393679.html"
+    },
+    "EMSC": {
+     "mag": 4.4,
+     "tipo": "mw",
+     "prof": 28.1,
+     "url": null
     }
    }
   },
@@ -767,6 +773,12 @@
      "prof": 113.86,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s"
     },
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "Mw",
+     "prof": 106.7,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.8,
      "tipo": "mb",
@@ -1402,6 +1414,12 @@
      "tipo": "mww",
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
+    },
+    "GFZ": {
+     "mag": 5.1,
+     "tipo": "Mw",
+     "prof": 19.7,
+     "url": null
     },
     "EMSC": {
      "mag": 5.1,
@@ -2225,6 +2243,12 @@
      "prof": 129.419,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 146.6,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mb",
@@ -2764,6 +2788,12 @@
      "tipo": "Mlv",
      "prof": 64.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393253.html"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "ML",
+     "prof": 26.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
@@ -3500,6 +3530,24 @@
    }
   },
   {
+   "id": "20261117150020_-21.50_-67.28",
+   "tiempo": "2026-11-17T15:00:20.480000Z",
+   "lat": -21.503,
+   "lon": -67.279,
+   "prof": 265.3,
+   "lugar": "Chile-Bolivia Border Region",
+   "ref": "GFZ",
+   "mag_max": 3.88,
+   "agencias": {
+    "GFZ": {
+     "mag": 3.9,
+     "tipo": "ML",
+     "prof": 265.3,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261117150018_-21.45_-67.24",
    "tiempo": "2026-11-17T15:00:18Z",
    "lat": -21.447,
@@ -3514,6 +3562,12 @@
      "tipo": "Mlv",
      "prof": 278.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393107.html"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 260.4,
+     "url": null
     }
    }
   },
@@ -5458,6 +5512,12 @@
      "tipo": "Mlv",
      "prof": 280.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392773.html"
+    },
+    "GFZ": {
+     "mag": 4.1,
+     "tipo": "mb",
+     "prof": 267.0,
+     "url": null
     }
    }
   },
@@ -5661,7 +5721,7 @@
    "prof": 156.0,
    "lugar": "33 km al O de Visviri",
    "ref": "CSN",
-   "mag_max": 4.2,
+   "mag_max": 4.41,
    "agencias": {
     "CSN": {
      "mag": 4.0,
@@ -5674,6 +5734,12 @@
      "tipo": "mb",
      "prof": 170.709,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfr"
+    },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 160.9,
+     "url": null
     },
     "EMSC": {
      "mag": 4.2,
@@ -6033,7 +6099,7 @@
    "prof": 37.0,
    "lugar": "23 km al N de Patache",
    "ref": "CSN",
-   "mag_max": 4.4,
+   "mag_max": 4.49,
    "agencias": {
     "CSN": {
      "mag": 4.4,
@@ -6046,6 +6112,12 @@
      "tipo": "mwr",
      "prof": 27.161,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tye3"
+    },
+    "GFZ": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 22.5,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
@@ -6244,6 +6316,12 @@
      "tipo": "mwr",
      "prof": 19.435,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tydr"
+    },
+    "GFZ": {
+     "mag": 4.1,
+     "tipo": "Mw",
+     "prof": 13.3,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
@@ -6503,6 +6581,12 @@
      "prof": 151.745,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyc3"
     },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "ML",
+     "prof": 156.8,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.3,
      "tipo": "mb",
@@ -6556,6 +6640,12 @@
      "tipo": "mb",
      "prof": 108.94,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx"
+    },
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "mb",
+     "prof": 103.0,
+     "url": null
     },
     "EMSC": {
      "mag": 4.8,
@@ -7805,6 +7895,12 @@
      "prof": 216.092,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty6p"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 200.4,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.7,
      "tipo": "mb",
@@ -8157,7 +8253,7 @@
    "prof": 20.0,
    "lugar": "91 km al O de Lebu",
    "ref": "CSN",
-   "mag_max": 4.6,
+   "mag_max": 4.7,
    "agencias": {
     "CSN": {
      "mag": 4.6,
@@ -8170,6 +8266,12 @@
      "tipo": "mb",
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty59"
+    },
+    "GFZ": {
+     "mag": 4.7,
+     "tipo": "mb",
+     "prof": 10.0,
+     "url": null
     },
     "EMSC": {
      "mag": 4.6,
