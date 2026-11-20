@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T13:55:24.339283Z",
+ "actualizado": "2026-11-20T14:00:49.051272Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -110,25 +110,25 @@
    }
   },
   {
-   "id": "20261120123700_-36.21_-73.47",
+   "id": "20261120123700_-36.20_-73.43",
    "tiempo": "2026-11-20T12:37:00Z",
-   "lat": -36.209,
-   "lon": -73.467,
-   "prof": 30.0,
-   "lugar": "61 km al O de Cobquecura",
+   "lat": -36.2,
+   "lon": -73.432,
+   "prof": 19.0,
+   "lugar": "58 km al O de Cobquecura",
    "ref": "CSN",
    "mag_max": 3.8,
    "agencias": {
     "CSN": {
      "mag": 3.8,
      "tipo": "Mlv",
-     "prof": 30.0,
+     "prof": 19.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393661.html"
     },
     "EMSC": {
      "mag": 3.8,
      "tipo": "ml",
-     "prof": 30.2,
+     "prof": 19.2,
      "url": null
     }
    }
