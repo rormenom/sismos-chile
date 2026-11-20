@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T13:45:19.869502Z",
+ "actualizado": "2026-11-20T13:50:30.421383Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -279,7 +279,7 @@
    "prof": 217.0,
    "lugar": "99 km al SE de Ollagüe",
    "ref": "CSN",
-   "mag_max": 2.8,
+   "mag_max": 3.0,
    "agencias": {
     "CSN": {
      "mag": 2.8,
@@ -288,8 +288,8 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393642.html"
     },
     "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
+     "mag": 3.0,
+     "tipo": "m",
      "prof": 216.5,
      "url": null
     }
