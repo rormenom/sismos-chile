@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-20T14:50:29.580082Z",
+ "actualizado": "2026-11-20T14:55:22.720423Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 307
+   "n": 306
   },
   "USGS": {
    "ok": true,
-   "n": 15
+   "n": 16
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 358
   }
  },
  "eventos": [
@@ -75,7 +75,7 @@
    "prof": 33.0,
    "lugar": "61 km al O de Los Vilos",
    "ref": "CSN",
-   "mag_max": 4.8,
+   "mag_max": 4.7,
    "agencias": {
     "CSN": {
      "mag": 4.4,
@@ -83,9 +83,15 @@
      "prof": 33.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393679.html"
     },
+    "USGS": {
+     "mag": 4.7,
+     "tipo": "mb",
+     "prof": 10,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc9c"
+    },
     "EMSC": {
-     "mag": 4.8,
-     "tipo": "m",
+     "mag": 4.7,
+     "tipo": "mb",
      "prof": 33.0,
      "url": null
     }
@@ -8553,30 +8559,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 31.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113145251_-38.45_-72.94",
-   "tiempo": "2026-11-13T14:52:51Z",
-   "lat": -38.449,
-   "lon": -72.935,
-   "prof": 45.0,
-   "lugar": "44 km al NO de Temuco",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 45.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392331.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 45.5,
      "url": null
     }
    }
