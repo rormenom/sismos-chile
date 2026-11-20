@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T03:20:21.472359Z",
+ "actualizado": "2026-11-20T03:25:18.932782Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 14
+   "n": 15
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 354
+   "n": 355
   }
  },
  "eventos": [
@@ -27,7 +27,7 @@
    "prof": 140.0,
    "lugar": "89 km al O de San Juan",
    "ref": "CSN",
-   "mag_max": 4.78,
+   "mag_max": 4.8,
    "agencias": {
     "CSN": {
      "mag": 4.7,
@@ -35,10 +35,22 @@
      "prof": 140.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393573.html"
     },
+    "USGS": {
+     "mag": 4.8,
+     "tipo": "mb",
+     "prof": 113.86,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s"
+    },
     "GFZ": {
      "mag": 4.8,
      "tipo": "mb",
      "prof": 102.0,
+     "url": null
+    },
+    "EMSC": {
+     "mag": 4.8,
+     "tipo": "mb",
+     "prof": 113.9,
      "url": null
     }
    }
