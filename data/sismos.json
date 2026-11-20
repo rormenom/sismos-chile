@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T20:30:24.459462Z",
+ "actualizado": "2026-11-20T20:35:31.032187Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 314
+   "n": 312
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 366
+   "n": 364
   }
  },
  "eventos": [
@@ -8703,54 +8703,6 @@
      "mag": 3.5,
      "tipo": "m",
      "prof": 76.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113203359_-21.64_-70.17",
-   "tiempo": "2026-11-13T20:33:59Z",
-   "lat": -21.638,
-   "lon": -70.165,
-   "prof": 34.0,
-   "lugar": "51 km al N de Tocopilla",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 34.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392377.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 33.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113203349_-32.74_-71.67",
-   "tiempo": "2026-11-13T20:33:49Z",
-   "lat": -32.743,
-   "lon": -71.671,
-   "prof": 31.0,
-   "lugar": "14 km al O de Quintero",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 31.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392375.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 30.6,
      "url": null
     }
    }
