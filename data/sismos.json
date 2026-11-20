@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T22:30:23.740216Z",
+ "actualizado": "2026-11-20T22:35:16.609242Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 312
+   "n": 311
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261120223213_-21.19_-68.93",
+   "tiempo": "2026-11-20T22:32:13Z",
+   "lat": -21.19,
+   "lon": -68.93,
+   "prof": 116.8,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 4.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 4.4,
+     "tipo": "ml",
+     "prof": 116.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120184639_-23.17_-67.03",
    "tiempo": "2026-11-20T18:46:39Z",
@@ -8643,30 +8661,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 161.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113223438_-24.09_-67.45",
-   "tiempo": "2026-11-13T22:34:38Z",
-   "lat": -24.088,
-   "lon": -67.455,
-   "prof": 196.0,
-   "lugar": "71 km al SE de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 196.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392391.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 196.3,
      "url": null
     }
    }
