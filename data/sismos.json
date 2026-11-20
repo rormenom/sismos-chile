@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T03:25:18.932782Z",
+ "actualizado": "2026-11-20T03:30:22.013094Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 298
+   "n": 299
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,58 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 355
+   "n": 356
   }
  },
  "eventos": [
+  {
+   "id": "20261120030807_-24.04_-67.40",
+   "tiempo": "2026-11-20T03:08:07Z",
+   "lat": -24.037,
+   "lon": -67.4,
+   "prof": 215.0,
+   "lugar": "70 km al SE de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 215.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393578.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 215.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261120030134_-31.83_-72.01",
+   "tiempo": "2026-11-20T03:01:34Z",
+   "lat": -31.83,
+   "lon": -72.009,
+   "prof": 30.0,
+   "lugar": "48 km al O de Los Vilos",
+   "ref": "CSN",
+   "mag_max": 3.5,
+   "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 30.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393575.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 30.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120025717_-31.43_-69.45",
    "tiempo": "2026-11-20T02:57:17Z",
@@ -8415,30 +8463,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 103.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113032950_-19.28_-69.97",
-   "tiempo": "2026-11-13T03:29:50Z",
-   "lat": -19.282,
-   "lon": -69.97,
-   "prof": 29.0,
-   "lugar": "26 km al SE de Cuya",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 29.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392259.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 29.1,
      "url": null
     }
    }
