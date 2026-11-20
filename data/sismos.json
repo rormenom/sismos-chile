@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T04:20:20.873855Z",
+ "actualizado": "2026-11-20T04:25:22.075146Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261120041344_-21.60_-69.56",
+   "tiempo": "2026-11-20T04:13:44Z",
+   "lat": -21.6,
+   "lon": -69.564,
+   "prof": 24.0,
+   "lugar": "7 km al NO de Quillagua",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 24.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393586.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 24.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120034438_-21.91_-68.60",
    "tiempo": "2026-11-20T03:44:38Z",
@@ -8469,30 +8493,6 @@
      "mag": 2.8,
      "tipo": "m",
      "prof": 136.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261113042234_-25.67_-70.76",
-   "tiempo": "2026-11-13T04:22:34Z",
-   "lat": -25.668,
-   "lon": -70.757,
-   "prof": 31.0,
-   "lugar": "40 km al SO de Taltal",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 31.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392263.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 31.4,
      "url": null
     }
    }
