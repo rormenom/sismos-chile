@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T14:25:29.382232Z",
+ "actualizado": "2026-11-20T14:30:41.800228Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 306
+   "n": 307
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 358
+   "n": 359
   }
  },
  "eventos": [
+  {
+   "id": "20261120141851_-21.95_-68.81",
+   "tiempo": "2026-11-20T14:18:51Z",
+   "lat": -21.955,
+   "lon": -68.806,
+   "prof": 116.0,
+   "lugar": "59 km al N de Calama",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 116.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393681.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 115.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120141616_-31.78_-72.12",
    "tiempo": "2026-11-20T14:16:16Z",
@@ -27,7 +51,7 @@
    "prof": 28.0,
    "lugar": "59 km al O de Los Vilos",
    "ref": "CSN",
-   "mag_max": 4.4,
+   "mag_max": 4.8,
    "agencias": {
     "CSN": {
      "mag": 4.4,
@@ -36,8 +60,8 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393679.html"
     },
     "EMSC": {
-     "mag": 4.4,
-     "tipo": "mw",
+     "mag": 4.8,
+     "tipo": "m",
      "prof": 28.1,
      "url": null
     }
