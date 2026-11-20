@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T07:20:22.780509Z",
+ "actualizado": "2026-11-20T07:25:18.270170Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 299
+   "n": 302
   },
   "USGS": {
    "ok": true,
@@ -15,24 +15,78 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 353
+   "n": 355
   }
  },
  "eventos": [
   {
+   "id": "20261120071649_-33.05_-72.06",
+   "tiempo": "2026-11-20T07:16:49Z",
+   "lat": -33.052,
+   "lon": -72.065,
+   "prof": 24.0,
+   "lugar": "42 km al O de Valparaíso",
+   "ref": "CSN",
+   "mag_max": 3.2,
+   "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 24.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393622.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 24.0,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261120070948_-22.05_-67.82",
    "tiempo": "2026-11-20T07:09:48Z",
-   "lat": -22.05,
-   "lon": -67.82,
-   "prof": 237.3,
-   "lugar": "POTOSI, BOLIVIA",
-   "ref": "EMSC",
+   "lat": -22.054,
+   "lon": -67.824,
+   "prof": 237.0,
+   "lugar": "102 km al SE de Ollagüe",
+   "ref": "CSN",
    "mag_max": 2.5,
    "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 237.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393619.html"
+    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
      "prof": 237.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261120070409_-28.34_-69.23",
+   "tiempo": "2026-11-20T07:04:09Z",
+   "lat": -28.34,
+   "lon": -69.235,
+   "prof": 99.0,
+   "lugar": "131 km al E de Alto del Carmen",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 99.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393617.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 99.2,
      "url": null
     }
    }
