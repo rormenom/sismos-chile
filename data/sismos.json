@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-20T13:05:18.175171Z",
+ "actualizado": "2026-11-20T13:10:31.105418Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 304
+   "n": 305
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 356
+   "n": 357
   }
  },
  "eventos": [
+  {
+   "id": "20261120125741_-40.58_-72.08",
+   "tiempo": "2026-11-20T12:57:41Z",
+   "lat": -40.58,
+   "lon": -72.077,
+   "prof": 15.0,
+   "lugar": "46 km al E de Entre Lagos",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 15.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393666.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 15.1,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261120125019_-36.21_-73.52",
    "tiempo": "2026-11-20T12:50:19Z",
