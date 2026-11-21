@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T19:10:21.059463Z",
+ "actualizado": "2026-11-21T19:15:21.625467Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,24 +20,6 @@
  },
  "eventos": [
   {
-   "id": "20261121190304_-23.11_-67.04",
-   "tiempo": "2026-11-21T19:03:04Z",
-   "lat": -23.107,
-   "lon": -67.041,
-   "prof": 285.0,
-   "lugar": "102 km al NE de Socaire",
-   "ref": "CSN",
-   "mag_max": 5.2,
-   "agencias": {
-    "CSN": {
-     "mag": 5.2,
-     "tipo": "Mlv",
-     "prof": 285.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393908.html"
-    }
-   }
-  },
-  {
    "id": "20261121190304_-23.11_-66.60",
    "tiempo": "2026-11-21T19:03:04.170000Z",
    "lat": -23.105,
@@ -48,8 +30,8 @@
    "mag_max": 5.1,
    "agencias": {
     "GFZ": {
-     "mag": 5.0,
-     "tipo": "mb",
+     "mag": 4.9,
+     "tipo": "Mw",
      "prof": 214.4,
      "url": null
     },
@@ -58,6 +40,24 @@
      "tipo": "ml",
      "prof": 214.4,
      "url": null
+    }
+   }
+  },
+  {
+   "id": "20261121190303_-23.06_-67.03",
+   "tiempo": "2026-11-21T19:03:03Z",
+   "lat": -23.063,
+   "lon": -67.034,
+   "prof": 262.0,
+   "lugar": "105 km al NE de Socaire",
+   "ref": "CSN",
+   "mag_max": 5.2,
+   "agencias": {
+    "CSN": {
+     "mag": 5.2,
+     "tipo": "Mlv",
+     "prof": 262.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393908.html"
     }
    }
   },
