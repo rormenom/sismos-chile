@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T21:20:19.030597Z",
+ "actualizado": "2026-11-21T21:25:16.945382Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 296
+   "n": 295
   },
   "USGS": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 343
+   "n": 342
   }
  },
  "eventos": [
   {
-   "id": "20261121210930_-28.91_-71.38",
-   "tiempo": "2026-11-21T21:09:30Z",
-   "lat": -28.907,
-   "lon": -71.383,
-   "prof": 29.0,
-   "lugar": "39 km al N de Punta de Choros",
+   "id": "20261121210929_-28.92_-71.36",
+   "tiempo": "2026-11-21T21:09:29Z",
+   "lat": -28.917,
+   "lon": -71.358,
+   "prof": 42.0,
+   "lugar": "38 km al N de Punta de Choros",
    "ref": "CSN",
-   "mag_max": 2.9,
+   "mag_max": 2.8,
    "agencias": {
     "CSN": {
-     "mag": 2.9,
+     "mag": 2.8,
      "tipo": "Mlv",
-     "prof": 29.0,
+     "prof": 42.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393926.html"
     },
     "EMSC": {
-     "mag": 2.9,
+     "mag": 2.8,
      "tipo": "ml",
-     "prof": 29.0,
+     "prof": 42.3,
      "url": null
     }
    }
@@ -8241,30 +8241,6 @@
      "mag": 2.6,
      "tipo": "m",
      "prof": 76.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114212225_-21.20_-69.06",
-   "tiempo": "2026-11-14T21:22:25Z",
-   "lat": -21.197,
-   "lon": -69.057,
-   "prof": 90.0,
-   "lugar": "58 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 3.3,
-     "tipo": "Mlv",
-     "prof": 90.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392560.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 89.8,
      "url": null
     }
    }
