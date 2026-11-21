@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T11:20:19.590921Z",
+ "actualizado": "2026-11-21T11:25:18.833665Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -92,25 +92,25 @@
    }
   },
   {
-   "id": "20261121100006_-31.80_-72.05",
+   "id": "20261121100006_-31.77_-72.11",
    "tiempo": "2026-11-21T10:00:06Z",
-   "lat": -31.799,
-   "lon": -72.048,
-   "prof": 16.0,
-   "lugar": "52 km al O de Los Vilos",
+   "lat": -31.772,
+   "lon": -72.108,
+   "prof": 29.0,
+   "lugar": "58 km al O de Los Vilos",
    "ref": "CSN",
    "mag_max": 3.4,
    "agencias": {
     "CSN": {
      "mag": 3.4,
      "tipo": "Mlv",
-     "prof": 16.0,
+     "prof": 29.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393837.html"
     },
     "EMSC": {
      "mag": 3.4,
      "tipo": "ml",
-     "prof": 16.0,
+     "prof": 28.9,
      "url": null
     }
    }
