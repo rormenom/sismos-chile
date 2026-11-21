@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T23:35:21.342731Z",
+ "actualizado": "2026-11-21T23:40:22.839166Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 293
+   "n": 294
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 336
+   "n": 337
   }
  },
  "eventos": [
+  {
+   "id": "20261121233129_-21.37_-69.04",
+   "tiempo": "2026-11-21T23:31:29Z",
+   "lat": -21.372,
+   "lon": -69.036,
+   "prof": 94.0,
+   "lugar": "61 km al NE de Quillagua",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 94.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393940.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 93.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261121221307_-22.76_-68.71",
    "tiempo": "2026-11-21T22:13:07Z",
@@ -990,9 +1014,9 @@
      "url": null
     },
     "EMSC": {
-     "mag": 4.4,
+     "mag": 4.2,
      "tipo": "mw",
-     "prof": 117.7,
+     "prof": 109.8,
      "url": null
     }
    }
