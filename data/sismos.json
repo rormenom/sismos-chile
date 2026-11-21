@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T19:05:21.391147Z",
+ "actualizado": "2026-11-21T19:10:21.059463Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 292
+   "n": 293
   },
   "USGS": {
    "ok": true,
@@ -11,14 +11,56 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 13
+   "n": 16
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 341
   }
  },
  "eventos": [
+  {
+   "id": "20261121190304_-23.11_-67.04",
+   "tiempo": "2026-11-21T19:03:04Z",
+   "lat": -23.107,
+   "lon": -67.041,
+   "prof": 285.0,
+   "lugar": "102 km al NE de Socaire",
+   "ref": "CSN",
+   "mag_max": 5.2,
+   "agencias": {
+    "CSN": {
+     "mag": 5.2,
+     "tipo": "Mlv",
+     "prof": 285.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393908.html"
+    }
+   }
+  },
+  {
+   "id": "20261121190304_-23.11_-66.60",
+   "tiempo": "2026-11-21T19:03:04.170000Z",
+   "lat": -23.105,
+   "lon": -66.6,
+   "prof": 214.4,
+   "lugar": "Jujuy Province, Argentina",
+   "ref": "GFZ",
+   "mag_max": 5.1,
+   "agencias": {
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "mb",
+     "prof": 214.4,
+     "url": null
+    },
+    "EMSC": {
+     "mag": 5.1,
+     "tipo": "ml",
+     "prof": 214.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261121180451_-23.32_-67.20",
    "tiempo": "2026-11-21T18:04:51Z",
@@ -648,15 +690,15 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8"
     },
     "GFZ": {
-     "mag": 5.0,
-     "tipo": "mb",
-     "prof": 98.9,
+     "mag": 4.7,
+     "tipo": "Mw",
+     "prof": 122.0,
      "url": null
     },
     "EMSC": {
      "mag": 4.7,
      "tipo": "mw",
-     "prof": 120.0,
+     "prof": 122.0,
      "url": null
     }
    }
@@ -725,6 +767,12 @@
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfa"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "ML",
+     "prof": 10.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.4,
      "tipo": "mw",
@@ -754,6 +802,12 @@
      "tipo": "mwr",
      "prof": 114.345,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucey"
+    },
+    "GFZ": {
+     "mag": 4.2,
+     "tipo": "Mw",
+     "prof": 110.6,
+     "url": null
     },
     "EMSC": {
      "mag": 4.4,
