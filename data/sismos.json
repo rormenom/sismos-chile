@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T23:45:18.072194Z",
+ "actualizado": "2026-11-21T23:50:20.136782Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -255,7 +255,7 @@
    "prof": 209.784,
    "lugar": "88 km WNW of El Aguilar, Argentina",
    "ref": "USGS",
-   "mag_max": 4.99,
+   "mag_max": 5.0,
    "agencias": {
     "USGS": {
      "mag": 4.9,
@@ -270,9 +270,9 @@
      "url": null
     },
     "EMSC": {
-     "mag": 4.9,
-     "tipo": "mb",
-     "prof": 209.8,
+     "mag": 5.0,
+     "tipo": "mw",
+     "prof": 223.0,
      "url": null
     }
    }
@@ -344,7 +344,7 @@
     "EMSC": {
      "mag": 3.9,
      "tipo": "ml",
-     "prof": 128.1,
+     "prof": 132.2,
      "url": null
     }
    }
@@ -390,9 +390,9 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucmv"
     },
     "EMSC": {
-     "mag": 4.1,
-     "tipo": "ml",
-     "prof": 106.0,
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 98.0,
      "url": null
     }
    }
