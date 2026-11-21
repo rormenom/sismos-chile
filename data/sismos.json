@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T01:25:22.568062Z",
+ "actualizado": "2026-11-21T01:30:29.052891Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 358
+   "n": 357
   }
  },
  "eventos": [
+  {
+   "id": "20261121012409_-22.25_-68.67",
+   "tiempo": "2026-11-21T01:24:09Z",
+   "lat": -22.246,
+   "lon": -68.665,
+   "prof": 105.0,
+   "lugar": "37 km al NE de Calama",
+   "ref": "CSN",
+   "mag_max": 5.0,
+   "agencias": {
+    "CSN": {
+     "mag": 5.0,
+     "tipo": "Mlv",
+     "prof": 105.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393779.html"
+    }
+   }
+  },
   {
    "id": "20261121002317_-20.51_-69.13",
    "tiempo": "2026-11-21T00:23:17Z",
@@ -8547,30 +8565,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 111.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114012630_-21.41_-67.42",
-   "tiempo": "2026-11-14T01:26:30Z",
-   "lat": -21.407,
-   "lon": -67.419,
-   "prof": 266.0,
-   "lugar": "89 km al E de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 266.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392405.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "m",
-     "prof": 266.3,
      "url": null
     }
    }
