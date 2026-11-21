@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T10:05:20.398875Z",
+ "actualizado": "2026-11-21T10:10:22.816438Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 295
+   "n": 296
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261121100006_-31.78_-72.08",
+   "id": "20261121100006_-31.80_-72.05",
    "tiempo": "2026-11-21T10:00:06Z",
-   "lat": -31.78,
-   "lon": -72.08,
-   "prof": 36.8,
-   "lugar": "OFFSHORE COQUIMBO, CHILE",
-   "ref": "EMSC",
-   "mag_max": 3.6,
+   "lat": -31.799,
+   "lon": -72.048,
+   "prof": 16.0,
+   "lugar": "52 km al O de Los Vilos",
+   "ref": "CSN",
+   "mag_max": 3.4,
    "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 16.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393837.html"
+    },
     "EMSC": {
-     "mag": 3.6,
+     "mag": 3.4,
      "tipo": "ml",
-     "prof": 36.8,
+     "prof": 16.0,
      "url": null
     }
    }
