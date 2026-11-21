@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T21:30:23.152469Z",
+ "actualizado": "2026-11-21T21:35:22.154283Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 341
   }
  },
  "eventos": [
@@ -44,25 +44,25 @@
    }
   },
   {
-   "id": "20261121204838_-22.04_-68.83",
+   "id": "20261121204838_-22.02_-68.86",
    "tiempo": "2026-11-21T20:48:38Z",
-   "lat": -22.04,
-   "lon": -68.832,
-   "prof": 120.0,
-   "lugar": "49 km al N de Calama",
+   "lat": -22.018,
+   "lon": -68.857,
+   "prof": 121.0,
+   "lugar": "51 km al N de Calama",
    "ref": "CSN",
-   "mag_max": 2.5,
+   "mag_max": 2.7,
    "agencias": {
     "CSN": {
-     "mag": 2.5,
+     "mag": 2.7,
      "tipo": "Mlv",
-     "prof": 120.0,
+     "prof": 121.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393923.html"
     },
     "EMSC": {
-     "mag": 2.5,
+     "mag": 2.7,
      "tipo": "ml",
-     "prof": 120.0,
+     "prof": 121.0,
      "url": null
     }
    }
@@ -8223,24 +8223,6 @@
      "mag": 2.8,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114213019_-31.48_-68.65",
-   "tiempo": "2026-11-14T21:30:19Z",
-   "lat": -31.48,
-   "lon": -68.65,
-   "prof": 76.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 76.0,
      "url": null
     }
    }
