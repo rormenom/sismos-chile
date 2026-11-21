@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T00:35:18.699520Z",
+ "actualizado": "2026-11-21T00:40:20.823250Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 308
+   "n": 307
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 359
+   "n": 358
   }
  },
  "eventos": [
@@ -8571,30 +8571,6 @@
      "mag": 3.2,
      "tipo": "m",
      "prof": 266.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114003950_-40.43_-71.53",
-   "tiempo": "2026-11-14T00:39:50Z",
-   "lat": -40.433,
-   "lon": -71.525,
-   "prof": 171.0,
-   "lugar": "34 km al SO de San Martín de Los Andes",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 171.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392403.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 171.5,
      "url": null
     }
    }
