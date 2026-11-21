@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T06:55:19.186045Z",
+ "actualizado": "2026-11-21T07:00:26.993604Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 298
+   "n": 297
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 347
+   "n": 346
   }
  },
  "eventos": [
@@ -8283,30 +8283,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 177.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114065813_-32.67_-70.00",
-   "tiempo": "2026-11-14T06:58:13Z",
-   "lat": -32.674,
-   "lon": -70.005,
-   "prof": 110.0,
-   "lugar": "58 km al E de Los Andes",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 110.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392461.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 109.6,
      "url": null
     }
    }
