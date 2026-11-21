@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T20:35:16.328943Z",
+ "actualizado": "2026-11-21T20:40:25.601098Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 19
+   "n": 20
   },
   "GFZ": {
    "ok": true,
@@ -196,6 +196,12 @@
      "tipo": "Mlv",
      "prof": 106.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393883.html"
+    },
+    "USGS": {
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 101.751,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucmv"
     },
     "EMSC": {
      "mag": 4.1,
