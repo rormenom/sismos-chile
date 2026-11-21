@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T17:35:16.876693Z",
+ "actualizado": "2026-11-21T17:40:23.742145Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 292
+   "n": 291
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 340
+   "n": 338
   }
  },
  "eventos": [
@@ -8097,48 +8097,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 115.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114173838_-18.18_-69.56",
-   "tiempo": "2026-11-14T17:38:38Z",
-   "lat": -18.176,
-   "lon": -69.561,
-   "prof": 118.0,
-   "lugar": "2 km al N de Putre",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 118.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392530.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 117.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114173808_-28.76_-67.24",
-   "tiempo": "2026-11-14T17:38:08Z",
-   "lat": -28.76,
-   "lon": -67.24,
-   "prof": 136.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.6,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "m",
-     "prof": 136.0,
      "url": null
     }
    }
