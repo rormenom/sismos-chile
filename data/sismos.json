@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T14:30:32.043146Z",
+ "actualizado": "2026-11-21T14:35:20.707135Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,24 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 342
+   "n": 341
   }
  },
  "eventos": [
   {
-   "id": "20261121142541_-24.03_-67.06",
-   "tiempo": "2026-11-21T14:25:41Z",
+   "id": "20261121142542_-24.03_-67.08",
+   "tiempo": "2026-11-21T14:25:42Z",
    "lat": -24.03,
-   "lon": -67.06,
-   "prof": 210.4,
-   "lugar": "SALTA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.3,
+   "lon": -67.081,
+   "prof": 205.0,
+   "lugar": "80 km al O de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 3.1,
    "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 205.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393872.html"
+    },
     "EMSC": {
-     "mag": 3.3,
+     "mag": 3.1,
      "tipo": "ml",
-     "prof": 210.4,
+     "prof": 204.9,
      "url": null
     }
    }
@@ -8169,30 +8175,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 20.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114143507_-21.17_-68.58",
-   "tiempo": "2026-11-14T14:35:07Z",
-   "lat": -21.17,
-   "lon": -68.583,
-   "prof": 129.0,
-   "lugar": "35 km al O de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 129.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392507.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 129.3,
      "url": null
     }
    }
