@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T19:20:24.598487Z",
+ "actualizado": "2026-11-21T19:25:19.248012Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 17
+   "n": 18
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 341
+   "n": 340
   }
  },
  "eventos": [
@@ -27,36 +27,42 @@
    "prof": 251.0,
    "lugar": "119 km al NE de Socaire",
    "ref": "CSN",
-   "mag_max": 5.2,
+   "mag_max": 4.9,
    "agencias": {
     "CSN": {
-     "mag": 5.2,
-     "tipo": "Mlv",
-     "prof": 251.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393908.html"
-    },
-    "GFZ": {
      "mag": 4.9,
      "tipo": "Mw",
-     "prof": 206.9,
-     "url": null
+     "prof": 251.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393908.html"
     }
    }
   },
   {
-   "id": "20261121190304_-23.10_-66.55",
-   "tiempo": "2026-11-21T19:03:04.880000Z",
-   "lat": -23.099,
-   "lon": -66.553,
-   "prof": 223.0,
-   "lugar": "JUJUY, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 4.9,
+   "id": "20261121190304_-23.03_-66.52",
+   "tiempo": "2026-11-21T19:03:04.170000Z",
+   "lat": -23.029,
+   "lon": -66.519,
+   "prof": 209.784,
+   "lugar": "88 km WNW of El Aguilar, Argentina",
+   "ref": "USGS",
+   "mag_max": 4.99,
    "agencias": {
+    "USGS": {
+     "mag": 4.9,
+     "tipo": "mb",
+     "prof": 209.784,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni"
+    },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "Mw",
+     "prof": 206.9,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.9,
-     "tipo": "ml",
-     "prof": 223.0,
+     "tipo": "mb",
+     "prof": 209.8,
      "url": null
     }
    }
@@ -8175,24 +8181,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 239.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114192223_-31.33_-68.57",
-   "tiempo": "2026-11-14T19:22:23Z",
-   "lat": -31.33,
-   "lon": -68.57,
-   "prof": 93.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 93.0,
      "url": null
     }
    }
