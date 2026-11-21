@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-21T06:35:15.695631Z",
+ "actualizado": "2026-11-21T06:40:20.746608Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 299
+   "n": 298
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 348
+   "n": 347
   }
  },
  "eventos": [
+  {
+   "id": "20261121062908_-20.98_-70.38",
+   "tiempo": "2026-11-21T06:29:08Z",
+   "lat": -20.985,
+   "lon": -70.379,
+   "prof": 63.0,
+   "lugar": "27 km al SO de Patache",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 63.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393817.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 62.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261121043105_-23.75_-67.37",
    "tiempo": "2026-11-21T04:31:05Z",
@@ -8283,54 +8307,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 109.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114063938_-22.23_-68.81",
-   "tiempo": "2026-11-14T06:39:38Z",
-   "lat": -22.232,
-   "lon": -68.813,
-   "prof": 112.0,
-   "lugar": "29 km al NE de Calama",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 112.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392458.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 111.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261114063656_-22.47_-67.90",
-   "tiempo": "2026-11-14T06:36:56Z",
-   "lat": -22.472,
-   "lon": -67.903,
-   "prof": 159.0,
-   "lugar": "58 km al NE de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 159.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392457.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 159.3,
      "url": null
     }
    }
