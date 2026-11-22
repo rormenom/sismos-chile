@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T10:40:19.998193Z",
+ "actualizado": "2026-11-22T10:45:21.983306Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,24 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 330
   }
  },
  "eventos": [
   {
-   "id": "20261122103541_-38.62_-73.28",
+   "id": "20261122103541_-38.60_-73.33",
    "tiempo": "2026-11-22T10:35:41Z",
-   "lat": -38.62,
-   "lon": -73.28,
-   "prof": 26.7,
-   "lugar": "ARAUCANIA, CHILE",
-   "ref": "EMSC",
-   "mag_max": 3.6,
+   "lat": -38.604,
+   "lon": -73.325,
+   "prof": 28.0,
+   "lugar": "33 km al SE de Tirúa",
+   "ref": "CSN",
+   "mag_max": 3.5,
    "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 28.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393997.html"
+    },
     "EMSC": {
-     "mag": 3.6,
+     "mag": 3.5,
      "tipo": "ml",
-     "prof": 26.7,
+     "prof": 27.5,
      "url": null
     }
    }
@@ -7923,30 +7929,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 20.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115104126_-33.05_-72.11",
-   "tiempo": "2026-11-15T10:41:26Z",
-   "lat": -33.052,
-   "lon": -72.114,
-   "prof": 22.0,
-   "lugar": "47 km al O de Valparaíso",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 22.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392663.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 22.2,
      "url": null
     }
    }
