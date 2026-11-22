@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T15:15:23.178334Z",
+ "actualizado": "2026-11-22T15:20:21.293522Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 286
+   "n": 287
   },
   "USGS": {
    "ok": true,
@@ -20,15 +20,21 @@
  },
  "eventos": [
   {
-   "id": "20261122150237_-31.03_-70.94",
+   "id": "20261122150237_-31.04_-70.94",
    "tiempo": "2026-11-22T15:02:37Z",
-   "lat": -31.03,
-   "lon": -70.94,
-   "prof": 73.2,
-   "lugar": "COQUIMBO, CHILE",
-   "ref": "EMSC",
+   "lat": -31.035,
+   "lon": -70.939,
+   "prof": 73.0,
+   "lugar": "17 km al NE de Combarbalá",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 73.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394028.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
