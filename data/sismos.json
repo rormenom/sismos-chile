@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T09:10:25.660769Z",
+ "actualizado": "2026-11-22T09:15:28.484386Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 335
   }
  },
  "eventos": [
+  {
+   "id": "20261122090840_-33.07_-68.99",
+   "tiempo": "2026-11-22T09:08:40Z",
+   "lat": -33.07,
+   "lon": -68.99,
+   "prof": 10.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261122085154_-32.14_-71.40",
    "tiempo": "2026-11-22T08:51:54Z",
