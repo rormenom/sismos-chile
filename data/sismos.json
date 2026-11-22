@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T15:10:20.696616Z",
+ "actualizado": "2026-11-22T15:15:23.178334Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 330
+   "n": 332
   }
  },
  "eventos": [
+  {
+   "id": "20261122150237_-31.03_-70.94",
+   "tiempo": "2026-11-22T15:02:37Z",
+   "lat": -31.03,
+   "lon": -70.94,
+   "prof": 73.2,
+   "lugar": "COQUIMBO, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 73.2,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261122150232_-23.62_-66.77",
+   "tiempo": "2026-11-22T15:02:32Z",
+   "lat": -23.622,
+   "lon": -66.772,
+   "prof": 217.0,
+   "lugar": "81 km al NO de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 217.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394027.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 217.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261122150022_-21.00_-68.67",
    "tiempo": "2026-11-22T15:00:22Z",
