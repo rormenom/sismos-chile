@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T15:25:17.606250Z",
+ "actualizado": "2026-11-22T15:30:25.034382Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261122151946_-31.80_-72.11",
+   "tiempo": "2026-11-22T15:19:46Z",
+   "lat": -31.797,
+   "lon": -72.107,
+   "prof": 25.0,
+   "lugar": "58 km al O de Los Vilos",
+   "ref": "CSN",
+   "mag_max": 3.5,
+   "agencias": {
+    "CSN": {
+     "mag": 3.5,
+     "tipo": "Mlv",
+     "prof": 25.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394030.html"
+    },
+    "EMSC": {
+     "mag": 3.5,
+     "tipo": "ml",
+     "prof": 24.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261122150237_-31.04_-70.94",
    "tiempo": "2026-11-22T15:02:37Z",
@@ -7917,30 +7941,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 20.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115152904_-32.10_-70.75",
-   "tiempo": "2026-11-15T15:29:04Z",
-   "lat": -32.102,
-   "lon": -70.754,
-   "prof": 55.0,
-   "lugar": "24 km al NE de Petorca",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 55.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392702.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 54.7,
      "url": null
     }
    }
