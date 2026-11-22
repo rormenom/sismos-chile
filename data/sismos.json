@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T01:45:22.001971Z",
+ "actualizado": "2026-11-22T01:50:24.909713Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 294
+   "n": 293
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 336
+   "n": 335
   }
  },
  "eventos": [
@@ -8103,30 +8103,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 104.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115014753_-32.12_-71.17",
-   "tiempo": "2026-11-15T01:47:53Z",
-   "lat": -32.118,
-   "lon": -71.168,
-   "prof": 81.0,
-   "lugar": "27 km al NO de Petorca",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 81.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392587.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 81.0,
      "url": null
     }
    }
