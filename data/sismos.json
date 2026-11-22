@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T10:45:21.983306Z",
+ "actualizado": "2026-11-22T10:50:20.316234Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 285
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 330
+   "n": 328
   }
  },
  "eventos": [
@@ -7881,54 +7881,6 @@
      "mag": 3.5,
      "tipo": "ml",
      "prof": 20.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115104936_-32.28_-70.38",
-   "tiempo": "2026-11-15T10:49:36Z",
-   "lat": -32.278,
-   "lon": -70.384,
-   "prof": 98.0,
-   "lugar": "51 km al E de Petorca",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 98.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392666.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 97.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115104554_-33.05_-72.10",
-   "tiempo": "2026-11-15T10:45:54Z",
-   "lat": -33.051,
-   "lon": -72.102,
-   "prof": 20.0,
-   "lugar": "45 km al O de Valparaíso",
-   "ref": "CSN",
-   "mag_max": 2.9,
-   "agencias": {
-    "CSN": {
-     "mag": 2.9,
-     "tipo": "Mlv",
-     "prof": 20.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392664.html"
-    },
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "ml",
-     "prof": 20.2,
      "url": null
     }
    }
