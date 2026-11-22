@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T10:35:17.082355Z",
+ "actualizado": "2026-11-22T10:40:19.998193Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 330
+   "n": 331
   }
  },
  "eventos": [
+  {
+   "id": "20261122103541_-38.62_-73.28",
+   "tiempo": "2026-11-22T10:35:41Z",
+   "lat": -38.62,
+   "lon": -73.28,
+   "prof": 26.7,
+   "lugar": "ARAUCANIA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 26.7,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261122090840_-33.07_-68.99",
    "tiempo": "2026-11-22T09:08:40Z",
