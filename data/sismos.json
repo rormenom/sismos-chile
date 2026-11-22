@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-22T04:20:25.520087Z",
+ "actualizado": "2026-11-22T04:25:20.145008Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 293
+   "n": 292
   },
   "USGS": {
    "ok": true,
-   "n": 18
+   "n": 17
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 335
+   "n": 334
   }
  },
  "eventos": [
@@ -8055,36 +8055,6 @@
      "mag": 4.3,
      "tipo": "mb",
      "prof": 126.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115042346_-23.40_-66.89",
-   "tiempo": "2026-11-15T04:23:46Z",
-   "lat": -23.399,
-   "lon": -66.89,
-   "prof": 240.0,
-   "lugar": "104 km al E de Socaire",
-   "ref": "CSN",
-   "mag_max": 4.4,
-   "agencias": {
-    "CSN": {
-     "mag": 4.1,
-     "tipo": "Mlv",
-     "prof": 240.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392610.html"
-    },
-    "USGS": {
-     "mag": 4.4,
-     "tipo": "mb",
-     "prof": 254.527,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyc0"
-    },
-    "EMSC": {
-     "mag": 4.4,
-     "tipo": "mb",
-     "prof": 207.0,
      "url": null
     }
    }
