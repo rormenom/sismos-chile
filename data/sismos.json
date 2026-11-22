@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T07:15:25.497689Z",
+ "actualizado": "2026-11-22T07:20:20.252864Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 290
+   "n": 291
   },
   "USGS": {
    "ok": true,
@@ -15,30 +15,78 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 333
+   "n": 334
   }
  },
  "eventos": [
   {
-   "id": "20261122070829_-32.20_-71.77",
-   "tiempo": "2026-11-22T07:08:29Z",
+   "id": "20261122071223_-20.69_-68.90",
+   "tiempo": "2026-11-22T07:12:23Z",
+   "lat": -20.693,
+   "lon": -68.904,
+   "prof": 84.0,
+   "lugar": "30 km al NO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 84.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393984.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 83.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261122070828_-32.20_-71.78",
+   "tiempo": "2026-11-22T07:08:28Z",
    "lat": -32.2,
-   "lon": -71.77,
-   "prof": 25.0,
-   "lugar": "24 km al O de Pichidangui",
+   "lon": -71.78,
+   "prof": 29.0,
+   "lugar": "25 km al O de Pichidangui",
    "ref": "CSN",
    "mag_max": 4.2,
    "agencias": {
     "CSN": {
-     "mag": 4.0,
+     "mag": 4.2,
      "tipo": "Mlv",
-     "prof": 25.0,
+     "prof": 29.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393983.html"
     },
     "EMSC": {
      "mag": 4.2,
      "tipo": "ml",
      "prof": 28.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261122070621_-20.86_-69.19",
+   "tiempo": "2026-11-22T07:06:21Z",
+   "lat": -20.861,
+   "lon": -69.186,
+   "prof": 111.0,
+   "lugar": "44 km al S de Pica",
+   "ref": "CSN",
+   "mag_max": 2.6,
+   "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 111.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393981.html"
+    },
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "ml",
+     "prof": 111.1,
      "url": null
     }
    }
@@ -7989,30 +8037,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 240.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115072010_-23.81_-67.32",
-   "tiempo": "2026-11-15T07:20:10Z",
-   "lat": -23.811,
-   "lon": -67.32,
-   "prof": 252.0,
-   "lugar": "63 km al E de Socaire",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 252.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392638.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 251.7,
      "url": null
     }
    }
