@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T03:55:19.703327Z",
+ "actualizado": "2026-11-22T04:00:28.102033Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,15 +7,15 @@
   },
   "USGS": {
    "ok": true,
-   "n": 19
+   "n": 18
   },
   "GFZ": {
    "ok": true,
-   "n": 16
+   "n": 15
   },
   "EMSC": {
    "ok": true,
-   "n": 335
+   "n": 334
   }
  },
  "eventos": [
@@ -8061,36 +8061,6 @@
      "mag": 4.4,
      "tipo": "mb",
      "prof": 207.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115035959_-31.32_-68.68",
-   "tiempo": "2026-11-15T03:59:59.682000Z",
-   "lat": -31.322,
-   "lon": -68.682,
-   "prof": 108.94,
-   "lugar": "19 km NW of Albardón, Argentina",
-   "ref": "USGS",
-   "mag_max": 4.8,
-   "agencias": {
-    "USGS": {
-     "mag": 4.8,
-     "tipo": "mb",
-     "prof": 108.94,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tybx"
-    },
-    "GFZ": {
-     "mag": 4.8,
-     "tipo": "mb",
-     "prof": 103.0,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.8,
-     "tipo": "mb",
-     "prof": 108.0,
      "url": null
     }
    }
