@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T07:25:16.834303Z",
+ "actualizado": "2026-11-22T07:30:31.851860Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -20,49 +20,49 @@
  },
  "eventos": [
   {
-   "id": "20261122071223_-20.69_-68.90",
-   "tiempo": "2026-11-22T07:12:23Z",
-   "lat": -20.693,
-   "lon": -68.904,
-   "prof": 84.0,
-   "lugar": "30 km al NO de Mina Collahuasi",
+   "id": "20261122071222_-20.71_-68.82",
+   "tiempo": "2026-11-22T07:12:22Z",
+   "lat": -20.711,
+   "lon": -68.822,
+   "prof": 86.0,
+   "lugar": "21 km al NO de Mina Collahuasi",
    "ref": "CSN",
-   "mag_max": 2.5,
+   "mag_max": 2.7,
    "agencias": {
     "CSN": {
-     "mag": 2.5,
+     "mag": 2.7,
      "tipo": "Mlv",
-     "prof": 84.0,
+     "prof": 86.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393984.html"
     },
     "EMSC": {
-     "mag": 2.5,
+     "mag": 2.7,
      "tipo": "ml",
-     "prof": 83.5,
+     "prof": 86.0,
      "url": null
     }
    }
   },
   {
-   "id": "20261122070828_-32.20_-71.78",
+   "id": "20261122070828_-32.20_-71.76",
    "tiempo": "2026-11-22T07:08:28Z",
-   "lat": -32.2,
-   "lon": -71.78,
-   "prof": 29.0,
-   "lugar": "25 km al O de Pichidangui",
+   "lat": -32.204,
+   "lon": -71.763,
+   "prof": 30.0,
+   "lugar": "23 km al O de Pichidangui",
    "ref": "CSN",
    "mag_max": 4.2,
    "agencias": {
     "CSN": {
      "mag": 4.2,
      "tipo": "Mlv",
-     "prof": 29.0,
+     "prof": 30.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393983.html"
     },
     "EMSC": {
      "mag": 4.2,
      "tipo": "ml",
-     "prof": 28.5,
+     "prof": 29.8,
      "url": null
     }
    }
