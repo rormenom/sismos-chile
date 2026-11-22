@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T12:40:21.116787Z",
+ "actualizado": "2026-11-22T12:45:20.893146Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 284
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261122123236_-32.51_-71.82",
    "tiempo": "2026-11-22T12:32:36Z",
-   "lat": -32.51,
-   "lon": -71.82,
-   "prof": 27.8,
-   "lugar": "OFFSHORE VALPARAISO, CHILE",
-   "ref": "EMSC",
+   "lat": -32.513,
+   "lon": -71.819,
+   "prof": 28.0,
+   "lugar": "40 km al NO de Quintero",
+   "ref": "CSN",
    "mag_max": 3.4,
    "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 28.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394015.html"
+    },
     "EMSC": {
      "mag": 3.4,
      "tipo": "ml",
