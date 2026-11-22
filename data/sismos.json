@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T11:15:20.234350Z",
+ "actualizado": "2026-11-22T11:20:20.353716Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 283
+   "n": 282
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 327
+   "n": 326
   }
  },
  "eventos": [
@@ -7827,30 +7827,6 @@
      "mag": 4.1,
      "tipo": "mw",
      "prof": 30.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115111731_-33.07_-72.12",
-   "tiempo": "2026-11-15T11:17:31Z",
-   "lat": -33.066,
-   "lon": -72.117,
-   "prof": 22.0,
-   "lugar": "47 km al O de Valparaíso",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 22.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392673.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 21.7,
      "url": null
     }
    }
