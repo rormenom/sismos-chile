@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T22:25:18.859764Z",
+ "actualizado": "2026-11-22T22:30:25.290054Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 13
+   "n": 14
   },
   "GFZ": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 332
   }
  },
  "eventos": [
@@ -34,6 +34,18 @@
      "tipo": "Mw",
      "prof": 118.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394080.html"
+    },
+    "USGS": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 123.268,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucuj"
+    },
+    "EMSC": {
+     "mag": 4.5,
+     "tipo": "mb",
+     "prof": 123.3,
+     "url": null
     }
    }
   },
