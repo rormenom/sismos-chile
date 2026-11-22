@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T02:10:23.093957Z",
+ "actualizado": "2026-11-22T02:15:19.927721Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 293
+   "n": 292
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 335
+   "n": 334
   }
  },
  "eventos": [
@@ -8079,30 +8079,6 @@
      "mag": 4.3,
      "tipo": "mb",
      "prof": 129.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115021125_-35.45_-71.11",
-   "tiempo": "2026-11-15T02:11:25Z",
-   "lat": -35.451,
-   "lon": -71.115,
-   "prof": 105.0,
-   "lugar": "50 km al E de Talca",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 105.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392589.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 104.7,
      "url": null
     }
    }
