@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T23:40:29.487941Z",
+ "actualizado": "2026-11-22T23:45:22.173829Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 333
   }
  },
  "eventos": [
+  {
+   "id": "20261122233936_-21.18_-69.02",
+   "tiempo": "2026-11-22T23:39:36Z",
+   "lat": -21.183,
+   "lon": -69.022,
+   "prof": 114.0,
+   "lugar": "55 km al SO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 114.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394093.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 113.8,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261122233743_-34.83_-66.22",
+   "tiempo": "2026-11-22T23:37:43Z",
+   "lat": -34.83,
+   "lon": -66.22,
+   "prof": 114.0,
+   "lugar": "SAN LUIS, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 4.3,
+   "agencias": {
+    "EMSC": {
+     "mag": 4.3,
+     "tipo": "m",
+     "prof": 114.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261122230321_-26.17_-69.05",
    "tiempo": "2026-11-22T23:03:21Z",
