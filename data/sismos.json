@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-22T15:45:30.056402Z",
+ "actualizado": "2026-11-22T15:50:23.835448Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 286
+   "n": 285
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 330
   }
  },
  "eventos": [
@@ -7893,30 +7893,6 @@
      "mag": 3.4,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115154812_-29.33_-69.56",
-   "tiempo": "2026-11-15T15:48:12Z",
-   "lat": -29.333,
-   "lon": -69.561,
-   "prof": 124.0,
-   "lugar": "110 km al SE de Alto del Carmen",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 124.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392707.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "m",
-     "prof": 124.1,
      "url": null
     }
    }
