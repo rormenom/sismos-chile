@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T11:20:20.353716Z",
+ "actualizado": "2026-11-22T11:25:18.520251Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,11 +7,11 @@
   },
   "USGS": {
    "ok": true,
-   "n": 15
+   "n": 14
   },
   "GFZ": {
    "ok": true,
-   "n": 13
+   "n": 12
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261122111746_-20.91_-68.99",
+   "tiempo": "2026-11-22T11:17:46Z",
+   "lat": -20.91,
+   "lon": -68.994,
+   "prof": 108.0,
+   "lugar": "36 km al O de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 3.0,
+   "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 108.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394004.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 108.3,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261122104236_-27.97_-66.79",
    "tiempo": "2026-11-22T10:42:36Z",
@@ -7791,42 +7815,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 116.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261115112356_-20.60_-70.23",
-   "tiempo": "2026-11-15T11:23:56Z",
-   "lat": -20.6,
-   "lon": -70.226,
-   "prof": 37.0,
-   "lugar": "23 km al N de Patache",
-   "ref": "CSN",
-   "mag_max": 4.49,
-   "agencias": {
-    "CSN": {
-     "mag": 4.4,
-     "tipo": "Mw",
-     "prof": 37.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392677.html"
-    },
-    "USGS": {
-     "mag": 4.1,
-     "tipo": "mwr",
-     "prof": 27.161,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tye3"
-    },
-    "GFZ": {
-     "mag": 4.5,
-     "tipo": "mb",
-     "prof": 22.5,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.1,
-     "tipo": "mw",
-     "prof": 30.5,
      "url": null
     }
    }
