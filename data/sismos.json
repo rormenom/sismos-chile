@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T00:25:18.041876Z",
+ "actualizado": "2026-11-23T00:30:22.840249Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 333
   }
  },
  "eventos": [
@@ -7923,30 +7923,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 21.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116002816_-36.44_-72.11",
-   "tiempo": "2026-11-16T00:28:16Z",
-   "lat": -36.435,
-   "lon": -72.109,
-   "prof": 71.0,
-   "lugar": "19 km al N de Chillán",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 71.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392781.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 71.2,
      "url": null
     }
    }
