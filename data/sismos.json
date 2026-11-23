@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T06:50:24.309656Z",
+ "actualizado": "2026-11-23T06:55:18.499976Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261123064903_-24.12_-67.01",
+   "tiempo": "2026-11-23T06:49:03Z",
+   "lat": -24.121,
+   "lon": -67.014,
+   "prof": 256.0,
+   "lugar": "71 km al O de San Antonio de los Cobres",
+   "ref": "CSN",
+   "mag_max": 3.9,
+   "agencias": {
+    "CSN": {
+     "mag": 3.9,
+     "tipo": "Mlv",
+     "prof": 256.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394145.html"
+    },
+    "EMSC": {
+     "mag": 3.9,
+     "tipo": "ml",
+     "prof": 256.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261123053205_-34.05_-73.30",
    "tiempo": "2026-11-23T05:32:05Z",
@@ -7833,30 +7857,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 30.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116065457_-21.56_-69.55",
-   "tiempo": "2026-11-16T06:54:57Z",
-   "lat": -21.564,
-   "lon": -69.553,
-   "prof": 15.0,
-   "lugar": "11 km al N de Quillagua",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 15.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392841.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 14.8,
      "url": null
     }
    }
