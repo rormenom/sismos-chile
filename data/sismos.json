@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T02:30:22.892525Z",
+ "actualizado": "2026-11-23T02:35:17.981020Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 286
+   "n": 287
   },
   "USGS": {
    "ok": true,
@@ -24,11 +24,17 @@
    "tiempo": "2026-11-23T02:24:07Z",
    "lat": -22.41,
    "lon": -68.7,
-   "prof": 107.2,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "prof": 107.0,
+   "lugar": "25 km al E de Calama",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 107.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394113.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
