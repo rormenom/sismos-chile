@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T17:25:22.340276Z",
+ "actualizado": "2026-11-23T17:30:30.106988Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261123171545_-24.07_-67.23",
+   "tiempo": "2026-11-23T17:15:45Z",
+   "lat": -24.075,
+   "lon": -67.233,
+   "prof": 222.0,
+   "lugar": "86 km al SE de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.0,
+   "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 222.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394217.html"
+    },
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "ml",
+     "prof": 222.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261123170722_-17.05_-71.16",
    "tiempo": "2026-11-23T17:07:22Z",
@@ -7701,30 +7725,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 24.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116172729_-17.90_-70.19",
-   "tiempo": "2026-11-16T17:27:29Z",
-   "lat": -17.897,
-   "lon": -70.186,
-   "prof": 120.0,
-   "lugar": "15 km al NE de Tacna",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 120.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392945.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 120.0,
      "url": null
     }
    }
