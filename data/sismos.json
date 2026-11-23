@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T19:10:20.091766Z",
+ "actualizado": "2026-11-23T19:15:21.244056Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 279
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 327
+   "n": 328
   }
  },
  "eventos": [
+  {
+   "id": "20261123190835_-26.15_-69.85",
+   "tiempo": "2026-11-23T19:08:35Z",
+   "lat": -26.153,
+   "lon": -69.851,
+   "prof": 91.0,
+   "lugar": "25 km al O de El Salvador",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 91.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394239.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 91.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261123183115_-29.98_-66.05",
    "tiempo": "2026-11-23T18:31:15Z",
