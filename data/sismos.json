@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T02:55:16.638301Z",
+ "actualizado": "2026-11-23T03:00:27.645562Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 286
+   "n": 288
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,76 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 333
+   "n": 336
   }
  },
  "eventos": [
+  {
+   "id": "20261123025644_-22.00_-68.66",
+   "tiempo": "2026-11-23T02:56:44Z",
+   "lat": -22.001,
+   "lon": -68.661,
+   "prof": 106.0,
+   "lugar": "59 km al NE de Calama",
+   "ref": "CSN",
+   "mag_max": 3.7,
+   "agencias": {
+    "CSN": {
+     "mag": 3.7,
+     "tipo": "Mlv",
+     "prof": 106.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394115.html"
+    },
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "ml",
+     "prof": 106.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261123025343_-27.39_-70.89",
+   "tiempo": "2026-11-23T02:53:43Z",
+   "lat": -27.392,
+   "lon": -70.888,
+   "prof": 63.0,
+   "lugar": "37 km al S de Caldera",
+   "ref": "CSN",
+   "mag_max": 3.1,
+   "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 63.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394114.html"
+    },
+    "EMSC": {
+     "mag": 3.1,
+     "tipo": "ml",
+     "prof": 62.9,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261123025112_-32.16_-69.17",
+   "tiempo": "2026-11-23T02:51:12Z",
+   "lat": -32.16,
+   "lon": -69.17,
+   "prof": 112.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "m",
+     "prof": 112.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261123022407_-22.41_-68.70",
    "tiempo": "2026-11-23T02:24:07Z",
