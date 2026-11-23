@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T05:40:27.998094Z",
+ "actualizado": "2026-11-23T05:45:36.190364Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 288
+   "n": 289
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 335
   }
  },
  "eventos": [
+  {
+   "id": "20261123053205_-34.05_-73.30",
+   "tiempo": "2026-11-23T05:32:05Z",
+   "lat": -34.052,
+   "lon": -73.3,
+   "prof": 20.0,
+   "lugar": "124 km al O de Pichilemu",
+   "ref": "CSN",
+   "mag_max": 2.9,
+   "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 20.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394135.html"
+    },
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 20.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261123052236_-34.00_-71.19",
    "tiempo": "2026-11-23T05:22:36Z",
