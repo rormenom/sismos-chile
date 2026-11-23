@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T15:45:20.061505Z",
+ "actualizado": "2026-11-23T15:50:20.878236Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -242,7 +242,7 @@
     "EMSC": {
      "mag": 3.6,
      "tipo": "ml",
-     "prof": 116.0,
+     "prof": 130.0,
      "url": null
     }
    }
