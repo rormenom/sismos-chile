@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T13:35:20.615425Z",
+ "actualizado": "2026-11-23T13:40:20.071669Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 333
+   "n": 332
   }
  },
  "eventos": [
@@ -7905,30 +7905,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 29.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116133603_-25.51_-70.88",
-   "tiempo": "2026-11-16T13:36:03Z",
-   "lat": -25.511,
-   "lon": -70.88,
-   "prof": 29.0,
-   "lugar": "41 km al O de Taltal",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 29.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392905.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 29.4,
      "url": null
     }
    }
