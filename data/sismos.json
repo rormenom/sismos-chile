@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T13:20:20.493397Z",
+ "actualizado": "2026-11-23T13:25:18.690298Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261123131734_-21.77_-68.55",
+   "tiempo": "2026-11-23T13:17:34Z",
+   "lat": -21.77,
+   "lon": -68.55,
+   "prof": 122.0,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 122.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261123130316_-31.90_-69.19",
    "tiempo": "2026-11-23T13:03:16Z",
@@ -7929,24 +7947,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 66.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116132415_-27.82_-67.26",
-   "tiempo": "2026-11-16T13:24:15Z",
-   "lat": -27.816,
-   "lon": -67.264,
-   "prof": 125.0,
-   "lugar": "CATAMARCA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.9,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.9,
-     "tipo": "m",
-     "prof": 125.0,
      "url": null
     }
    }
