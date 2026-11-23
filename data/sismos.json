@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T16:25:17.305423Z",
+ "actualizado": "2026-11-23T16:30:30.164828Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 279
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 327
+   "n": 325
   }
  },
  "eventos": [
@@ -7737,54 +7737,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 30.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116162837_-23.03_-70.50",
-   "tiempo": "2026-11-16T16:28:37Z",
-   "lat": -23.033,
-   "lon": -70.502,
-   "prof": 23.0,
-   "lugar": "9 km al NO de Mejillones",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 23.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392933.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 22.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116162525_-33.04_-72.16",
-   "tiempo": "2026-11-16T16:25:25Z",
-   "lat": -33.036,
-   "lon": -72.158,
-   "prof": 23.0,
-   "lugar": "51 km al O de Valparaíso",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 23.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392932.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 23.2,
      "url": null
     }
    }
