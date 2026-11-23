@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T06:35:29.507095Z",
+ "actualizado": "2026-11-23T06:40:29.434489Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 284
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 330
   }
  },
  "eventos": [
@@ -7857,30 +7857,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 14.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116063825_-36.65_-70.93",
-   "tiempo": "2026-11-16T06:38:25Z",
-   "lat": -36.65,
-   "lon": -70.929,
-   "prof": 165.0,
-   "lugar": "57 km al E de San Fabián",
-   "ref": "CSN",
-   "mag_max": 3.3,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 165.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392839.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "m",
-     "prof": 165.4,
      "url": null
     }
    }
