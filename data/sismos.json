@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-23T18:00:32.143445Z",
+ "actualizado": "2026-11-23T18:05:19.882422Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 278
   },
   "USGS": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 327
+   "n": 326
   }
  },
  "eventos": [
   {
-   "id": "20261123174735_-41.60_-73.91",
+   "id": "20261123174735_-41.61_-73.96",
    "tiempo": "2026-11-23T17:47:35Z",
-   "lat": -41.605,
-   "lon": -73.914,
-   "prof": 20.0,
-   "lugar": "30 km al N de Ancud",
+   "lat": -41.608,
+   "lon": -73.96,
+   "prof": 17.0,
+   "lugar": "31 km al NO de Ancud",
    "ref": "CSN",
-   "mag_max": 3.6,
+   "mag_max": 3.5,
    "agencias": {
     "CSN": {
-     "mag": 3.6,
+     "mag": 3.5,
      "tipo": "Mlv",
-     "prof": 20.0,
+     "prof": 17.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394227.html"
     },
     "EMSC": {
-     "mag": 3.6,
+     "mag": 3.5,
      "tipo": "ml",
-     "prof": 20.0,
+     "prof": 17.2,
      "url": null
     }
    }
@@ -7749,30 +7749,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 137.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261116180351_-29.72_-71.96",
-   "tiempo": "2026-11-16T18:03:51Z",
-   "lat": -29.721,
-   "lon": -71.958,
-   "prof": 25.0,
-   "lugar": "71 km al SO de Punta de Choros",
-   "ref": "CSN",
-   "mag_max": 3.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 25.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/392950.html"
-    },
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "ml",
-     "prof": 24.6,
      "url": null
     }
    }
