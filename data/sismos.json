@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T05:25:18.305158Z",
+ "actualizado": "2026-11-24T05:30:24.651249Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,30 +15,30 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 317
+   "n": 316
   }
  },
  "eventos": [
   {
-   "id": "20261124051646_-29.30_-71.31",
-   "tiempo": "2026-11-24T05:16:46Z",
-   "lat": -29.297,
-   "lon": -71.311,
-   "prof": 66.0,
-   "lugar": "16 km al E de Punta de Choros",
+   "id": "20261124051645_-29.31_-71.33",
+   "tiempo": "2026-11-24T05:16:45Z",
+   "lat": -29.307,
+   "lon": -71.325,
+   "prof": 71.0,
+   "lugar": "15 km al E de Punta de Choros",
    "ref": "CSN",
    "mag_max": 3.6,
    "agencias": {
     "CSN": {
      "mag": 3.6,
      "tipo": "Mlv",
-     "prof": 66.0,
+     "prof": 71.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394301.html"
     },
     "EMSC": {
      "mag": 3.6,
      "tipo": "ml",
-     "prof": 66.5,
+     "prof": 71.3,
      "url": null
     }
    }
@@ -7515,24 +7515,6 @@
      "mag": 3.2,
      "tipo": "m",
      "prof": 10.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261117052854_-32.07_-67.81",
-   "tiempo": "2026-11-17T05:28:54Z",
-   "lat": -32.071,
-   "lon": -67.809,
-   "prof": 467.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.0,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "m",
-     "prof": 467.0,
      "url": null
     }
    }
