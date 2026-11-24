@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T13:35:23.520981Z",
+ "actualizado": "2026-11-24T13:40:18.856147Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -27,7 +27,7 @@
    "prof": 48.0,
    "lugar": "23 km al SO de Huasco",
    "ref": "CSN",
-   "mag_max": 5.0,
+   "mag_max": 5.2,
    "agencias": {
     "CSN": {
      "mag": 5.0,
@@ -36,15 +36,15 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394349.html"
     },
     "GFZ": {
-     "mag": 4.4,
-     "tipo": "ML",
-     "prof": 10.0,
+     "mag": 5.2,
+     "tipo": "mb",
+     "prof": 33.1,
      "url": null
     },
     "EMSC": {
      "mag": 5.0,
      "tipo": "m",
-     "prof": 22.0,
+     "prof": 45.3,
      "url": null
     }
    }
