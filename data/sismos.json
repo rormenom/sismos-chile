@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T09:50:20.880497Z",
+ "actualizado": "2026-11-24T09:55:18.015444Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 282
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261124094602_-32.50_-71.10",
+   "tiempo": "2026-11-24T09:46:02Z",
+   "lat": -32.5,
+   "lon": -71.102,
+   "prof": 79.0,
+   "lugar": "13 km al E de La Ligua",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 79.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394328.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 78.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261124093829_-30.80_-71.29",
    "tiempo": "2026-11-24T09:38:29Z",
@@ -7743,24 +7767,6 @@
      "mag": 3.1,
      "tipo": "ml",
      "prof": 203.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261117095111_-32.02_-69.53",
-   "tiempo": "2026-11-17T09:51:11Z",
-   "lat": -32.02,
-   "lon": -69.53,
-   "prof": 128.0,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.5,
-   "agencias": {
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "m",
-     "prof": 128.0,
      "url": null
     }
    }
