@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T07:10:19.117138Z",
+ "actualizado": "2026-11-24T07:15:20.392148Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 275
+   "n": 274
   },
   "USGS": {
    "ok": true,
@@ -39,6 +39,24 @@
      "mag": 2.7,
      "tipo": "ml",
      "prof": 101.6,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261124065705_-32.25_-71.74",
+   "tiempo": "2026-11-24T06:57:05Z",
+   "lat": -32.25,
+   "lon": -71.74,
+   "prof": 22.9,
+   "lugar": "OFFSHORE VALPARAISO, CHILE",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 22.9,
      "url": null
     }
    }
@@ -7575,30 +7593,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 121.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261117071212_-32.00_-71.41",
-   "tiempo": "2026-11-17T07:12:12Z",
-   "lat": -32.003,
-   "lon": -71.414,
-   "prof": 47.0,
-   "lugar": "14 km al SE de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 47.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393062.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 47.1,
      "url": null
     }
    }
