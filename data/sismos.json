@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T09:35:27.609485Z",
+ "actualizado": "2026-11-24T09:40:23.778952Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 279
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 324
+   "n": 325
   }
  },
  "eventos": [
+  {
+   "id": "20261124092825_-17.99_-69.75",
+   "tiempo": "2026-11-24T09:28:25Z",
+   "lat": -17.994,
+   "lon": -69.75,
+   "prof": 138.0,
+   "lugar": "30 km al NO de Putre",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 138.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394324.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 137.6,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261124090455_-21.13_-69.10",
    "tiempo": "2026-11-24T09:04:55Z",
