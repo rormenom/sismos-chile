@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T00:30:28.238851Z",
+ "actualizado": "2026-11-24T00:35:20.272533Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 268
+   "n": 267
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 317
+   "n": 316
   }
  },
  "eventos": [
@@ -7497,30 +7497,6 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 219.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261117003259_-33.74_-72.16",
-   "tiempo": "2026-11-17T00:32:59Z",
-   "lat": -33.743,
-   "lon": -72.162,
-   "prof": 12.0,
-   "lugar": "38 km al NO de Navidad",
-   "ref": "CSN",
-   "mag_max": 3.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 12.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393022.html"
-    },
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "ml",
-     "prof": 12.1,
      "url": null
     }
    }
