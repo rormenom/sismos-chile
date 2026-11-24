@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T07:40:50.405179Z",
+ "actualizado": "2026-11-24T07:45:20.029743Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,8 +10,8 @@
    "n": 12
   },
   "GFZ": {
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "n": 10
   },
   "EMSC": {
    "ok": true,
@@ -2054,7 +2054,7 @@
     "EMSC": {
      "mag": 4.0,
      "tipo": "ml",
-     "prof": 105.3,
+     "prof": 118.0,
      "url": null
     }
    }
@@ -2723,6 +2723,12 @@
      "prof": 209.784,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni"
     },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "Mw",
+     "prof": 206.9,
+     "url": null
+    },
     "EMSC": {
      "mag": 5.0,
      "tipo": "mw",
@@ -3371,6 +3377,12 @@
      "prof": 120.01,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8"
     },
+    "GFZ": {
+     "mag": 4.7,
+     "tipo": "Mw",
+     "prof": 122.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.7,
      "tipo": "mw",
@@ -3443,6 +3455,12 @@
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfa"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "ML",
+     "prof": 10.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mw",
@@ -3472,6 +3490,12 @@
      "tipo": "mwr",
      "prof": 114.345,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucey"
+    },
+    "GFZ": {
+     "mag": 4.2,
+     "tipo": "Mw",
+     "prof": 110.6,
+     "url": null
     },
     "EMSC": {
      "mag": 4.2,
@@ -4553,6 +4577,12 @@
      "prof": 113.86,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s"
     },
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "Mw",
+     "prof": 106.7,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.8,
      "tipo": "mb",
@@ -5188,6 +5218,12 @@
      "tipo": "mww",
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
+    },
+    "GFZ": {
+     "mag": 5.1,
+     "tipo": "Mw",
+     "prof": 19.7,
+     "url": null
     },
     "EMSC": {
      "mag": 5.1,
@@ -6011,6 +6047,12 @@
      "prof": 129.419,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tz33"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "mb",
+     "prof": 146.6,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mb",
@@ -6550,6 +6592,12 @@
      "tipo": "Mlv",
      "prof": 64.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393253.html"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "ML",
+     "prof": 26.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.1,
@@ -7286,6 +7334,24 @@
    }
   },
   {
+   "id": "20261117150020_-21.50_-67.28",
+   "tiempo": "2026-11-17T15:00:20.480000Z",
+   "lat": -21.503,
+   "lon": -67.279,
+   "prof": 265.3,
+   "lugar": "Chile-Bolivia Border Region",
+   "ref": "GFZ",
+   "mag_max": 3.88,
+   "agencias": {
+    "GFZ": {
+     "mag": 3.9,
+     "tipo": "ML",
+     "prof": 265.3,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261117150018_-21.45_-67.24",
    "tiempo": "2026-11-17T15:00:18Z",
    "lat": -21.447,
@@ -7300,6 +7366,12 @@
      "tipo": "Mlv",
      "prof": 278.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393107.html"
+    },
+    "GFZ": {
+     "mag": 4.0,
+     "tipo": "mb",
+     "prof": 260.4,
+     "url": null
     }
    }
   },
