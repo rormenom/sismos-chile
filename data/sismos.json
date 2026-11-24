@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T13:25:22.078770Z",
+ "actualizado": "2026-11-24T13:30:28.256622Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 10
+   "n": 11
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,60 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261124132241_-28.62_-71.07",
+   "tiempo": "2026-11-24T13:22:41.050000Z",
+   "lat": -28.624,
+   "lon": -71.072,
+   "prof": 22.0,
+   "lugar": "ATACAMA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 5.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 5.2,
+     "tipo": "m",
+     "prof": 22.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261124132238_-28.68_-71.42",
+   "tiempo": "2026-11-24T13:22:38.700000Z",
+   "lat": -28.685,
+   "lon": -71.417,
+   "prof": 10.0,
+   "lugar": "Near Coast of Central Chile",
+   "ref": "GFZ",
+   "mag_max": 4.42,
+   "agencias": {
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "ML",
+     "prof": 10.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261124132236_-28.55_-71.72",
+   "tiempo": "2026-11-24T13:22:36Z",
+   "lat": -28.549,
+   "lon": -71.718,
+   "prof": 19.0,
+   "lugar": "49 km al O de Huasco",
+   "ref": "CSN",
+   "mag_max": 5.2,
+   "agencias": {
+    "CSN": {
+     "mag": 5.2,
+     "tipo": "Mlv",
+     "prof": 19.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394349.html"
+    }
+   }
+  },
   {
    "id": "20261124130146_-17.80_-69.42",
    "tiempo": "2026-11-24T13:01:46Z",
@@ -7833,30 +7887,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 108.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261117132659_-33.09_-72.05",
-   "tiempo": "2026-11-17T13:26:59Z",
-   "lat": -33.092,
-   "lon": -72.046,
-   "prof": 23.0,
-   "lugar": "40 km al O de Valparaíso",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 23.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393097.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 23.5,
      "url": null
     }
    }
