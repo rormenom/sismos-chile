@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T11:20:30.215092Z",
+ "actualizado": "2026-11-24T11:25:16.800316Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 284
+   "n": 285
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 329
+   "n": 331
   }
  },
  "eventos": [
+  {
+   "id": "20261124111529_-20.54_-69.14",
+   "tiempo": "2026-11-24T11:15:29Z",
+   "lat": -20.543,
+   "lon": -69.14,
+   "prof": 86.0,
+   "lugar": "21 km al E de Pica",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 86.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394338.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 85.5,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261124111227_-31.24_-68.49",
+   "tiempo": "2026-11-24T11:12:27Z",
+   "lat": -31.24,
+   "lon": -68.49,
+   "prof": 101.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.6,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.6,
+     "tipo": "m",
+     "prof": 101.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261124111031_-22.82_-68.95",
    "tiempo": "2026-11-24T11:10:31Z",
