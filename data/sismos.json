@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T07:15:20.392148Z",
+ "actualizado": "2026-11-24T07:20:20.490096Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 274
+   "n": 275
   },
   "USGS": {
    "ok": true,
@@ -46,13 +46,19 @@
   {
    "id": "20261124065705_-32.25_-71.74",
    "tiempo": "2026-11-24T06:57:05Z",
-   "lat": -32.25,
-   "lon": -71.74,
-   "prof": 22.9,
-   "lugar": "OFFSHORE VALPARAISO, CHILE",
-   "ref": "EMSC",
+   "lat": -32.253,
+   "lon": -71.741,
+   "prof": 23.0,
+   "lugar": "24 km al SO de Pichidangui",
+   "ref": "CSN",
    "mag_max": 2.5,
    "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 23.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394312.html"
+    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
