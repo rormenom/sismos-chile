@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T09:45:19.838995Z",
+ "actualizado": "2026-11-24T09:50:20.880497Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 280
+   "n": 281
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 326
   }
  },
  "eventos": [
+  {
+   "id": "20261124093829_-30.80_-71.29",
+   "tiempo": "2026-11-24T09:38:29Z",
+   "lat": -30.796,
+   "lon": -71.288,
+   "prof": 61.0,
+   "lugar": "5 km al NO de Punitaqui",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 61.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394326.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 61.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261124092825_-17.99_-69.75",
    "tiempo": "2026-11-24T09:28:25Z",
