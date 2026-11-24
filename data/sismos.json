@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-24T15:45:21.769548Z",
+ "actualizado": "2026-11-24T15:50:23.764001Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 288
+   "n": 287
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 333
+   "n": 332
   }
  },
  "eventos": [
@@ -7875,30 +7875,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 233.2,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261117154531_-23.27_-68.91",
-   "tiempo": "2026-11-17T15:45:31Z",
-   "lat": -23.267,
-   "lon": -68.914,
-   "prof": 91.0,
-   "lugar": "59 km al SE de Sierra Gorda",
-   "ref": "CSN",
-   "mag_max": 3.2,
-   "agencias": {
-    "CSN": {
-     "mag": 3.2,
-     "tipo": "Mlv",
-     "prof": 91.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393116.html"
-    },
-    "EMSC": {
-     "mag": 3.2,
-     "tipo": "ml",
-     "prof": 90.8,
      "url": null
     }
    }
