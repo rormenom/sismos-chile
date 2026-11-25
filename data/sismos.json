@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-25T06:45:22.949593Z",
+ "actualizado": "2026-11-25T06:50:22.608426Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 282
+   "n": 281
   },
   "USGS": {
    "ok": true,
@@ -11,11 +11,11 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 10
+   "n": 9
   },
   "EMSC": {
    "ok": true,
-   "n": 326
+   "n": 325
   }
  },
  "eventos": [
@@ -7731,36 +7731,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 125.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261118064549_-30.22_-71.28",
-   "tiempo": "2026-11-18T06:45:49Z",
-   "lat": -30.224,
-   "lon": -71.276,
-   "prof": 64.0,
-   "lugar": "18 km al O de Andacollo",
-   "ref": "CSN",
-   "mag_max": 4.1,
-   "agencias": {
-    "CSN": {
-     "mag": 4.1,
-     "tipo": "Mlv",
-     "prof": 64.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393253.html"
-    },
-    "GFZ": {
-     "mag": 4.0,
-     "tipo": "ML",
-     "prof": 26.7,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.1,
-     "tipo": "ml",
-     "prof": 60.0,
      "url": null
     }
    }
