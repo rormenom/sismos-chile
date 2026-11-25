@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-25T01:15:20.821909Z",
+ "actualizado": "2026-11-25T01:20:23.986682Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 287
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,50 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 332
+   "n": 333
   }
  },
  "eventos": [
   {
+   "id": "20261125011417_-20.63_-68.94",
+   "tiempo": "2026-11-25T01:14:17Z",
+   "lat": -20.634,
+   "lon": -68.943,
+   "prof": 101.0,
+   "lugar": "37 km al NO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 101.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394437.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 101.5,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261125010832_-27.99_-69.17",
    "tiempo": "2026-11-25T01:08:32Z",
-   "lat": -27.99,
-   "lon": -69.17,
-   "prof": 106.7,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
+   "lat": -27.989,
+   "lon": -69.174,
+   "prof": 107.0,
+   "lugar": "133 km al SE de Copiapó",
+   "ref": "CSN",
    "mag_max": 2.9,
    "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 107.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394435.html"
+    },
     "EMSC": {
      "mag": 2.9,
      "tipo": "ml",
