@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-25T04:35:21.348314Z",
+ "actualizado": "2026-11-25T04:40:20.936320Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 283
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 329
+   "n": 327
   }
  },
  "eventos": [
@@ -7785,54 +7785,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 99.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261118043907_-21.72_-68.64",
-   "tiempo": "2026-11-18T04:39:07Z",
-   "lat": -21.724,
-   "lon": -68.635,
-   "prof": 133.0,
-   "lugar": "68 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 133.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393225.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 132.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261118043627_-24.35_-67.14",
-   "tiempo": "2026-11-18T04:36:27Z",
-   "lat": -24.346,
-   "lon": -67.144,
-   "prof": 184.0,
-   "lugar": "85 km al O de San Antonio de los Cobres",
-   "ref": "CSN",
-   "mag_max": 3.1,
-   "agencias": {
-    "CSN": {
-     "mag": 3.1,
-     "tipo": "Mlv",
-     "prof": 184.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393223.html"
-    },
-    "EMSC": {
-     "mag": 3.1,
-     "tipo": "ml",
-     "prof": 183.6,
      "url": null
     }
    }
