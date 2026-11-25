@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-25T18:50:19.491959Z",
+ "actualizado": "2026-11-25T18:55:15.721709Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 320
+   "n": 319
   }
  },
  "eventos": [
@@ -7551,30 +7551,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 112.5,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261118185042_-34.97_-72.40",
-   "tiempo": "2026-11-18T18:50:42Z",
-   "lat": -34.965,
-   "lon": -72.403,
-   "prof": 27.0,
-   "lugar": "38 km al O de Vichuquén",
-   "ref": "CSN",
-   "mag_max": 3.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 27.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393341.html"
-    },
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "ml",
-     "prof": 27.4,
      "url": null
     }
    }
