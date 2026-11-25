@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-25T14:30:34.256018Z",
+ "actualizado": "2026-11-25T14:35:29.827165Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 277
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 324
+   "n": 323
   }
  },
  "eventos": [
@@ -7671,30 +7671,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 20.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261118143132_-17.75_-69.58",
-   "tiempo": "2026-11-18T14:31:32Z",
-   "lat": -17.75,
-   "lon": -69.583,
-   "prof": 157.0,
-   "lugar": "20 km al SO de Visviri",
-   "ref": "CSN",
-   "mag_max": 3.0,
-   "agencias": {
-    "CSN": {
-     "mag": 3.0,
-     "tipo": "Mlv",
-     "prof": 157.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393300.html"
-    },
-    "EMSC": {
-     "mag": 3.0,
-     "tipo": "m",
-     "prof": 157.3,
      "url": null
     }
    }
