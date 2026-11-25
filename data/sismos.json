@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T16:05:23.205780Z",
+ "actualizado": "2026-11-25T16:25:23.418597Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261125161756_-31.73_-72.10",
+   "tiempo": "2026-11-25T16:17:56Z",
+   "lat": -31.732,
+   "lon": -72.101,
+   "prof": 42.0,
+   "lugar": "59 km al O de Los Vilos",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 42.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394510.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 41.7,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261125151636_-31.96_-70.82",
    "tiempo": "2026-11-25T15:16:36Z",
@@ -7575,30 +7599,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 125.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261118162151_-21.04_-68.76",
-   "tiempo": "2026-11-18T16:21:51Z",
-   "lat": -21.041,
-   "lon": -68.764,
-   "prof": 133.0,
-   "lugar": "26 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 3.4,
-   "agencias": {
-    "CSN": {
-     "mag": 3.4,
-     "tipo": "Mlv",
-     "prof": 133.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393320.html"
-    },
-    "EMSC": {
-     "mag": 3.4,
-     "tipo": "ml",
-     "prof": 132.6,
      "url": null
     }
    }
