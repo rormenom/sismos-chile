@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-25T23:30:25.602893Z",
+ "actualizado": "2026-11-25T23:35:17.677036Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 275
+   "n": 276
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261125232301_-24.52_-69.41",
    "tiempo": "2026-11-25T23:23:01Z",
-   "lat": -24.52,
-   "lon": -69.41,
-   "prof": 252.2,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -24.523,
+   "lon": -69.406,
+   "prof": 252.0,
+   "lugar": "45 km al SO de Mina La Escondida",
+   "ref": "CSN",
    "mag_max": 3.1,
    "agencias": {
+    "CSN": {
+     "mag": 3.1,
+     "tipo": "Mlv",
+     "prof": 252.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394560.html"
+    },
     "EMSC": {
      "mag": 3.1,
      "tipo": "ml",
