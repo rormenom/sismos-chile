@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T17:10:30.236371Z",
+ "actualizado": "2026-11-26T17:15:23.061815Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 285
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -20,19 +20,25 @@
  },
  "eventos": [
   {
-   "id": "20261126170836_-19.93_-69.65",
-   "tiempo": "2026-11-26T17:08:36Z",
-   "lat": -19.93,
-   "lon": -69.65,
-   "prof": 62.4,
-   "lugar": "TARAPACA, CHILE",
-   "ref": "EMSC",
-   "mag_max": 3.0,
+   "id": "20261126170834_-19.91_-69.49",
+   "tiempo": "2026-11-26T17:08:34Z",
+   "lat": -19.911,
+   "lon": -69.486,
+   "prof": 89.0,
+   "lugar": "50 km al NE de Pozo Almonte",
+   "ref": "CSN",
+   "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 89.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394659.html"
+    },
     "EMSC": {
-     "mag": 3.0,
+     "mag": 3.2,
      "tipo": "ml",
-     "prof": 62.4,
+     "prof": 89.3,
      "url": null
     }
    }
