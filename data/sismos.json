@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T12:10:33.912405Z",
+ "actualizado": "2026-11-26T12:15:21.259952Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 288
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 337
   }
  },
  "eventos": [
@@ -7954,47 +7954,17 @@
   {
    "id": "20261119121516_-21.07_-68.74",
    "tiempo": "2026-11-19T12:15:16Z",
-   "lat": -21.069,
-   "lon": -68.739,
-   "prof": 133.0,
-   "lugar": "28 km al S de Mina Collahuasi",
-   "ref": "CSN",
+   "lat": -21.07,
+   "lon": -68.74,
+   "prof": 132.7,
+   "lugar": "TARAPACA, CHILE",
+   "ref": "EMSC",
    "mag_max": 2.5,
    "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 133.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393447.html"
-    },
     "EMSC": {
      "mag": 2.5,
      "tipo": "ml",
      "prof": 132.7,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119121231_-34.37_-70.59",
-   "tiempo": "2026-11-19T12:12:31Z",
-   "lat": -34.366,
-   "lon": -70.591,
-   "prof": 104.0,
-   "lugar": "26 km al SE de Rancagua",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 104.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393446.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 103.8,
      "url": null
     }
    }
