@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T01:00:30.500563Z",
+ "actualizado": "2026-11-26T01:05:21.064524Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 276
+   "n": 277
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261126005525_-21.49_-68.64",
    "tiempo": "2026-11-26T00:55:25Z",
-   "lat": -21.49,
-   "lon": -68.64,
-   "prof": 144.6,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -21.489,
+   "lon": -68.642,
+   "prof": 145.0,
+   "lugar": "50 km al SO de Ollagüe",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 145.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394567.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
