@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T06:45:22.011963Z",
+ "actualizado": "2026-11-26T06:50:20.189166Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,20 +15,26 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 333
   }
  },
  "eventos": [
   {
    "id": "20261126063824_-26.21_-69.35",
    "tiempo": "2026-11-26T06:38:24Z",
-   "lat": -26.21,
-   "lon": -69.35,
-   "prof": 99.4,
-   "lugar": "ATACAMA, CHILE",
-   "ref": "EMSC",
+   "lat": -26.206,
+   "lon": -69.352,
+   "prof": 99.0,
+   "lugar": "28 km al E de El Salvador",
+   "ref": "CSN",
    "mag_max": 2.7,
    "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 99.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394602.html"
+    },
     "EMSC": {
      "mag": 2.7,
      "tipo": "ml",
@@ -7887,30 +7893,6 @@
      "mag": 3.7,
      "tipo": "m",
      "prof": 176.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119064959_-28.81_-71.46",
-   "tiempo": "2026-11-19T06:49:59Z",
-   "lat": -28.807,
-   "lon": -71.459,
-   "prof": 30.0,
-   "lugar": "45 km al SO de Huasco",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 30.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393417.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 30.4,
      "url": null
     }
    }
