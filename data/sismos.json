@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T07:35:20.654890Z",
+ "actualizado": "2026-11-26T07:40:19.971535Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 288
+   "n": 289
   },
   "USGS": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261126073312_-34.85_-71.95",
+   "tiempo": "2026-11-26T07:33:12Z",
+   "lat": -34.852,
+   "lon": -71.951,
+   "prof": 41.0,
+   "lugar": "5 km al NE de Vichuquén",
+   "ref": "CSN",
+   "mag_max": 3.2,
+   "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 41.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394610.html"
+    },
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 40.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261126072624_-22.17_-69.72",
    "tiempo": "2026-11-26T07:26:24Z",
@@ -7923,24 +7947,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 74.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119073525_-22.16_-67.21",
-   "tiempo": "2026-11-19T07:35:25Z",
-   "lat": -22.161,
-   "lon": -67.211,
-   "prof": 176.8,
-   "lugar": "POTOSI, BOLIVIA",
-   "ref": "EMSC",
-   "mag_max": 3.7,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.7,
-     "tipo": "m",
-     "prof": 176.8,
      "url": null
     }
    }
