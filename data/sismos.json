@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T22:15:22.811678Z",
+ "actualizado": "2026-11-26T22:20:28.933919Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -15,10 +15,28 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 329
+   "n": 330
   }
  },
  "eventos": [
+  {
+   "id": "20261126220934_-22.79_-66.82",
+   "tiempo": "2026-11-26T22:09:34Z",
+   "lat": -22.79,
+   "lon": -66.82,
+   "prof": 272.0,
+   "lugar": "JUJUY, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.2,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.2,
+     "tipo": "ml",
+     "prof": 272.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261126215530_-23.89_-67.41",
    "tiempo": "2026-11-26T21:55:30Z",
