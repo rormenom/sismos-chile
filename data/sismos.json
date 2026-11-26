@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-26T16:20:24.560682Z",
+ "actualizado": "2026-11-26T16:25:26.763006Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 286
+   "n": 285
   },
   "USGS": {
    "ok": true,
    "n": 12
   },
   "GFZ": {
-   "ok": false,
-   "error": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "n": 9
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 337
   }
  },
  "eventos": [
@@ -49,10 +49,16 @@
    "lat": -27.926,
    "lon": -66.797,
    "prof": 203.1,
-   "lugar": "CATAMARCA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.8,
+   "lugar": "Catamarca Province, Argentina",
+   "ref": "GFZ",
+   "mag_max": 4.3,
    "agencias": {
+    "GFZ": {
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 203.1,
+     "url": null
+    },
     "EMSC": {
      "mag": 3.8,
      "tipo": "m",
@@ -1973,6 +1979,12 @@
      "prof": 50.858,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8"
     },
+    "GFZ": {
+     "mag": 4.5,
+     "tipo": "ML",
+     "prof": 21.4,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.6,
      "tipo": "mb",
@@ -2283,7 +2295,7 @@
    "prof": 48.0,
    "lugar": "23 km al SO de Huasco",
    "ref": "CSN",
-   "mag_max": 4.8,
+   "mag_max": 4.91,
    "agencias": {
     "CSN": {
      "mag": 4.8,
@@ -2296,6 +2308,12 @@
      "tipo": "mwr",
      "prof": 33.412,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h"
+    },
+    "GFZ": {
+     "mag": 4.9,
+     "tipo": "Mw",
+     "prof": 25.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.8,
@@ -5399,6 +5417,12 @@
      "prof": 209.784,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni"
     },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "Mw",
+     "prof": 206.9,
+     "url": null
+    },
     "EMSC": {
      "mag": 5.0,
      "tipo": "mw",
@@ -6047,6 +6071,12 @@
      "prof": 120.01,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8"
     },
+    "GFZ": {
+     "mag": 4.7,
+     "tipo": "Mw",
+     "prof": 122.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.7,
      "tipo": "mw",
@@ -6119,6 +6149,12 @@
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfa"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "ML",
+     "prof": 10.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mw",
@@ -6148,6 +6184,12 @@
      "tipo": "mwr",
      "prof": 114.345,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucey"
+    },
+    "GFZ": {
+     "mag": 4.2,
+     "tipo": "Mw",
+     "prof": 110.6,
+     "url": null
     },
     "EMSC": {
      "mag": 4.2,
@@ -7229,6 +7271,12 @@
      "prof": 113.86,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s"
     },
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "Mw",
+     "prof": 106.7,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.8,
      "tipo": "mb",
@@ -7865,6 +7913,12 @@
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
     },
+    "GFZ": {
+     "mag": 5.1,
+     "tipo": "Mw",
+     "prof": 19.7,
+     "url": null
+    },
     "EMSC": {
      "mag": 5.1,
      "tipo": "mw",
@@ -7911,30 +7965,6 @@
      "mag": 2.9,
      "tipo": "m",
      "prof": 181.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119162510_-23.74_-67.06",
-   "tiempo": "2026-11-19T16:25:10Z",
-   "lat": -23.743,
-   "lon": -67.057,
-   "prof": 188.0,
-   "lugar": "87 km al E de Socaire",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 188.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393478.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 187.9,
      "url": null
     }
    }
