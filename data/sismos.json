@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T13:30:29.308968Z",
+ "actualizado": "2026-11-26T13:35:27.084736Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,15 +10,33 @@
    "n": 12
   },
   "GFZ": {
-   "ok": false,
-   "error": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "n": 8
   },
   "EMSC": {
    "ok": true,
-   "n": 338
+   "n": 339
   }
  },
  "eventos": [
+  {
+   "id": "20261126132941_-22.02_-68.63",
+   "tiempo": "2026-11-26T13:29:41Z",
+   "lat": -22.02,
+   "lon": -68.63,
+   "prof": 113.0,
+   "lugar": "ANTOFAGASTA, CHILE",
+   "ref": "EMSC",
+   "mag_max": 3.4,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 113.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261126130655_-24.24_-67.43",
    "tiempo": "2026-11-26T13:06:55Z",
@@ -1907,6 +1925,12 @@
      "prof": 50.858,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8"
     },
+    "GFZ": {
+     "mag": 4.5,
+     "tipo": "ML",
+     "prof": 21.4,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.6,
      "tipo": "mb",
@@ -2217,7 +2241,7 @@
    "prof": 48.0,
    "lugar": "23 km al SO de Huasco",
    "ref": "CSN",
-   "mag_max": 4.8,
+   "mag_max": 4.91,
    "agencias": {
     "CSN": {
      "mag": 4.8,
@@ -2230,6 +2254,12 @@
      "tipo": "mwr",
      "prof": 33.412,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h"
+    },
+    "GFZ": {
+     "mag": 4.9,
+     "tipo": "Mw",
+     "prof": 25.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.8,
@@ -5333,6 +5363,12 @@
      "prof": 209.784,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni"
     },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "Mw",
+     "prof": 206.9,
+     "url": null
+    },
     "EMSC": {
      "mag": 5.0,
      "tipo": "mw",
@@ -5981,6 +6017,12 @@
      "prof": 120.01,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8"
     },
+    "GFZ": {
+     "mag": 4.7,
+     "tipo": "Mw",
+     "prof": 122.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.7,
      "tipo": "mw",
@@ -6053,6 +6095,12 @@
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfa"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "ML",
+     "prof": 10.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.5,
      "tipo": "mw",
@@ -6082,6 +6130,12 @@
      "tipo": "mwr",
      "prof": 114.345,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucey"
+    },
+    "GFZ": {
+     "mag": 4.2,
+     "tipo": "Mw",
+     "prof": 110.6,
+     "url": null
     },
     "EMSC": {
      "mag": 4.2,
@@ -7163,6 +7217,12 @@
      "prof": 113.86,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc5s"
     },
+    "GFZ": {
+     "mag": 4.8,
+     "tipo": "Mw",
+     "prof": 106.7,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.8,
      "tipo": "mb",
@@ -7798,6 +7858,12 @@
      "tipo": "mww",
      "prof": 10,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000uc1x"
+    },
+    "GFZ": {
+     "mag": 5.1,
+     "tipo": "Mw",
+     "prof": 19.7,
+     "url": null
     },
     "EMSC": {
      "mag": 5.1,
