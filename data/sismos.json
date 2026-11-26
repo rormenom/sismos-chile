@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T21:40:20.372956Z",
+ "actualizado": "2026-11-26T21:44:42.899176Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 277
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 329
+   "n": 328
   }
  },
  "eventos": [
@@ -7731,30 +7731,6 @@
      "mag": 2.5,
      "tipo": "ml",
      "prof": 112.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119214101_-18.44_-71.30",
-   "tiempo": "2026-11-19T21:41:01Z",
-   "lat": -18.436,
-   "lon": -71.296,
-   "prof": 21.0,
-   "lugar": "88 km al S de Ilo",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 21.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393539.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 21.0,
      "url": null
     }
    }
