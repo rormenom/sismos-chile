@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T05:05:18.466431Z",
+ "actualizado": "2026-11-26T05:10:25.670578Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 281
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 328
+   "n": 327
   }
  },
  "eventos": [
@@ -7749,30 +7749,6 @@
      "mag": 2.7,
      "tipo": "m",
      "prof": 114.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119050835_-29.76_-69.42",
-   "tiempo": "2026-11-19T05:08:35Z",
-   "lat": -29.759,
-   "lon": -69.425,
-   "prof": 114.0,
-   "lugar": "109 km al E de Paihuano",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 114.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393407.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 113.9,
      "url": null
     }
    }
