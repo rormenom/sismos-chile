@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T14:10:29.659875Z",
+ "actualizado": "2026-11-26T14:15:24.069320Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 286
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 339
+   "n": 337
   }
  },
  "eventos": [
@@ -7965,48 +7965,6 @@
      "mag": 3.2,
      "tipo": "ml",
      "prof": 210.4,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119141158_-20.59_-69.22",
-   "tiempo": "2026-11-19T14:11:58Z",
-   "lat": -20.595,
-   "lon": -69.224,
-   "prof": 112.0,
-   "lugar": "16 km al SE de Pica",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 112.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393465.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 112.3,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261119141040_-31.46_-66.44",
-   "tiempo": "2026-11-19T14:10:40Z",
-   "lat": -31.46,
-   "lon": -66.44,
-   "prof": 132.0,
-   "lugar": "LA RIOJA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.4,
-   "agencias": {
-    "EMSC": {
-     "mag": 3.4,
-     "tipo": "m",
-     "prof": 132.0,
      "url": null
     }
    }
