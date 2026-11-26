@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T07:30:24.366931Z",
+ "actualizado": "2026-11-26T07:35:20.654890Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 287
+   "n": 288
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 334
+   "n": 335
   }
  },
  "eventos": [
+  {
+   "id": "20261126072624_-22.17_-69.72",
+   "tiempo": "2026-11-26T07:26:24Z",
+   "lat": -22.17,
+   "lon": -69.719,
+   "prof": 12.0,
+   "lugar": "20 km al N de María Elena",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 12.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394608.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 11.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261126071103_-20.57_-68.09",
    "tiempo": "2026-11-26T07:11:03Z",
