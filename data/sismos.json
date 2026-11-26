@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-26T23:50:20.381767Z",
+ "actualizado": "2026-11-26T23:55:18.928000Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 278
+   "n": 280
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,50 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 331
+   "n": 332
   }
  },
  "eventos": [
   {
+   "id": "20261126234745_-24.05_-67.39",
+   "tiempo": "2026-11-26T23:47:45Z",
+   "lat": -24.054,
+   "lon": -67.394,
+   "prof": 217.0,
+   "lugar": "72 km al SE de Socaire",
+   "ref": "CSN",
+   "mag_max": 3.4,
+   "agencias": {
+    "CSN": {
+     "mag": 3.4,
+     "tipo": "Mlv",
+     "prof": 217.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394706.html"
+    },
+    "EMSC": {
+     "mag": 3.4,
+     "tipo": "ml",
+     "prof": 217.0,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261126234358_-23.09_-69.14",
    "tiempo": "2026-11-26T23:43:58Z",
-   "lat": -23.09,
-   "lon": -69.14,
+   "lat": -23.087,
+   "lon": -69.144,
    "prof": 88.0,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lugar": "28 km al SE de Sierra Gorda",
+   "ref": "CSN",
    "mag_max": 3.2,
    "agencias": {
+    "CSN": {
+     "mag": 3.2,
+     "tipo": "Mlv",
+     "prof": 88.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394705.html"
+    },
     "EMSC": {
      "mag": 3.2,
      "tipo": "ml",
