@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T10:00:30.224653Z",
+ "actualizado": "2026-11-27T10:05:18.263903Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 273
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261127095100_-31.59_-69.70",
    "tiempo": "2026-11-27T09:51:00Z",
-   "lat": -31.59,
-   "lon": -69.7,
-   "prof": 105.2,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 2.8,
+   "lat": -31.588,
+   "lon": -69.702,
+   "prof": 105.0,
+   "lugar": "88 km al E de Mina Los Pelambres",
+   "ref": "CSN",
+   "mag_max": 2.9,
    "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 105.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394774.html"
+    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
