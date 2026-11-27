@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T07:45:22.278876Z",
+ "actualizado": "2026-11-27T07:50:20.880010Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 270
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 323
+   "n": 322
   }
  },
  "eventos": [
@@ -7557,30 +7557,6 @@
      "mag": 2.5,
      "tipo": "m",
      "prof": 146.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120074652_-35.87_-72.01",
-   "tiempo": "2026-11-20T07:46:52Z",
-   "lat": -35.871,
-   "lon": -72.006,
-   "prof": 78.0,
-   "lugar": "30 km al E de Cauquenes",
-   "ref": "CSN",
-   "mag_max": 2.8,
-   "agencias": {
-    "CSN": {
-     "mag": 2.8,
-     "tipo": "Mlv",
-     "prof": 78.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393624.html"
-    },
-    "EMSC": {
-     "mag": 2.8,
-     "tipo": "ml",
-     "prof": 78.4,
      "url": null
     }
    }
