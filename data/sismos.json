@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T05:45:25.640078Z",
+ "actualizado": "2026-11-27T05:50:23.028580Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 274
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,68 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 326
+   "n": 328
   }
  },
  "eventos": [
   {
-   "id": "20261127053721_-22.13_-68.59",
-   "tiempo": "2026-11-27T05:37:21Z",
-   "lat": -22.13,
-   "lon": -68.59,
-   "prof": 116.2,
+   "id": "20261127054651_-22.19_-68.56",
+   "tiempo": "2026-11-27T05:46:51Z",
+   "lat": -22.19,
+   "lon": -68.56,
+   "prof": 119.7,
    "lugar": "ANTOFAGASTA, CHILE",
    "ref": "EMSC",
+   "mag_max": 3.8,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.8,
+     "tipo": "ml",
+     "prof": 119.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261127054236_-23.02_-69.73",
+   "tiempo": "2026-11-27T05:42:36Z",
+   "lat": -23.024,
+   "lon": -69.731,
+   "prof": 84.0,
+   "lugar": "36 km al N de Baquedano",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 84.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394744.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 84.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261127053721_-22.13_-68.59",
+   "tiempo": "2026-11-27T05:37:21Z",
+   "lat": -22.131,
+   "lon": -68.587,
+   "prof": 116.0,
+   "lugar": "52 km al NE de Calama",
+   "ref": "CSN",
    "mag_max": 2.8,
    "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 116.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394743.html"
+    },
     "EMSC": {
      "mag": 2.8,
      "tipo": "ml",
