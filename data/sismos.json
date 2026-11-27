@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T17:10:21.134965Z",
+ "actualizado": "2026-11-27T17:15:19.873299Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 265
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 314
+   "n": 316
   }
  },
  "eventos": [
+  {
+   "id": "20261127171049_-32.66_-71.49",
+   "tiempo": "2026-11-27T17:10:49Z",
+   "lat": -32.66,
+   "lon": -71.489,
+   "prof": 24.0,
+   "lugar": "13 km al N de Quintero",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 24.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394820.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 24.0,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261127170542_-31.65_-68.82",
+   "tiempo": "2026-11-27T17:05:42Z",
+   "lat": -31.65,
+   "lon": -68.82,
+   "prof": 109.0,
+   "lugar": "SAN JUAN, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.0,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.0,
+     "tipo": "m",
+     "prof": 109.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261127163738_-21.36_-69.96",
    "tiempo": "2026-11-27T16:37:38Z",
