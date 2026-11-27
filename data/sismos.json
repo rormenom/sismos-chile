@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T16:30:24.149200Z",
+ "actualizado": "2026-11-27T16:35:22.940665Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 314
+   "n": 313
   }
  },
  "eventos": [
@@ -7347,30 +7347,6 @@
      "mag": 2.6,
      "tipo": "ml",
      "prof": 114.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120163443_-19.95_-71.11",
-   "tiempo": "2026-11-20T16:34:43Z",
-   "lat": -19.949,
-   "lon": -71.108,
-   "prof": 22.0,
-   "lugar": "101 km al O de Pisagua",
-   "ref": "CSN",
-   "mag_max": 3.5,
-   "agencias": {
-    "CSN": {
-     "mag": 3.5,
-     "tipo": "Mlv",
-     "prof": 22.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393706.html"
-    },
-    "EMSC": {
-     "mag": 3.5,
-     "tipo": "ml",
-     "prof": 22.2,
      "url": null
     }
    }
