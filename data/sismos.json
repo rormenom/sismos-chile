@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T21:35:21.243141Z",
+ "actualizado": "2026-11-27T21:40:27.909992Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 262
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 314
+   "n": 315
   }
  },
  "eventos": [
+  {
+   "id": "20261127212918_-21.18_-68.75",
+   "tiempo": "2026-11-27T21:29:18Z",
+   "lat": -21.184,
+   "lon": -68.75,
+   "prof": 65.0,
+   "lugar": "41 km al S de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 65.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394856.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 65.2,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261127212545_-30.16_-71.48",
    "tiempo": "2026-11-27T21:25:45Z",
