@@ -1,17 +1,17 @@
 {
- "actualizado": "2026-11-27T22:30:25.368277Z",
+ "actualizado": "2026-11-27T22:35:15.263653Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 263
   },
   "USGS": {
    "ok": true,
-   "n": 9
+   "n": 8
   },
   "GFZ": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "EMSC": {
    "ok": true,
@@ -19,6 +19,24 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261127222704_-22.37_-67.90",
+   "tiempo": "2026-11-27T22:27:04Z",
+   "lat": -22.37,
+   "lon": -67.9,
+   "prof": 204.8,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 2.9,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.9,
+     "tipo": "ml",
+     "prof": 204.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261127220008_-33.09_-72.05",
    "tiempo": "2026-11-27T22:00:08Z",
@@ -7389,42 +7407,6 @@
      "mag": 4.5,
      "tipo": "mw",
      "prof": 16.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120223212_-21.18_-68.89",
-   "tiempo": "2026-11-20T22:32:12Z",
-   "lat": -21.18,
-   "lon": -68.89,
-   "prof": 118.0,
-   "lugar": "46 km al SO de Mina Collahuasi",
-   "ref": "CSN",
-   "mag_max": 4.4,
-   "agencias": {
-    "CSN": {
-     "mag": 4.4,
-     "tipo": "Mw",
-     "prof": 118.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393763.html"
-    },
-    "USGS": {
-     "mag": 4.2,
-     "tipo": "mwr",
-     "prof": 114.345,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucey"
-    },
-    "GFZ": {
-     "mag": 4.2,
-     "tipo": "Mw",
-     "prof": 110.6,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.2,
-     "tipo": "mw",
-     "prof": 109.8,
      "url": null
     }
    }
