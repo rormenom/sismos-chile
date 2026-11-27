@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T17:35:20.080672Z",
+ "actualizado": "2026-11-27T17:40:21.648240Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 265
+   "n": 263
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 316
+   "n": 314
   }
  },
  "eventos": [
@@ -7365,54 +7365,6 @@
      "mag": 3.4,
      "tipo": "ml",
      "prof": 32.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120173623_-31.83_-72.13",
-   "tiempo": "2026-11-20T17:36:23Z",
-   "lat": -31.83,
-   "lon": -72.132,
-   "prof": 28.0,
-   "lugar": "59 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 2.7,
-   "agencias": {
-    "CSN": {
-     "mag": 2.7,
-     "tipo": "Mlv",
-     "prof": 28.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393720.html"
-    },
-    "EMSC": {
-     "mag": 2.7,
-     "tipo": "ml",
-     "prof": 28.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120173522_-23.24_-68.50",
-   "tiempo": "2026-11-20T17:35:22Z",
-   "lat": -23.243,
-   "lon": -68.501,
-   "prof": 115.0,
-   "lugar": "47 km al SO de San Pedro de Atacama",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 115.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393718.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 114.9,
      "url": null
     }
    }
