@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T23:05:20.116953Z",
+ "actualizado": "2026-11-27T23:10:22.331673Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 265
+   "n": 266
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 318
+   "n": 320
   }
  },
  "eventos": [
+  {
+   "id": "20261127230132_-22.31_-68.59",
+   "tiempo": "2026-11-27T23:01:32Z",
+   "lat": -22.314,
+   "lon": -68.595,
+   "prof": 106.0,
+   "lugar": "39 km al NE de Calama",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 106.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394869.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 105.7,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261127224657_-21.45_-66.72",
+   "tiempo": "2026-11-27T22:46:57Z",
+   "lat": -21.447,
+   "lon": -66.718,
+   "prof": 215.8,
+   "lugar": "POTOSI, BOLIVIA",
+   "ref": "EMSC",
+   "mag_max": 3.7,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.7,
+     "tipo": "m",
+     "prof": 215.8,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261127222939_-23.10_-69.05",
    "tiempo": "2026-11-27T22:29:39Z",
