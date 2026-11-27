@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T02:45:20.940544Z",
+ "actualizado": "2026-11-27T02:50:18.849293Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 276
+   "n": 275
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 328
+   "n": 327
   }
  },
  "eventos": [
@@ -7701,30 +7701,6 @@
      "mag": 4.8,
      "tipo": "mb",
      "prof": 109.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120024528_-20.36_-67.64",
-   "tiempo": "2026-11-20T02:45:28Z",
-   "lat": -20.362,
-   "lon": -67.645,
-   "prof": 236.0,
-   "lugar": "86 km al O de Uyuni",
-   "ref": "CSN",
-   "mag_max": 3.4,
-   "agencias": {
-    "CSN": {
-     "mag": 3.4,
-     "tipo": "Mlv",
-     "prof": 236.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393571.html"
-    },
-    "EMSC": {
-     "mag": 3.3,
-     "tipo": "ml",
-     "prof": 236.4,
      "url": null
     }
    }
