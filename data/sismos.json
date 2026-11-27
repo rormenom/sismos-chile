@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T03:40:20.183907Z",
+ "actualizado": "2026-11-27T03:45:21.395592Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 272
+   "n": 271
   },
   "USGS": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 325
+   "n": 324
   }
  },
  "eventos": [
@@ -7599,30 +7599,6 @@
      "mag": 3.3,
      "tipo": "ml",
      "prof": 24.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120034438_-21.91_-68.60",
-   "tiempo": "2026-11-20T03:44:38Z",
-   "lat": -21.91,
-   "lon": -68.601,
-   "prof": 127.0,
-   "lugar": "71 km al NE de Calama",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 127.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393582.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 126.5,
      "url": null
     }
    }
