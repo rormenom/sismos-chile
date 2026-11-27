@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-27T23:35:17.665469Z",
+ "actualizado": "2026-11-27T23:40:20.473020Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 266
+   "n": 265
   },
   "USGS": {
    "ok": true,
-   "n": 8
+   "n": 7
   },
   "GFZ": {
    "ok": true,
-   "n": 6
+   "n": 5
   },
   "EMSC": {
    "ok": true,
-   "n": 320
+   "n": 319
   }
  },
  "eventos": [
@@ -7443,42 +7443,6 @@
      "mag": 3.2,
      "tipo": "m",
      "prof": 107.0,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120233735_-31.77_-72.30",
-   "tiempo": "2026-11-20T23:37:35Z",
-   "lat": -31.77,
-   "lon": -72.3,
-   "prof": 36.0,
-   "lugar": "76 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 4.6,
-   "agencias": {
-    "CSN": {
-     "mag": 4.6,
-     "tipo": "Mw",
-     "prof": 36.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393771.html"
-    },
-    "USGS": {
-     "mag": 4.4,
-     "tipo": "mwr",
-     "prof": 10,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfa"
-    },
-    "GFZ": {
-     "mag": 4.4,
-     "tipo": "ML",
-     "prof": 10.0,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.5,
-     "tipo": "mw",
-     "prof": 16.0,
      "url": null
     }
    }
