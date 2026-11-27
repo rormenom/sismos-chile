@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T11:30:32.093988Z",
+ "actualizado": "2026-11-27T11:35:20.785333Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -19,6 +19,30 @@
   }
  },
  "eventos": [
+  {
+   "id": "20261127112542_-19.32_-69.12",
+   "tiempo": "2026-11-27T11:25:42Z",
+   "lat": -19.317,
+   "lon": -69.117,
+   "prof": 119.0,
+   "lugar": "32 km al E de Camiña",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 119.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394783.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 119.4,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261127110826_-22.56_-68.69",
    "tiempo": "2026-11-27T11:08:26Z",
@@ -7593,30 +7617,6 @@
      "mag": 2.9,
      "tipo": "ml",
      "prof": 30.1,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120113059_-21.72_-68.72",
-   "tiempo": "2026-11-20T11:30:59Z",
-   "lat": -21.724,
-   "lon": -68.72,
-   "prof": 120.0,
-   "lugar": "74 km al SO de Ollagüe",
-   "ref": "CSN",
-   "mag_max": 2.5,
-   "agencias": {
-    "CSN": {
-     "mag": 2.5,
-     "tipo": "Mlv",
-     "prof": 120.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393647.html"
-    },
-    "EMSC": {
-     "mag": 2.5,
-     "tipo": "ml",
-     "prof": 120.0,
      "url": null
     }
    }
