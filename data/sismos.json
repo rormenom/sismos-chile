@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T10:10:19.358496Z",
+ "actualizado": "2026-11-27T10:15:21.369726Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -36,7 +36,7 @@
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394774.html"
     },
     "EMSC": {
-     "mag": 2.8,
+     "mag": 2.9,
      "tipo": "ml",
      "prof": 105.2,
      "url": null
