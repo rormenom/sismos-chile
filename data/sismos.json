@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T22:35:15.263653Z",
+ "actualizado": "2026-11-27T22:40:20.135054Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 263
+   "n": 265
   },
   "USGS": {
    "ok": true,
@@ -15,20 +15,50 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 317
+   "n": 318
   }
  },
  "eventos": [
   {
+   "id": "20261127222939_-23.10_-69.05",
+   "tiempo": "2026-11-27T22:29:39Z",
+   "lat": -23.104,
+   "lon": -69.051,
+   "prof": 90.0,
+   "lugar": "36 km al SE de Sierra Gorda",
+   "ref": "CSN",
+   "mag_max": 3.3,
+   "agencias": {
+    "CSN": {
+     "mag": 3.3,
+     "tipo": "Mlv",
+     "prof": 90.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394865.html"
+    },
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 90.0,
+     "url": null
+    }
+   }
+  },
+  {
    "id": "20261127222704_-22.37_-67.90",
    "tiempo": "2026-11-27T22:27:04Z",
-   "lat": -22.37,
-   "lon": -67.9,
-   "prof": 204.8,
-   "lugar": "POTOSI, BOLIVIA",
-   "ref": "EMSC",
+   "lat": -22.373,
+   "lon": -67.901,
+   "prof": 205.0,
+   "lugar": "68 km al NE de San Pedro de Atacama",
+   "ref": "CSN",
    "mag_max": 2.9,
    "agencias": {
+    "CSN": {
+     "mag": 2.9,
+     "tipo": "Mlv",
+     "prof": 205.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394864.html"
+    },
     "EMSC": {
      "mag": 2.9,
      "tipo": "ml",
