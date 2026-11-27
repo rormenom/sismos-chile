@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T15:55:16.830967Z",
+ "actualizado": "2026-11-27T16:00:29.847465Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -6369,7 +6369,7 @@
    "prof": 203.882,
    "lugar": "84 km WNW of El Aguilar, Argentina",
    "ref": "USGS",
-   "mag_max": 5.0,
+   "mag_max": 4.99,
    "agencias": {
     "USGS": {
      "mag": 4.9,
@@ -6384,8 +6384,8 @@
      "url": null
     },
     "EMSC": {
-     "mag": 5.0,
-     "tipo": "mw",
+     "mag": 4.9,
+     "tipo": "mb",
      "prof": 223.0,
      "url": null
     }
