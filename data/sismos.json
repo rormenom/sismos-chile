@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-27T12:35:18.898472Z",
+ "actualizado": "2026-11-27T12:40:20.048461Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 270
   },
   "USGS": {
    "ok": true,
@@ -111,6 +111,24 @@
      "mag": 3.0,
      "tipo": "ml",
      "prof": 126.3,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261127101542_-32.88_-69.07",
+   "tiempo": "2026-11-27T10:15:42Z",
+   "lat": -32.885,
+   "lon": -69.067,
+   "prof": 23.0,
+   "lugar": "MENDOZA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 2.5,
+   "agencias": {
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "m",
+     "prof": 23.0,
      "url": null
     }
    }
@@ -7521,30 +7539,6 @@
      "mag": 4.0,
      "tipo": "ml",
      "prof": 24.8,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261120123700_-36.20_-73.43",
-   "tiempo": "2026-11-20T12:37:00Z",
-   "lat": -36.2,
-   "lon": -73.432,
-   "prof": 19.0,
-   "lugar": "58 km al O de Cobquecura",
-   "ref": "CSN",
-   "mag_max": 3.8,
-   "agencias": {
-    "CSN": {
-     "mag": 3.8,
-     "tipo": "Mlv",
-     "prof": 19.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393661.html"
-    },
-    "EMSC": {
-     "mag": 3.8,
-     "tipo": "ml",
-     "prof": 19.2,
      "url": null
     }
    }
