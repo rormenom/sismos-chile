@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T07:00:28.763118Z",
+ "actualizado": "2026-11-28T07:05:17.981584Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -204,7 +204,7 @@
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h"
     },
     "GFZ": {
-     "mag": 5.0,
+     "mag": 5.1,
      "tipo": "Mw",
      "prof": 168.2,
      "url": null
