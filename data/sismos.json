@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-28T14:05:17.867970Z",
+ "actualizado": "2026-11-28T14:10:20.878800Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 268
+   "n": 269
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,52 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 322
+   "n": 324
   }
  },
  "eventos": [
+  {
+   "id": "20261128140405_-23.98_-67.15",
+   "tiempo": "2026-11-28T14:04:05Z",
+   "lat": -23.98,
+   "lon": -67.15,
+   "prof": 186.4,
+   "lugar": "SALTA, ARGENTINA",
+   "ref": "EMSC",
+   "mag_max": 3.3,
+   "agencias": {
+    "EMSC": {
+     "mag": 3.3,
+     "tipo": "ml",
+     "prof": 186.4,
+     "url": null
+    }
+   }
+  },
+  {
+   "id": "20261128140113_-21.80_-68.61",
+   "tiempo": "2026-11-28T14:01:13Z",
+   "lat": -21.803,
+   "lon": -68.606,
+   "prof": 125.0,
+   "lugar": "74 km al SO de Ollagüe",
+   "ref": "CSN",
+   "mag_max": 2.7,
+   "agencias": {
+    "CSN": {
+     "mag": 2.7,
+     "tipo": "Mlv",
+     "prof": 125.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394955.html"
+    },
+    "EMSC": {
+     "mag": 2.7,
+     "tipo": "ml",
+     "prof": 124.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261128133105_-19.92_-69.36",
    "tiempo": "2026-11-28T13:31:05Z",
