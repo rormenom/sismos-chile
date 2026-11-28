@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-28T07:50:19.449715Z",
+ "actualizado": "2026-11-28T07:55:21.189911Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 266
+   "n": 267
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 319
+   "n": 320
   }
  },
  "eventos": [
+  {
+   "id": "20261128074446_-20.26_-70.86",
+   "tiempo": "2026-11-28T07:44:46Z",
+   "lat": -20.259,
+   "lon": -70.86,
+   "prof": 23.0,
+   "lugar": "74 km al O de Iquique",
+   "ref": "CSN",
+   "mag_max": 2.8,
+   "agencias": {
+    "CSN": {
+     "mag": 2.8,
+     "tipo": "Mlv",
+     "prof": 23.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394921.html"
+    },
+    "EMSC": {
+     "mag": 2.8,
+     "tipo": "ml",
+     "prof": 22.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261128072634_-28.68_-69.50",
    "tiempo": "2026-11-28T07:26:34Z",
