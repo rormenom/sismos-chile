@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T10:50:21.444348Z",
+ "actualizado": "2026-11-28T10:55:22.988113Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -10,8 +10,8 @@
    "n": 8
   },
   "GFZ": {
-   "ok": false,
-   "error": "HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "n": 6
   },
   "EMSC": {
    "ok": true,
@@ -395,6 +395,12 @@
      "prof": 78.805,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "Mw",
+     "prof": 81.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.6,
      "tipo": "mb",
@@ -460,6 +466,12 @@
      "tipo": "mww",
      "prof": 174.617,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1h"
+    },
+    "GFZ": {
+     "mag": 5.1,
+     "tipo": "Mw",
+     "prof": 180.0,
+     "url": null
     },
     "EMSC": {
      "mag": 5.2,
@@ -1891,10 +1903,16 @@
    "lat": -27.926,
    "lon": -66.797,
    "prof": 203.1,
-   "lugar": "CATAMARCA, ARGENTINA",
-   "ref": "EMSC",
-   "mag_max": 3.8,
+   "lugar": "Catamarca Province, Argentina",
+   "ref": "GFZ",
+   "mag_max": 4.3,
    "agencias": {
+    "GFZ": {
+     "mag": 4.3,
+     "tipo": "mb",
+     "prof": 203.1,
+     "url": null
+    },
     "EMSC": {
      "mag": 3.8,
      "tipo": "m",
@@ -3815,6 +3833,12 @@
      "prof": 50.858,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udb8"
     },
+    "GFZ": {
+     "mag": 4.5,
+     "tipo": "ML",
+     "prof": 21.4,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.6,
      "tipo": "mb",
@@ -4125,7 +4149,7 @@
    "prof": 48.0,
    "lugar": "23 km al SO de Huasco",
    "ref": "CSN",
-   "mag_max": 4.8,
+   "mag_max": 4.91,
    "agencias": {
     "CSN": {
      "mag": 4.8,
@@ -4138,6 +4162,12 @@
      "tipo": "mwr",
      "prof": 33.412,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud7h"
+    },
+    "GFZ": {
+     "mag": 4.9,
+     "tipo": "Mw",
+     "prof": 25.7,
+     "url": null
     },
     "EMSC": {
      "mag": 4.8,
@@ -7233,13 +7263,19 @@
    "prof": 203.882,
    "lugar": "84 km WNW of El Aguilar, Argentina",
    "ref": "USGS",
-   "mag_max": 4.9,
+   "mag_max": 4.99,
    "agencias": {
     "USGS": {
      "mag": 4.9,
      "tipo": "mb",
      "prof": 203.882,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucni"
+    },
+    "GFZ": {
+     "mag": 5.0,
+     "tipo": "Mw",
+     "prof": 206.9,
+     "url": null
     },
     "EMSC": {
      "mag": 4.9,
