@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T07:10:18.892704Z",
+ "actualizado": "2026-11-28T07:15:20.932896Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -11,7 +11,7 @@
   },
   "GFZ": {
    "ok": true,
-   "n": 5
+   "n": 6
   },
   "EMSC": {
    "ok": true,
@@ -137,10 +137,16 @@
      "prof": 78.805,
      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k"
     },
+    "GFZ": {
+     "mag": 4.4,
+     "tipo": "Mw",
+     "prof": 81.0,
+     "url": null
+    },
     "EMSC": {
      "mag": 4.6,
      "tipo": "mb",
-     "prof": 78.8,
+     "prof": 81.0,
      "url": null
     }
    }
