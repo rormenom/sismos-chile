@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-28T07:40:19.942796Z",
+ "actualizado": "2026-11-28T07:45:29.367190Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 266
   },
   "USGS": {
    "ok": true,
@@ -22,13 +22,19 @@
   {
    "id": "20261128072634_-28.68_-69.50",
    "tiempo": "2026-11-28T07:26:34Z",
-   "lat": -28.68,
-   "lon": -69.5,
-   "prof": 108.1,
-   "lugar": "SAN JUAN, ARGENTINA",
-   "ref": "EMSC",
+   "lat": -28.681,
+   "lon": -69.503,
+   "prof": 108.0,
+   "lugar": "96 km al E de Alto del Carmen",
+   "ref": "CSN",
    "mag_max": 2.6,
    "agencias": {
+    "CSN": {
+     "mag": 2.6,
+     "tipo": "Mlv",
+     "prof": 108.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394920.html"
+    },
     "EMSC": {
      "mag": 2.6,
      "tipo": "ml",
@@ -40,13 +46,19 @@
   {
    "id": "20261128071649_-23.98_-67.53",
    "tiempo": "2026-11-28T07:16:49Z",
-   "lat": -23.98,
-   "lon": -67.53,
-   "prof": 223.9,
-   "lugar": "ANTOFAGASTA, CHILE",
-   "ref": "EMSC",
+   "lat": -23.981,
+   "lon": -67.532,
+   "prof": 224.0,
+   "lugar": "57 km al SE de Socaire",
+   "ref": "CSN",
    "mag_max": 3.0,
    "agencias": {
+    "CSN": {
+     "mag": 3.0,
+     "tipo": "Mlv",
+     "prof": 224.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394917.html"
+    },
     "EMSC": {
      "mag": 3.0,
      "tipo": "ml",
