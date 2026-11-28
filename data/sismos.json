@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-11-28T01:20:20.691313Z",
+ "actualizado": "2026-11-28T01:25:18.444395Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 266
+   "n": 265
   },
   "USGS": {
    "ok": true,
-   "n": 7
+   "n": 6
   },
   "GFZ": {
    "ok": true,
-   "n": 5
+   "n": 4
   },
   "EMSC": {
    "ok": true,
-   "n": 319
+   "n": 318
   }
  },
  "eventos": [
@@ -7413,42 +7413,6 @@
      "mag": 4.0,
      "tipo": "ml",
      "prof": 15.9,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261121012408_-22.25_-68.71",
-   "tiempo": "2026-11-21T01:24:08Z",
-   "lat": -22.25,
-   "lon": -68.71,
-   "prof": 116.0,
-   "lugar": "33 km al NE de Calama",
-   "ref": "CSN",
-   "mag_max": 5.0,
-   "agencias": {
-    "CSN": {
-     "mag": 5.0,
-     "tipo": "Mlv",
-     "prof": 116.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393779.html"
-    },
-    "USGS": {
-     "mag": 4.7,
-     "tipo": "mwr",
-     "prof": 120.01,
-     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucg8"
-    },
-    "GFZ": {
-     "mag": 4.7,
-     "tipo": "Mw",
-     "prof": 122.0,
-     "url": null
-    },
-    "EMSC": {
-     "mag": 4.7,
-     "tipo": "mw",
-     "prof": 108.2,
      "url": null
     }
    }
