@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-28T15:25:18.995044Z",
+ "actualizado": "2026-11-28T15:30:23.225498Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 271
+   "n": 272
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 324
+   "n": 325
   }
  },
  "eventos": [
+  {
+   "id": "20261128152511_-21.11_-68.79",
+   "tiempo": "2026-11-28T15:25:11Z",
+   "lat": -21.105,
+   "lon": -68.786,
+   "prof": 123.0,
+   "lugar": "34 km al SO de Mina Collahuasi",
+   "ref": "CSN",
+   "mag_max": 3.9,
+   "agencias": {
+    "CSN": {
+     "mag": 3.9,
+     "tipo": "Mlv",
+     "prof": 123.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394966.html"
+    },
+    "EMSC": {
+     "mag": 3.9,
+     "tipo": "ml",
+     "prof": 123.0,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261128151843_-28.84_-71.39",
    "tiempo": "2026-11-28T15:18:43Z",
@@ -44,25 +68,25 @@
    }
   },
   {
-   "id": "20261128151658_-23.47_-68.24",
+   "id": "20261128151658_-23.35_-68.37",
    "tiempo": "2026-11-28T15:16:58Z",
-   "lat": -23.47,
-   "lon": -68.24,
-   "prof": 110.0,
-   "lugar": "38 km al O de Socaire",
+   "lat": -23.349,
+   "lon": -68.371,
+   "prof": 22.0,
+   "lugar": "51 km al S de San Pedro de Atacama",
    "ref": "CSN",
-   "mag_max": 3.9,
+   "mag_max": 4.0,
    "agencias": {
     "CSN": {
-     "mag": 3.9,
+     "mag": 4.0,
      "tipo": "Mlv",
-     "prof": 110.0,
+     "prof": 22.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394961.html"
     },
     "EMSC": {
-     "mag": 3.9,
+     "mag": 4.0,
      "tipo": "ml",
-     "prof": 110.0,
+     "prof": 21.8,
      "url": null
     }
    }
