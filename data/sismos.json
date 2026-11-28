@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-11-28T04:05:17.758805Z",
+ "actualizado": "2026-11-28T04:10:21.418386Z",
  "fuentes": {
   "CSN": {
    "ok": true,
-   "n": 264
+   "n": 265
   },
   "USGS": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 317
+   "n": 318
   }
  },
  "eventos": [
+  {
+   "id": "20261128040215_-22.58_-70.36",
+   "tiempo": "2026-11-28T04:02:15Z",
+   "lat": -22.577,
+   "lon": -70.362,
+   "prof": 40.0,
+   "lugar": "56 km al S de Tocopilla",
+   "ref": "CSN",
+   "mag_max": 2.5,
+   "agencias": {
+    "CSN": {
+     "mag": 2.5,
+     "tipo": "Mlv",
+     "prof": 40.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394903.html"
+    },
+    "EMSC": {
+     "mag": 2.5,
+     "tipo": "ml",
+     "prof": 40.5,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261128030319_-22.87_-69.09",
    "tiempo": "2026-11-28T03:03:19Z",
