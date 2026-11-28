@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T03:05:21.228901Z",
+ "actualizado": "2026-11-28T03:10:20.750318Z",
  "fuentes": {
   "CSN": {
    "ok": true,
@@ -7,7 +7,7 @@
   },
   "USGS": {
    "ok": true,
-   "n": 7
+   "n": 8
   },
   "GFZ": {
    "ok": true,
@@ -15,10 +15,34 @@
   },
   "EMSC": {
    "ok": true,
-   "n": 318
+   "n": 319
   }
  },
  "eventos": [
+  {
+   "id": "20261128030319_-22.87_-69.09",
+   "tiempo": "2026-11-28T03:03:19Z",
+   "lat": -22.872,
+   "lon": -69.087,
+   "prof": 97.0,
+   "lugar": "24 km al E de Sierra Gorda",
+   "ref": "CSN",
+   "mag_max": 3.6,
+   "agencias": {
+    "CSN": {
+     "mag": 3.6,
+     "tipo": "Mlv",
+     "prof": 97.0,
+     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394894.html"
+    },
+    "EMSC": {
+     "mag": 3.6,
+     "tipo": "ml",
+     "prof": 96.9,
+     "url": null
+    }
+   }
+  },
   {
    "id": "20261128025535_-18.97_-70.33",
    "tiempo": "2026-11-28T02:55:35Z",
@@ -27,13 +51,25 @@
    "prof": 78.0,
    "lugar": "27 km al NO de Cuya",
    "ref": "CSN",
-   "mag_max": 4.5,
+   "mag_max": 4.6,
    "agencias": {
     "CSN": {
      "mag": 4.5,
      "tipo": "Mw",
      "prof": 78.0,
      "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/394891.html"
+    },
+    "USGS": {
+     "mag": 4.6,
+     "tipo": "mb",
+     "prof": 78.805,
+     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue1k"
+    },
+    "EMSC": {
+     "mag": 4.6,
+     "tipo": "mb",
+     "prof": 78.8,
+     "url": null
     }
    }
   },
@@ -7431,30 +7467,6 @@
      "mag": 2.8,
      "tipo": "ml",
      "prof": 111.6,
-     "url": null
-    }
-   }
-  },
-  {
-   "id": "20261121030759_-31.83_-72.01",
-   "tiempo": "2026-11-21T03:07:59Z",
-   "lat": -31.829,
-   "lon": -72.007,
-   "prof": 20.0,
-   "lugar": "48 km al O de Los Vilos",
-   "ref": "CSN",
-   "mag_max": 2.6,
-   "agencias": {
-    "CSN": {
-     "mag": 2.6,
-     "tipo": "Mlv",
-     "prof": 20.0,
-     "url": "https://www.sismologia.cl/sismicidad/informes/2026/11/393797.html"
-    },
-    "EMSC": {
-     "mag": 2.6,
-     "tipo": "ml",
-     "prof": 20.4,
      "url": null
     }
    }
